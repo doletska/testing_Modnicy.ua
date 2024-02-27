@@ -1,0 +1,465 @@
+Предупреждения (456)
+URI : https://modnicy.ua/tpl/default/css/jquery.fancybox.css
+32		Свойство -webkit-border-radius - неизвестное расширение поставщика
+33		Свойство -moz-border-radius - неизвестное расширение поставщика
+42		Свойство -webkit-box-shadow - неизвестное расширение поставщика
+43		Свойство -moz-box-shadow - неизвестное расширение поставщика
+56		Свойство -webkit-overflow-scrolling - неизвестное расширение поставщика
+118		Свойство -webkit-tap-highlight-color - неизвестное расширение поставщика
+229		Свойство -webkit-border-radius - неизвестное расширение поставщика
+230		Свойство -moz-border-radius - неизвестное расширение поставщика
+260		Свойство -webkit-min-device-pixel-ratio - неизвестное расширение поставщика
+261		Свойство min--moz-device-pixel-ratio - неизвестное расширение поставщика
+262		Свойство min-device-pixel-ratio - неизвестное расширение поставщика
+URI : https://modnicy.ua/tpl/default/css/owlslider/owl.carousel.css?1507648488
+28		Свойство -ms-touch-action - неизвестное расширение поставщика
+33		Свойство -webkit-transform - неизвестное расширение поставщика
+41		Свойство -webkit-transition - неизвестное расширение поставщика
+42		Свойство -moz-transition - неизвестное расширение поставщика
+43		Свойство -ms-transition - неизвестное расширение поставщика
+44		Свойство -o-transition - неизвестное расширение поставщика
+56		Свойство -webkit-user-select - неизвестное расширение поставщика
+57		Свойство -khtml-user-select - неизвестное расширение поставщика
+58		Свойство -moz-user-select - неизвестное расширение поставщика
+59		Свойство -ms-user-select - неизвестное расширение поставщика
+61		Свойство -webkit-tap-highlight-color - неизвестное расширение поставщика
+72		Свойство -webkit-backface-visibility - неизвестное расширение поставщика
+73		Свойство -moz-backface-visibility - неизвестное расширение поставщика
+74		Свойство -ms-backface-visibility - неизвестное расширение поставщика
+75		Свойство -webkit-transform - неизвестное расширение поставщика
+76		Свойство -moz-transform - неизвестное расширение поставщика
+77		Свойство -ms-transform - неизвестное расширение поставщика
+URI : https://modnicy.ua/tpl/default/css/font-awesome.css
+19		Свойство -webkit-font-smoothing - неизвестное расширение поставщика
+20		Свойство -moz-osx-font-smoothing - неизвестное расширение поставщика
+93		Свойство -webkit-animation - неизвестное расширение поставщика
+97		Свойство -webkit-animation - неизвестное расширение поставщика
+100		Извините, но правило @-webkit-keyframes не реализовано.
+112		Свойство -webkit-transform - неизвестное расширение поставщика
+116		Свойство -webkit-transform - неизвестное расширение поставщика
+121		Свойство -ms-filter - неизвестное расширение поставщика
+122		Свойство -webkit-transform - неизвестное расширение поставщика
+123		Свойство -ms-transform - неизвестное расширение поставщика
+127		Свойство -ms-filter - неизвестное расширение поставщика
+128		Свойство -webkit-transform - неизвестное расширение поставщика
+129		Свойство -ms-transform - неизвестное расширение поставщика
+133		Свойство -ms-filter - неизвестное расширение поставщика
+134		Свойство -webkit-transform - неизвестное расширение поставщика
+135		Свойство -ms-transform - неизвестное расширение поставщика
+139		Свойство -ms-filter - неизвестное расширение поставщика
+140		Свойство -webkit-transform - неизвестное расширение поставщика
+141		Свойство -ms-transform - неизвестное расширение поставщика
+145		Свойство -ms-filter - неизвестное расширение поставщика
+146		Свойство -webkit-transform - неизвестное расширение поставщика
+147		Свойство -ms-transform - неизвестное расширение поставщика
+2188		The property clip is deprecated
+2198		The property clip is deprecated
+URI : https://modnicy.ua/tpl/default/css/bxslider/jquery.bxslider.css?1507648487
+21		*zoom is a CSS hack
+34		Свойство -webkit-transform - неизвестное расширение поставщика
+35		Свойство -moz-transform - неизвестное расширение поставщика
+36		Свойство -ms-transform - неизвестное расширение поставщика
+37		Свойство -o-transform - неизвестное расширение поставщика
+75		*zoom is a CSS hack
+76		*display is a CSS hack
+88		Свойство -moz-border-radius - неизвестное расширение поставщика
+89		Свойство -webkit-border-radius - неизвестное расширение поставщика
+189		#666\9 is a CSS hack
+URI : https://modnicy.ua/tpl/default/css/jquery.datetimepicker.css?1507648469
+15		Свойство -moz-box-sizing - неизвестное расширение поставщика
+39		Свойство -webkit-touch-callout - неизвестное расширение поставщика
+40		Свойство -webkit-user-select - неизвестное расширение поставщика
+41		Свойство -khtml-user-select - неизвестное расширение поставщика
+42		Свойство -moz-user-select - неизвестное расширение поставщика
+43		Свойство -ms-user-select - неизвестное расширение поставщика
+44		Свойство -o-user-select - неизвестное расширение поставщика
+49		::-moz-selection is a vendor extended pseudo-element
+58		Свойство -moz-box-sizing - неизвестное расширение поставщика
+151		Свойство -ms-filter - неизвестное расширение поставщика
+212		Свойство -ms-filter - неизвестное расширение поставщика
+347		Свойство -ms-filter - неизвестное расширение поставщика
+353		Свойство -ms-filter - неизвестное расширение поставщика
+537		Свойство -moz-linear-gradient(top,#fff 0%,#f4f8fa 73%) - неизвестное расширение поставщика
+539		Свойство -webkit-gradient(linear,left top,left bottom,color-stop(0%,#fff),color-stop(73%,#f4f8fa)) - неизвестное расширение поставщика
+541		Свойство -webkit-linear-gradient(top,#fff 0%,#f4f8fa 73%) - неизвестное расширение поставщика
+543		Свойство -o-linear-gradient(top,#fff 0%,#f4f8fa 73%) - неизвестное расширение поставщика
+545		Свойство -ms-linear-gradient(top,#fff 0%,#f4f8fa 73%) - неизвестное расширение поставщика
+549		Свойство progid:DXImageTransform.Microsoft.gradient( startColorstr='#fff', endColorstr='#f4f8fa',GradientType=0 ) - неизвестное расширение поставщика
+554		Свойство -moz-linear-gradient(top,#f4f8fa 0%,#FFF 73%) - неизвестное расширение поставщика
+556		Свойство -webkit-gradient(linear,left top,left bottom,color-stop(0%,#f4f8fa),color-stop(73%,#FFF)) - неизвестное расширение поставщика
+558		Свойство -webkit-linear-gradient(top,#f4f8fa 0%,#FFF 73%) - неизвестное расширение поставщика
+560		Свойство -o-linear-gradient(top,#f4f8fa 0%,#FFF 73%) - неизвестное расширение поставщика
+562		Свойство -ms-linear-gradient(top,#f4f8fa 0%,#FFF 73%) - неизвестное расширение поставщика
+566		Свойство progid:DXImageTransform.Microsoft.gradient( startColorstr='#f4f8fa', endColorstr='#FFF',GradientType=0 ) - неизвестное расширение поставщика
+URI : https://modnicy.ua/tpl/default/css/style.css?1597222316
+305		Свойство -webkit-transition - неизвестное расширение поставщика
+306		Свойство -khtml-transition - неизвестное расширение поставщика
+307		Свойство -moz-transition - неизвестное расширение поставщика
+308		Свойство -ms-transition - неизвестное расширение поставщика
+309		Свойство -o-transition - неизвестное расширение поставщика
+321		Свойство -moz-transform - неизвестное расширение поставщика
+323		Свойство -ms-transform - неизвестное расширение поставщика
+325		Свойство -webkit-transform - неизвестное расширение поставщика
+327		Свойство -o-transform - неизвестное расширение поставщика
+530		::-webkit-input-placeholder is a vendor extended pseudo-element
+535		::-moz-placeholder is a vendor extended pseudo-element
+540		:-moz-placeholder is a vendor extended pseudo-class
+545		:-ms-input-placeholder is a vendor extended pseudo-class
+1059		Свойство -webkit-transition - неизвестное расширение поставщика
+1060		Свойство -khtml-transition - неизвестное расширение поставщика
+1061		Свойство -moz-transition - неизвестное расширение поставщика
+1062		Свойство -ms-transition - неизвестное расширение поставщика
+1063		Свойство -o-transition - неизвестное расширение поставщика
+1085		Свойство -webkit-transform - неизвестное расширение поставщика
+1086		Свойство -moz-transform - неизвестное расширение поставщика
+1087		Свойство -o-transform - неизвестное расширение поставщика
+1088		Свойство -ms-transform - неизвестное расширение поставщика
+1160		Свойство -webkit-transition - неизвестное расширение поставщика
+1161		Свойство -khtml-transition - неизвестное расширение поставщика
+1162		Свойство -moz-transition - неизвестное расширение поставщика
+1163		Свойство -ms-transition - неизвестное расширение поставщика
+1164		Свойство -o-transition - неизвестное расширение поставщика
+1169		Свойство -webkit-transform - неизвестное расширение поставщика
+1170		Свойство -moz-transform - неизвестное расширение поставщика
+1171		Свойство -o-transform - неизвестное расширение поставщика
+1172		Свойство -ms-transform - неизвестное расширение поставщика
+1263		Свойство -webkit-transition - неизвестное расширение поставщика
+1264		Свойство -khtml-transition - неизвестное расширение поставщика
+1265		Свойство -moz-transition - неизвестное расширение поставщика
+1266		Свойство -ms-transition - неизвестное расширение поставщика
+1267		Свойство -o-transition - неизвестное расширение поставщика
+1272		Свойство -webkit-transform - неизвестное расширение поставщика
+1273		Свойство -moz-transform - неизвестное расширение поставщика
+1274		Свойство -o-transform - неизвестное расширение поставщика
+1275		Свойство -ms-transform - неизвестное расширение поставщика
+1478		Свойство -webkit-transition - неизвестное расширение поставщика
+1479		Свойство -khtml-transition - неизвестное расширение поставщика
+1480		Свойство -moz-transition - неизвестное расширение поставщика
+1481		Свойство -ms-transition - неизвестное расширение поставщика
+1482		Свойство -o-transition - неизвестное расширение поставщика
+1487		Свойство -webkit-transform - неизвестное расширение поставщика
+1488		Свойство -moz-transform - неизвестное расширение поставщика
+1489		Свойство -o-transform - неизвестное расширение поставщика
+1490		Свойство -ms-transform - неизвестное расширение поставщика
+2187		Свойство -webkit-font-smoothing - неизвестное расширение поставщика
+2366		Свойство -webkit-transition - неизвестное расширение поставщика
+2367		Свойство -khtml-transition - неизвестное расширение поставщика
+2368		Свойство -moz-transition - неизвестное расширение поставщика
+2369		Свойство -ms-transition - неизвестное расширение поставщика
+2370		Свойство -o-transition - неизвестное расширение поставщика
+2391		Свойство -webkit-transform - неизвестное расширение поставщика
+2392		Свойство -moz-transform - неизвестное расширение поставщика
+2393		Свойство -o-transform - неизвестное расширение поставщика
+2394		Свойство -ms-transform - неизвестное расширение поставщика
+2586		Свойство -moz-user-select - неизвестное расширение поставщика
+2587		Свойство -webkit-user-drag - неизвестное расширение поставщика
+2588		Свойство -webkit-user-select - неизвестное расширение поставщика
+2589		Свойство -ms-user-select - неизвестное расширение поставщика
+3209		Свойство -webkit-transition - неизвестное расширение поставщика
+3210		Свойство -khtml-transition - неизвестное расширение поставщика
+3211		Свойство -moz-transition - неизвестное расширение поставщика
+3212		Свойство -ms-transition - неизвестное расширение поставщика
+3213		Свойство -o-transition - неизвестное расширение поставщика
+3218		Свойство -webkit-transform - неизвестное расширение поставщика
+3219		Свойство -moz-transform - неизвестное расширение поставщика
+3220		Свойство -o-transform - неизвестное расширение поставщика
+3221		Свойство -ms-transform - неизвестное расширение поставщика
+3554	.category-filter	Одинаковые цвета для background-color и color
+3718		Свойство -webkit-transform - неизвестное расширение поставщика
+3726		Свойство -webkit-transform - неизвестное расширение поставщика
+3783		Свойство -webkit-animation - неизвестное расширение поставщика
+3784		Свойство -webkit-transform - неизвестное расширение поставщика
+3819		Свойство -webkit-transform - неизвестное расширение поставщика
+3834		Свойство -moz-user-select - неизвестное расширение поставщика
+3835		Свойство -ms-user-select - неизвестное расширение поставщика
+3836		Свойство -webkit-user-select - неизвестное расширение поставщика
+3869		Свойство -webkit-transform - неизвестное расширение поставщика
+3870		Свойство -webkit-transform-origin - неизвестное расширение поставщика
+URI : https://modnicy.ua/tpl/default/css/bootstrap.min.css?1507648469
+6		Свойство -ms-text-size-adjust - неизвестное расширение поставщика
+6		Свойство -webkit-text-size-adjust - неизвестное расширение поставщика
+6		Свойство -webkit-text-decoration-skip - неизвестное расширение поставщика
+6		Свойство -webkit-box-sizing - неизвестное расширение поставщика
+6		Свойство -webkit-appearance - неизвестное расширение поставщика
+6		::-moz-focus-inner is a vendor extended pseudo-element
+6		::-moz-focus-inner is a vendor extended pseudo-element
+6		::-moz-focus-inner is a vendor extended pseudo-element
+6		::-moz-focus-inner is a vendor extended pseudo-element
+6		:-moz-focusring is a vendor extended pseudo-class
+6		:-moz-focusring is a vendor extended pseudo-class
+6		:-moz-focusring is a vendor extended pseudo-class
+6		:-moz-focusring is a vendor extended pseudo-class
+6		Свойство -webkit-box-sizing - неизвестное расширение поставщика
+6		Свойство -webkit-box-sizing - неизвестное расширение поставщика
+6		::-webkit-inner-spin-button is a vendor extended pseudo-element
+6		::-webkit-outer-spin-button is a vendor extended pseudo-element
+6		Свойство -webkit-appearance - неизвестное расширение поставщика
+6		::-webkit-search-cancel-button is a vendor extended pseudo-element
+6		::-webkit-search-decoration is a vendor extended pseudo-element
+6		Свойство -webkit-appearance - неизвестное расширение поставщика
+6		::-webkit-input-placeholder is a vendor extended pseudo-element
+6		::-webkit-file-upload-button is a vendor extended pseudo-element
+6		Свойство -webkit-appearance - неизвестное расширение поставщика
+6		Свойство -webkit-box-shadow - неизвестное расширение поставщика
+6		Свойство -webkit-box-sizing - неизвестное расширение поставщика
+6		Свойство -webkit-box-sizing - неизвестное расширение поставщика
+6		Извините, но правило @-ms-viewport не реализовано.
+6		Свойство -ms-overflow-style - неизвестное расширение поставщика
+6		Свойство -webkit-tap-highlight-color - неизвестное расширение поставщика
+6		Свойство -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif - неизвестное расширение поставщика
+6		Свойство 5px auto -webkit-focus-ring-color - неизвестное расширение поставщика
+6		Свойство -ms-touch-action - неизвестное расширение поставщика
+6		Свойство 5px auto -webkit-focus-ring-color - неизвестное расширение поставщика
+6		Свойство -webkit-appearance - неизвестное расширение поставщика
+6		Свойство -webkit-appearance - неизвестное расширение поставщика
+6		Свойство -webkit-transition - неизвестное расширение поставщика
+6		Свойство -o-transition - неизвестное расширение поставщика
+6		Свойство -webkit-background-clip - неизвестное расширение поставщика
+6		::-ms-expand is a vendor extended pseudo-element
+6		::-webkit-input-placeholder is a vendor extended pseudo-element
+6		::-moz-placeholder is a vendor extended pseudo-element
+6		:-ms-input-placeholder is a vendor extended pseudo-class
+6		::-ms-value is a vendor extended pseudo-element
+6		Свойство -webkit-background-size - неизвестное расширение поставщика
+6		Свойство -webkit-box-shadow - неизвестное расширение поставщика
+6		Свойство -webkit-box-shadow - неизвестное расширение поставщика
+6		Свойство -webkit-box-shadow - неизвестное расширение поставщика
+6		Свойство -webkit-user-select - неизвестное расширение поставщика
+6		Свойство -moz-user-select - неизвестное расширение поставщика
+6		Свойство -ms-user-select - неизвестное расширение поставщика
+6		Свойство 5px auto -webkit-focus-ring-color - неизвестное расширение поставщика
+6		Свойство -webkit-transition - неизвестное расширение поставщика
+6		Свойство -o-transition - неизвестное расширение поставщика
+6		Свойство -webkit-transition-timing-function - неизвестное расширение поставщика
+6		Свойство -o-transition-timing-function - неизвестное расширение поставщика
+6		Свойство -webkit-transition-duration - неизвестное расширение поставщика
+6		Свойство -o-transition-duration - неизвестное расширение поставщика
+6		Свойство -webkit-transition-property - неизвестное расширение поставщика
+6		Свойство -o-transition-property - неизвестное расширение поставщика
+6		Свойство -webkit-background-clip - неизвестное расширение поставщика
+6		The property clip is deprecated
+6		Свойство -webkit-box-shadow - неизвестное расширение поставщика
+6		Свойство -webkit-user-select - неизвестное расширение поставщика
+6		Свойство -moz-user-select - неизвестное расширение поставщика
+6		Свойство -ms-user-select - неизвестное расширение поставщика
+6		Свойство -webkit-background-size - неизвестное расширение поставщика
+6		.75rem\9 is a CSS hack
+6		Свойство -webkit-background-size - неизвестное расширение поставщика
+6		Свойство -moz-appearance - неизвестное расширение поставщика
+6		Свойство -webkit-appearance - неизвестное расширение поставщика
+6		::-ms-value is a vendor extended pseudo-element
+6		::-ms-expand is a vendor extended pseudo-element
+6		Свойство alpha(opacity=0) - неизвестное расширение поставщика
+6		Свойство -webkit-user-select - неизвестное расширение поставщика
+6		Свойство -moz-user-select - неизвестное расширение поставщика
+6		Свойство -ms-user-select - неизвестное расширение поставщика
+6		Свойство -webkit-sticky - неизвестное расширение поставщика
+6		Свойство -webkit-background-size - неизвестное расширение поставщика
+6		Свойство -webkit-column-count - неизвестное расширение поставщика
+6		Свойство -moz-column-count - неизвестное расширение поставщика
+6		Свойство -webkit-column-gap - неизвестное расширение поставщика
+6		Свойство -moz-column-gap - неизвестное расширение поставщика
+6		Извините, но правило @-webkit-keyframes не реализовано.
+6		Извините, но правило @-o-keyframes не реализовано.
+6		Свойство -webkit-appearance - неизвестное расширение поставщика
+6		Свойство -moz-appearance - неизвестное расширение поставщика
+6		::-ms-fill is a vendor extended pseudo-element
+6		::-moz-progress-bar is a vendor extended pseudo-element
+6		::-webkit-progress-value is a vendor extended pseudo-element
+6		::-moz-progress-bar is a vendor extended pseudo-element
+6		::-webkit-progress-value is a vendor extended pseudo-element
+6		::-webkit-progress-bar is a vendor extended pseudo-element
+6		::-moz-progress-bar is a vendor extended pseudo-element
+6		0\0 is a CSS hack
+6		::-webkit-progress-value is a vendor extended pseudo-element
+6		Свойство -webkit-linear-gradient(45deg,rgb(255, 255, 255, 0.15) 25%,transparent 25%,transparent 50%,rgb(255, 255, 255, 0.15) 50%,rgb(255, 255, 255, 0.15) 75%,transparent 75%,transparent) - неизвестное расширение поставщика
+6		Свойство -webkit-background-size - неизвестное расширение поставщика
+6		::-moz-progress-bar is a vendor extended pseudo-element
+6		::-ms-fill is a vendor extended pseudo-element
+6		0\0 is a CSS hack
+6		Свойство -webkit-linear-gradient(45deg,rgb(255, 255, 255, 0.15) 25%,transparent 25%,transparent 50%,rgb(255, 255, 255, 0.15) 50%,rgb(255, 255, 255, 0.15) 75%,transparent 75%,transparent) - неизвестное расширение поставщика
+6		Свойство -o-linear-gradient(45deg,rgb(255, 255, 255, 0.15) 25%,transparent 25%,transparent 50%,rgb(255, 255, 255, 0.15) 50%,rgb(255, 255, 255, 0.15) 75%,transparent 75%,transparent) - неизвестное расширение поставщика
+6		Свойство -webkit-background-size - неизвестное расширение поставщика
+6		::-webkit-progress-value is a vendor extended pseudo-element
+6		Свойство -webkit-animation - неизвестное расширение поставщика
+6		::-moz-progress-bar is a vendor extended pseudo-element
+6		0\0 is a CSS hack
+6		Свойство -webkit-animation - неизвестное расширение поставщика
+6		Свойство -o-animation - неизвестное расширение поставщика
+6		::-webkit-progress-value is a vendor extended pseudo-element
+6		::-moz-progress-bar is a vendor extended pseudo-element
+6		::-ms-fill is a vendor extended pseudo-element
+6		0\0 is a CSS hack
+6		::-webkit-progress-value is a vendor extended pseudo-element
+6		::-moz-progress-bar is a vendor extended pseudo-element
+6		::-ms-fill is a vendor extended pseudo-element
+6		0\0 is a CSS hack
+6		::-webkit-progress-value is a vendor extended pseudo-element
+6		::-moz-progress-bar is a vendor extended pseudo-element
+6		::-ms-fill is a vendor extended pseudo-element
+6		0\0 is a CSS hack
+6		::-webkit-progress-value is a vendor extended pseudo-element
+6		::-moz-progress-bar is a vendor extended pseudo-element
+6		::-ms-fill is a vendor extended pseudo-element
+6		0\0 is a CSS hack
+6		Свойство -webkit-appearance - неизвестное расширение поставщика
+6		Свойство -webkit-transition - неизвестное расширение поставщика
+6		Свойство -webkit-transform 0.3s ease-out - неизвестное расширение поставщика
+6		Свойство -o-transition - неизвестное расширение поставщика
+6		Свойство transform 0.3s ease-out,-webkit-transform 0.3s ease-out,-o-transform 0.3s ease-out - неизвестное расширение поставщика
+6		Свойство -webkit-transform - неизвестное расширение поставщика
+6		Свойство -ms-transform - неизвестное расширение поставщика
+6		Свойство -o-transform - неизвестное расширение поставщика
+6		Свойство -webkit-transform - неизвестное расширение поставщика
+6		Свойство -ms-transform - неизвестное расширение поставщика
+6		Свойство -o-transform - неизвестное расширение поставщика
+6		Свойство -webkit-background-clip - неизвестное расширение поставщика
+6		Свойство -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif - неизвестное расширение поставщика
+6		Свойство -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif - неизвестное расширение поставщика
+6		Свойство -webkit-background-clip - неизвестное расширение поставщика
+6		Свойство -webkit-transition - неизвестное расширение поставщика
+6		Свойство -o-transition - неизвестное расширение поставщика
+6		Свойство transform-3d - неизвестное расширение поставщика
+6		Свойство -webkit-transform-3d - неизвестное расширение поставщика
+6		Свойство -webkit-transition - неизвестное расширение поставщика
+6		Свойство -webkit-transform 0.6s ease-in-out - неизвестное расширение поставщика
+6		Свойство -o-transition - неизвестное расширение поставщика
+6		Свойство transform 0.6s ease-in-out,-webkit-transform 0.6s ease-in-out,-o-transform 0.6s ease-in-out - неизвестное расширение поставщика
+6		Свойство -webkit-backface-visibility - неизвестное расширение поставщика
+6		Свойство -webkit-perspective - неизвестное расширение поставщика
+6		Свойство -webkit-transform - неизвестное расширение поставщика
+6		Свойство -webkit-transform - неизвестное расширение поставщика
+6		Свойство -webkit-transform - неизвестное расширение поставщика
+6		Свойство -webkit-gradient(linear,left top,right top,from(rgb(0, 0, 0, 0.5)),to(rgb(0, 0, 0, 0.0001))) - неизвестное расширение поставщика
+6		Свойство -webkit-linear-gradient(left,rgb(0, 0, 0, 0.5) 0%,rgb(0, 0, 0, 0.0001) 100%) - неизвестное расширение поставщика
+6		Свойство -o-linear-gradient(left,rgb(0, 0, 0, 0.5) 0%,rgb(0, 0, 0, 0.0001) 100%) - неизвестное расширение поставщика
+6		Свойство progid:DXImageTransform.Microsoft.gradient(startColorstr='#80000000', endColorstr='#00000000', GradientType=1) - неизвестное расширение поставщика
+6		Свойство -webkit-gradient(linear,left top,right top,from(rgb(0, 0, 0, 0.0001)),to(rgb(0, 0, 0, 0.5))) - неизвестное расширение поставщика
+6		Свойство -webkit-linear-gradient(left,rgb(0, 0, 0, 0.0001) 0%,rgb(0, 0, 0, 0.5) 100%) - неизвестное расширение поставщика
+6		Свойство -o-linear-gradient(left,rgb(0, 0, 0, 0.0001) 0%,rgb(0, 0, 0, 0.5) 100%) - неизвестное расширение поставщика
+6		Свойство progid:DXImageTransform.Microsoft.gradient(startColorstr='#00000000', endColorstr='#80000000', GradientType=1) - неизвестное расширение поставщика
+6		The property clip is deprecated
+6		The property clip is deprecated
+6	.btn-danger	Одинаковые цвета для background-color и border-color
+6	.btn-danger.disabled.focus	Одинаковые цвета для background-color и border-color
+6	.btn-danger.disabled:focus	Одинаковые цвета для background-color и border-color
+6	.btn-danger.disabled:hover	Одинаковые цвета для background-color и border-color
+6	.btn-danger:disabled.focus	Одинаковые цвета для background-color и border-color
+6	.btn-danger:disabled:focus	Одинаковые цвета для background-color и border-color
+6	.btn-danger:disabled:hover	Одинаковые цвета для background-color и border-color
+6	.btn-info	Одинаковые цвета для background-color и border-color
+6	.btn-info.disabled.focus	Одинаковые цвета для background-color и border-color
+6	.btn-info.disabled:focus	Одинаковые цвета для background-color и border-color
+6	.btn-info.disabled:hover	Одинаковые цвета для background-color и border-color
+6	.btn-info:disabled.focus	Одинаковые цвета для background-color и border-color
+6	.btn-info:disabled:focus	Одинаковые цвета для background-color и border-color
+6	.btn-info:disabled:hover	Одинаковые цвета для background-color и border-color
+6		Одинаковые цвета для background-color и border-color
+6	.btn-link:active	Одинаковые цвета для background-color и border-color
+6		Одинаковые цвета для background-color и border-color
+6		Одинаковые цвета для background-color и border-color
+6	.btn-outline-danger.active	Одинаковые цвета для background-color и border-color
+6	.btn-outline-danger.focus	Одинаковые цвета для background-color и border-color
+6	.btn-outline-danger:active	Одинаковые цвета для background-color и border-color
+6	.btn-outline-danger:focus	Одинаковые цвета для background-color и border-color
+6	.btn-outline-danger:hover	Одинаковые цвета для background-color и border-color
+6	.btn-outline-info.active	Одинаковые цвета для background-color и border-color
+6	.btn-outline-info.focus	Одинаковые цвета для background-color и border-color
+6	.btn-outline-info:active	Одинаковые цвета для background-color и border-color
+6	.btn-outline-info:focus	Одинаковые цвета для background-color и border-color
+6	.btn-outline-info:hover	Одинаковые цвета для background-color и border-color
+6	.btn-outline-primary.active	Одинаковые цвета для background-color и border-color
+6	.btn-outline-primary.focus	Одинаковые цвета для background-color и border-color
+6	.btn-outline-primary:active	Одинаковые цвета для background-color и border-color
+6	.btn-outline-primary:focus	Одинаковые цвета для background-color и border-color
+6	.btn-outline-primary:hover	Одинаковые цвета для background-color и border-color
+6	.btn-outline-secondary.active	Одинаковые цвета для background-color и border-color
+6	.btn-outline-secondary.focus	Одинаковые цвета для background-color и border-color
+6	.btn-outline-secondary:active	Одинаковые цвета для background-color и border-color
+6	.btn-outline-secondary:focus	Одинаковые цвета для background-color и border-color
+6	.btn-outline-secondary:hover	Одинаковые цвета для background-color и border-color
+6	.btn-outline-success.active	Одинаковые цвета для background-color и border-color
+6	.btn-outline-success.focus	Одинаковые цвета для background-color и border-color
+6	.btn-outline-success:active	Одинаковые цвета для background-color и border-color
+6	.btn-outline-success:focus	Одинаковые цвета для background-color и border-color
+6	.btn-outline-success:hover	Одинаковые цвета для background-color и border-color
+6	.btn-outline-warning.active	Одинаковые цвета для background-color и border-color
+6	.btn-outline-warning.focus	Одинаковые цвета для background-color и border-color
+6	.btn-outline-warning:active	Одинаковые цвета для background-color и border-color
+6	.btn-outline-warning:focus	Одинаковые цвета для background-color и border-color
+6	.btn-outline-warning:hover	Одинаковые цвета для background-color и border-color
+6	.btn-primary	Одинаковые цвета для background-color и border-color
+6	.btn-primary.disabled.focus	Одинаковые цвета для background-color и border-color
+6	.btn-primary.disabled:focus	Одинаковые цвета для background-color и border-color
+6	.btn-primary.disabled:hover	Одинаковые цвета для background-color и border-color
+6	.btn-primary:disabled.focus	Одинаковые цвета для background-color и border-color
+6	.btn-primary:disabled:focus	Одинаковые цвета для background-color и border-color
+6	.btn-primary:disabled:hover	Одинаковые цвета для background-color и border-color
+6	.btn-success	Одинаковые цвета для background-color и border-color
+6	.btn-success.disabled.focus	Одинаковые цвета для background-color и border-color
+6	.btn-success.disabled:focus	Одинаковые цвета для background-color и border-color
+6	.btn-success.disabled:hover	Одинаковые цвета для background-color и border-color
+6	.btn-success:disabled.focus	Одинаковые цвета для background-color и border-color
+6	.btn-success:disabled:focus	Одинаковые цвета для background-color и border-color
+6	.btn-success:disabled:hover	Одинаковые цвета для background-color и border-color
+6	.btn-warning	Одинаковые цвета для background-color и border-color
+6	.btn-warning.disabled.focus	Одинаковые цвета для background-color и border-color
+6	.btn-warning.disabled:focus	Одинаковые цвета для background-color и border-color
+6	.btn-warning.disabled:hover	Одинаковые цвета для background-color и border-color
+6	.btn-warning:disabled.focus	Одинаковые цвета для background-color и border-color
+6	.btn-warning:disabled:focus	Одинаковые цвета для background-color и border-color
+6	.btn-warning:disabled:hover	Одинаковые цвета для background-color и border-color
+6	.card-danger	Одинаковые цвета для background-color и border-color
+6	.card-info	Одинаковые цвета для background-color и border-color
+6	.card-primary	Одинаковые цвета для background-color и border-color
+6	.card-success	Одинаковые цвета для background-color и border-color
+6	.card-warning	Одинаковые цвета для background-color и border-color
+6	.list-group-item.active	Одинаковые цвета для background-color и border-color
+6	.list-group-item.active:focus	Одинаковые цвета для background-color и border-color
+6	.list-group-item.active:hover	Одинаковые цвета для background-color и border-color
+6	.nav-tabs .nav-link.disabled	Одинаковые цвета для background-color и border-color
+6	.nav-tabs .nav-link.disabled:focus	Одинаковые цвета для background-color и border-color
+6	.nav-tabs .nav-link.disabled:hover	Одинаковые цвета для background-color и border-color
+6	.open > .btn-outline-danger.dropdown-toggle	Одинаковые цвета для background-color и border-color
+6	.open > .btn-outline-info.dropdown-toggle	Одинаковые цвета для background-color и border-color
+6	.open > .btn-outline-primary.dropdown-toggle	Одинаковые цвета для background-color и border-color
+6	.open > .btn-outline-secondary.dropdown-toggle	Одинаковые цвета для background-color и border-color
+6	.open > .btn-outline-success.dropdown-toggle	Одинаковые цвета для background-color и border-color
+6	.open > .btn-outline-warning.dropdown-toggle	Одинаковые цвета для background-color и border-color
+6	.page-item.active .page-link	Одинаковые цвета для background-color и border-color
+6	.page-item.active .page-link:focus	Одинаковые цвета для background-color и border-color
+6	.page-item.active .page-link:hover	Одинаковые цвета для background-color и border-color
+6	.text-hide	Одинаковые цвета для background-color и color
+6	a.list-group-item-danger.active	Одинаковые цвета для background-color и border-color
+6	a.list-group-item-danger.active:focus	Одинаковые цвета для background-color и border-color
+6	a.list-group-item-danger.active:hover	Одинаковые цвета для background-color и border-color
+6	a.list-group-item-info.active	Одинаковые цвета для background-color и border-color
+6	a.list-group-item-info.active:focus	Одинаковые цвета для background-color и border-color
+6	a.list-group-item-info.active:hover	Одинаковые цвета для background-color и border-color
+6	a.list-group-item-success.active	Одинаковые цвета для background-color и border-color
+6	a.list-group-item-success.active:focus	Одинаковые цвета для background-color и border-color
+6	a.list-group-item-success.active:hover	Одинаковые цвета для background-color и border-color
+6	a.list-group-item-warning.active	Одинаковые цвета для background-color и border-color
+6	a.list-group-item-warning.active:focus	Одинаковые цвета для background-color и border-color
+6	a.list-group-item-warning.active:hover	Одинаковые цвета для background-color и border-color
+6	button.list-group-item-danger.active	Одинаковые цвета для background-color и border-color
+6	button.list-group-item-danger.active:focus	Одинаковые цвета для background-color и border-color
+6	button.list-group-item-danger.active:hover	Одинаковые цвета для background-color и border-color
+6	button.list-group-item-info.active	Одинаковые цвета для background-color и border-color
+6	button.list-group-item-info.active:focus	Одинаковые цвета для background-color и border-color
+6	button.list-group-item-info.active:hover	Одинаковые цвета для background-color и border-color
+6	button.list-group-item-success.active	Одинаковые цвета для background-color и border-color
+6	button.list-group-item-success.active:focus	Одинаковые цвета для background-color и border-color
+6	button.list-group-item-success.active:hover	Одинаковые цвета для background-color и border-color
+6	button.list-group-item-warning.active	Одинаковые цвета для background-color и border-color
+6	button.list-group-item-warning.active:focus	Одинаковые цвета для background-color и border-color
+6	button.list-group-item-warning.active:hover	Одинаковые цвета для background-color и border-color
+URI : https://modnicy.ua/tpl/default/css/jquery.fancybox-buttons.css
+25		Свойство -webkit-box-shadow - неизвестное расширение поставщика
+26		Свойство -moz-box-shadow - неизвестное расширение поставщика
+29		Свойство -moz-linear-gradient(top,rgb(68, 68, 68) 0%,rgb(52, 52, 52) 50%,rgb(41, 41, 41) 50%,rgb(51, 51, 51) 100%) - неизвестное расширение поставщика
+30		Свойство -webkit-gradient(linear,left top,left bottom,color-stop(0%,rgb(68, 68, 68)),color-stop(50%,rgb(52, 52, 52)),color-stop(50%,rgb(41, 41, 41)),color-stop(100%,rgb(51, 51, 51))) - неизвестное расширение поставщика
+31		Свойство -webkit-linear-gradient(top,rgb(68, 68, 68) 0%,rgb(52, 52, 52) 50%,rgb(41, 41, 41) 50%,rgb(51, 51, 51) 100%) - неизвестное расширение поставщика
+32		Свойство -o-linear-gradient(top,rgb(68, 68, 68) 0%,rgb(52, 52, 52) 50%,rgb(41, 41, 41) 50%,rgb(51, 51, 51) 100%) - неизвестное расширение поставщика
+33		Свойство -ms-linear-gradient(top,rgb(68, 68, 68) 0%,rgb(52, 52, 52) 50%,rgb(41, 41, 41) 50%,rgb(51, 51, 51) 100%) - неизвестное расширение поставщика
+35		Свойство progid:DXImageTransform.Microsoft.gradient( startColorstr='#444444', endColorstr='#222222',GradientType=0 ) - неизвестное расширение поставщика

@@ -1,0 +1,2794 @@
+
+Посилання на повний звіт
+https://validator.w3.org/checklink?uri=https%3A%2F%2Fmodnicy.ua&hide_type=all&depth=&check=Check#d1code_-4
+
+Parsing...
+ done (1815 lines in 0.09 seconds).
+Checking anchors...
+ done.
+
+Checking link https://modnicy.ua/catalog/kostyumy-bryuchnye-yubochnye/params/1=569
+HEAD https://modnicy.ua/catalog/kostyumy-bryuchnye-yubochnye/params/1=569  fetched in 2.02 seconds
+
+Checking link https://www.googletagmanager.com/gtag/js?id=UA-136879069-1
+HEAD https://www.googletagmanager.com/gtag/js?id=UA-136879069-1  fetched in 1.14 seconds
+
+Checking link https://modnicy.ua/catalog/bluzki/params/1=581
+HEAD https://modnicy.ua/catalog/bluzki/params/1=581  fetched in 1.13 seconds
+
+Checking link https://www.googletagmanager.com/ns.html?id=GTM-5WXC86S
+HEAD https://www.googletagmanager.com/ns.html?id=GTM-5WXC86S  fetched in 0.03 seconds
+
+Checking link https://modnicy.ua/catalog/detskaya-odezhda/params/1=311
+HEAD https://modnicy.ua/catalog/detskaya-odezhda/params/1=311  fetched in 3.62 seconds
+
+Checking link https://www.googletagmanager.com/ns.html?id=GTM-PMPLP34
+HEAD https://www.googletagmanager.com/ns.html?id=GTM-PMPLP34  fetched in 0.04 seconds
+
+Checking link https://modnicy.ua/tpl/default/js/jquery.fancybox-buttons.js?1518794961
+HEAD https://modnicy.ua/tpl/default/js/jquery.fancybox-buttons.js?1518794961  fetched in 3.25 seconds
+
+Checking link https://www.facebook.com/tr?id=234899330683791&ev=PageView&noscript=1
+HEAD https://www.facebook.com/tr?id=234899330683791&ev=PageView&noscript=1  fetched in 0.21 seconds
+
+Checking link https://modnicy.ua/catalog/kardigany/params/1=595
+HEAD https://modnicy.ua/catalog/kardigany/params/1=595  fetched in 2.17 seconds
+
+Checking link https://www.facebook.com/modnicy.ua/
+HEAD https://www.facebook.com/modnicy.ua/  fetched in 0.00 seconds
+
+Checking link https://modnicy.ua/files/product/0/44280/more/41301_s.jpg
+HEAD https://modnicy.ua/files/product/0/44280/more/41301_s.jpg  fetched in 1.12 seconds
+
+Checking link javascript:post_currency(1);
+HEAD javascript:post_currency(1);  fetched in 0.00 seconds
+
+Checking link https://modnicy.ua/catalog/shorty/params/1=187
+HEAD https://modnicy.ua/catalog/shorty/params/1=187  fetched in 4.34 seconds
+
+Checking link javascript:post_currency(2);
+HEAD javascript:post_currency(2);  fetched in 0.00 seconds
+
+Checking link https://modnicy.ua/catalog/futbolka/params/1=262
+HEAD https://modnicy.ua/catalog/futbolka/params/1=262  fetched in 3.02 seconds
+
+Checking link https://t.me/modnicyplus
+HEAD https://t.me/modnicyplus  fetched in 1.46 seconds
+
+Checking link https://modnicy.ua/files/catalog/237_s.jpg
+HEAD https://modnicy.ua/files/catalog/237_s.jpg  fetched in 0.12 seconds
+
+Checking link https://www.instagram.com/modnicy.ua/
+HEAD https://www.instagram.com/modnicy.ua/ 
+-> HEAD https://www.instagram.com/accounts/login/?next=https%3A%2F%2Fwww.instagram.com%2Fmodnicy.ua%2F  fetched in 3.33 seconds
+
+Checking link https://modnicy.ua/catalog/kostyumy-bryuchnye-yubochnye/params/1=624
+HEAD https://modnicy.ua/catalog/kostyumy-bryuchnye-yubochnye/params/1=624  fetched in 1.35 seconds
+
+Checking link https://skylogic.com.ua/
+HEAD https://skylogic.com.ua/  fetched in 3.44 seconds
+
+Checking link https://modnicy.ua/catalog/sportivnaya-odezhda/params/1=232
+HEAD https://modnicy.ua/catalog/sportivnaya-odezhda/params/1=232  fetched in 1.21 seconds
+
+Checking link https://invite.viber.com/?g2=AQAuLLQL4fL9QUlONiMmAaaIswSFBDiY5%2BAt1ToxhVqBoJCjZ9CmRWK4GNhZZF5s
+HEAD https://invite.viber.com/?g2=AQAuLLQL4fL9QUlONiMmAaaIswSFBDiY5%2BAt1ToxhVqBoJCjZ9CmRWK4GNhZZF5s  fetched in 1.90 seconds
+
+Checking link https://modnicy.ua/catalog/novinki-271/params/1=230
+HEAD https://modnicy.ua/catalog/novinki-271/params/1=230  fetched in 2.64 seconds
+
+Checking link https://vk.com/modnicy_ua
+HEAD https://vk.com/modnicy_ua  fetched in 1.67 seconds
+
+Checking link https://modnicy.ua/catalog/novinki-271/params/1=590
+HEAD https://modnicy.ua/catalog/novinki-271/params/1=590  fetched in 1.06 seconds
+
+Checking link https://modnicy.ua/catalog/yubki
+HEAD https://modnicy.ua/catalog/yubki  fetched in 1.91 seconds
+
+Checking link https://modnicy.ua/catalog/losiny
+HEAD https://modnicy.ua/catalog/losiny  fetched in 1.56 seconds
+
+Checking link https://modnicy.ua/catalog/kofty-batniki/params/1=579
+HEAD https://modnicy.ua/catalog/kofty-batniki/params/1=579  fetched in 2.07 seconds
+
+Checking link https://modnicy.ua/catalog/verhnyaya-odezhda/params/1=231
+HEAD https://modnicy.ua/catalog/verhnyaya-odezhda/params/1=231  fetched in 3.70 seconds
+
+Checking link https://modnicy.ua/catalog/sale-270/params/1=593
+HEAD https://modnicy.ua/catalog/sale-270/params/1=593  fetched in 2.00 seconds
+
+Checking link https://modnicy.ua/files/catalog/icon262.png
+HEAD https://modnicy.ua/files/catalog/icon262.png  fetched in 1.12 seconds
+
+Checking link https://modnicy.ua/tpl/default/js/jquery.datetimepicker.full.min.js?1518794961
+HEAD https://modnicy.ua/tpl/default/js/jquery.datetimepicker.full.min.js?1518794961  fetched in 1.12 seconds
+
+Checking link https://modnicy.ua/catalog/kardigany/params/1=385
+HEAD https://modnicy.ua/catalog/kardigany/params/1=385  fetched in 2.08 seconds
+
+Checking link https://modnicy.ua/catalog/kostyumy-bryuchnye-yubochnye/params/1=377
+HEAD https://modnicy.ua/catalog/kostyumy-bryuchnye-yubochnye/params/1=377  fetched in 2.08 seconds
+
+Checking link https://modnicy.ua/catalog/novinki-271/params/1=580
+HEAD https://modnicy.ua/catalog/novinki-271/params/1=580  fetched in 2.34 seconds
+
+Checking link https://modnicy.ua/catalog/kofty-batniki/params/1=384
+HEAD https://modnicy.ua/catalog/kofty-batniki/params/1=384  fetched in 3.05 seconds
+
+Checking link https://modnicy.ua/catalog/platya/params/1=167
+HEAD https://modnicy.ua/catalog/platya/params/1=167  fetched in 4.39 seconds
+
+Checking link https://modnicy.ua/catalog/platya/params/1=311
+HEAD https://modnicy.ua/catalog/platya/params/1=311  fetched in 3.88 seconds
+
+Checking link https://modnicy.ua/catalog/kostyumy-bryuchnye-yubochnye/params/1=600
+HEAD https://modnicy.ua/catalog/kostyumy-bryuchnye-yubochnye/params/1=600  fetched in 2.04 seconds
+
+Checking link https://modnicy.ua/catalog/shapki/params/1=254
+HEAD https://modnicy.ua/catalog/shapki/params/1=254  fetched in 2.04 seconds
+
+Checking link https://modnicy.ua/catalog/bryuki/params/1=385
+HEAD https://modnicy.ua/catalog/bryuki/params/1=385  fetched in 3.08 seconds
+
+Checking link https://modnicy.ua/catalog/kostyumy-bryuchnye-yubochnye/params/1=405
+HEAD https://modnicy.ua/catalog/kostyumy-bryuchnye-yubochnye/params/1=405  fetched in 3.11 seconds
+
+Checking link https://modnicy.ua/files/collection/262_s.png
+HEAD https://modnicy.ua/files/collection/262_s.png  fetched in 1.12 seconds
+
+Checking link https://modnicy.ua/catalog/plyazhnaya-odezhda/params/1=310
+HEAD https://modnicy.ua/catalog/plyazhnaya-odezhda/params/1=310  fetched in 2.07 seconds
+
+Checking link https://modnicy.ua/catalog/korotkie-258
+HEAD https://modnicy.ua/catalog/korotkie-258  fetched in 4.27 seconds
+
+Checking link https://modnicy.ua/catalog/sale-270/params/1=579
+HEAD https://modnicy.ua/catalog/sale-270/params/1=579  fetched in 2.50 seconds
+
+Checking link https://modnicy.ua/catalog/verhnyaya-odezhda/params/1=581
+HEAD https://modnicy.ua/catalog/verhnyaya-odezhda/params/1=581  fetched in 2.15 seconds
+
+Checking link https://modnicy.ua/ua/collection/all
+HEAD https://modnicy.ua/ua/collection/all  fetched in 1.30 seconds
+
+Checking link https://modnicy.ua/catalog/bluzki/params/1=233
+HEAD https://modnicy.ua/catalog/bluzki/params/1=233  fetched in 1.44 seconds
+
+Checking link https://modnicy.ua/catalog/shapki/params/1=389
+HEAD https://modnicy.ua/catalog/shapki/params/1=389  fetched in 1.43 seconds
+
+Checking link https://modnicy.ua/files/collection/267_s.jpg
+HEAD https://modnicy.ua/files/collection/267_s.jpg  fetched in 1.80 seconds
+
+Checking link https://modnicy.ua/catalog/outlet/params/1=470
+HEAD https://modnicy.ua/catalog/outlet/params/1=470  fetched in 1.33 seconds
+
+Checking link https://modnicy.ua/product/zhenskaya-bluza-goroshek-0233-29-97303
+HEAD https://modnicy.ua/product/zhenskaya-bluza-goroshek-0233-29-97303 
+-> HEAD https://modnicy.ua/product/zhenskaya-bluza-goroshek-0233-29-97303_blue217  fetched in 3.37 seconds
+
+Checking link https://modnicy.ua/catalog/platya/params/1=580
+HEAD https://modnicy.ua/catalog/platya/params/1=580  fetched in 2.75 seconds
+
+Checking link https://modnicy.ua/files/catalog/icon231.png
+HEAD https://modnicy.ua/files/catalog/icon231.png  fetched in 1.12 seconds
+
+Checking link https://modnicy.ua/catalog/bryuki/params/1=424
+HEAD https://modnicy.ua/catalog/bryuki/params/1=424  fetched in 2.13 seconds
+
+Checking link https://modnicy.ua/files/catalog/264_s.jpg
+HEAD https://modnicy.ua/files/catalog/264_s.jpg  fetched in 1.12 seconds
+
+Checking link https://modnicy.ua/catalog/plyazhnaya-odezhda/params/1=593
+HEAD https://modnicy.ua/catalog/plyazhnaya-odezhda/params/1=593  fetched in 2.14 seconds
+
+Checking link https://modnicy.ua/catalog/futbolka/params/1=348
+HEAD https://modnicy.ua/catalog/futbolka/params/1=348  fetched in 3.12 seconds
+
+Checking link https://modnicy.ua/catalog/kardigany/params/1=580
+HEAD https://modnicy.ua/catalog/kardigany/params/1=580  fetched in 2.07 seconds
+
+Checking link https://modnicy.ua/catalog/novinki-271/params/1=189
+HEAD https://modnicy.ua/catalog/novinki-271/params/1=189  fetched in 2.45 seconds
+
+Checking link https://modnicy.ua/catalog/bryuki/params/1=254
+HEAD https://modnicy.ua/catalog/bryuki/params/1=254  fetched in 1.41 seconds
+
+Checking link https://modnicy.ua/catalog/kostyumy-bryuchnye-yubochnye/params/1=599
+HEAD https://modnicy.ua/catalog/kostyumy-bryuchnye-yubochnye/params/1=599  fetched in 2.00 seconds
+
+Checking link https://modnicy.ua/catalog/muzhskaya-odezhda-269
+HEAD https://modnicy.ua/catalog/muzhskaya-odezhda-269  fetched in 2.13 seconds
+
+Checking link https://modnicy.ua/catalog/outlet/params/1=579
+HEAD https://modnicy.ua/catalog/outlet/params/1=579  fetched in 1.39 seconds
+
+Checking link https://modnicy.ua/catalog/shorty/params/1=217
+HEAD https://modnicy.ua/catalog/shorty/params/1=217  fetched in 1.86 seconds
+
+Checking link https://modnicy.ua/catalog/shapki/params/1=187
+HEAD https://modnicy.ua/catalog/shapki/params/1=187  fetched in 2.43 seconds
+
+Checking link https://modnicy.ua/catalog/novinki-271/params/1=579
+HEAD https://modnicy.ua/catalog/novinki-271/params/1=579  fetched in 2.15 seconds
+
+Checking link https://modnicy.ua/catalog/bluzki/params/1=579
+HEAD https://modnicy.ua/catalog/bluzki/params/1=579  fetched in 2.39 seconds
+
+Checking link https://modnicy.ua/tpl/default/files/social/vk.png
+HEAD https://modnicy.ua/tpl/default/files/social/vk.png  fetched in 1.12 seconds
+
+Checking link https://modnicy.ua/catalog/yubki/params/1=311
+HEAD https://modnicy.ua/catalog/yubki/params/1=311  fetched in 2.15 seconds
+
+Checking link https://modnicy.ua/catalog/platya/params/1=384
+HEAD https://modnicy.ua/catalog/platya/params/1=384  fetched in 3.23 seconds
+
+Checking link https://modnicy.ua/collection/all
+HEAD https://modnicy.ua/collection/all  fetched in 1.30 seconds
+
+Checking link https://modnicy.ua/catalog/kostyumy-bryuchnye-yubochnye/params/1=424
+HEAD https://modnicy.ua/catalog/kostyumy-bryuchnye-yubochnye/params/1=424  fetched in 2.07 seconds
+
+Checking link https://modnicy.ua/catalog/novinki-271/params/1=397
+HEAD https://modnicy.ua/catalog/novinki-271/params/1=397  fetched in 1.44 seconds
+
+Checking link https://modnicy.ua/catalog/bryuki/params/1=604
+HEAD https://modnicy.ua/catalog/bryuki/params/1=604  fetched in 2.03 seconds
+
+Checking link https://modnicy.ua/catalog/shapki/params/1=370
+HEAD https://modnicy.ua/catalog/shapki/params/1=370  fetched in 1.34 seconds
+
+Checking link https://modnicy.ua/catalog/sale-270/params/1=400
+HEAD https://modnicy.ua/catalog/sale-270/params/1=400  fetched in 2.52 seconds
+
+Checking link https://modnicy.ua/catalog/futbolka/params/1=384
+HEAD https://modnicy.ua/catalog/futbolka/params/1=384  fetched in 2.15 seconds
+
+Checking link https://modnicy.ua/catalog/bryuki/params/1=167
+HEAD https://modnicy.ua/catalog/bryuki/params/1=167  fetched in 1.80 seconds
+
+Checking link https://modnicy.ua/catalog/sale-270/params/1=330
+HEAD https://modnicy.ua/catalog/sale-270/params/1=330  fetched in 2.21 seconds
+
+Checking link https://modnicy.ua/catalog/kostyumy-bryuchnye-yubochnye/params/1=389
+HEAD https://modnicy.ua/catalog/kostyumy-bryuchnye-yubochnye/params/1=389  fetched in 3.28 seconds
+
+Checking link https://modnicy.ua/catalog/novinki-271/params/1=310
+HEAD https://modnicy.ua/catalog/novinki-271/params/1=310  fetched in 2.08 seconds
+
+Checking link https://modnicy.ua/catalog/novinki-271/params/1=330
+HEAD https://modnicy.ua/catalog/novinki-271/params/1=330  fetched in 2.03 seconds
+
+Checking link https://modnicy.ua/catalog/bluzki/params/1=604
+HEAD https://modnicy.ua/catalog/bluzki/params/1=604  fetched in 2.11 seconds
+
+Checking link https://modnicy.ua/files/catalog/270_s.jpg
+HEAD https://modnicy.ua/files/catalog/270_s.jpg  fetched in 1.12 seconds
+
+Checking link https://modnicy.ua/product/velvetovoe-plate-5173-2-23149_svetlyybezh
+HEAD https://modnicy.ua/product/velvetovoe-plate-5173-2-23149_svetlyybezh  fetched in 1.49 seconds
+
+Checking link https://modnicy.ua/catalog/sale-270/params/1=422
+HEAD https://modnicy.ua/catalog/sale-270/params/1=422  fetched in 3.22 seconds
+
+Checking link https://modnicy.ua/catalog/plyazhnaya-odezhda/params/1=167
+HEAD https://modnicy.ua/catalog/plyazhnaya-odezhda/params/1=167  fetched in 2.03 seconds
+
+Checking link https://modnicy.ua/catalog/outlet/params/1=589
+HEAD https://modnicy.ua/catalog/outlet/params/1=589  fetched in 1.68 seconds
+
+Checking link https://modnicy.ua/catalog/zhilety-261
+HEAD https://modnicy.ua/catalog/zhilety-261  fetched in 1.74 seconds
+
+Checking link https://modnicy.ua/catalog/losiny/params/1=189
+HEAD https://modnicy.ua/catalog/losiny/params/1=189  fetched in 2.04 seconds
+
+Checking link https://modnicy.ua/catalog/plyazhnaya-odezhda/params/1=581
+HEAD https://modnicy.ua/catalog/plyazhnaya-odezhda/params/1=581  fetched in 2.09 seconds
+
+Checking link https://modnicy.ua/catalog/bluzki/params/1=409
+HEAD https://modnicy.ua/catalog/bluzki/params/1=409  fetched in 2.71 seconds
+
+Checking link https://modnicy.ua/catalog/novinki-271/params/1=617
+HEAD https://modnicy.ua/catalog/novinki-271/params/1=617  fetched in 2.43 seconds
+
+Checking link https://modnicy.ua/catalog/kofty-batniki/params/1=167
+HEAD https://modnicy.ua/catalog/kofty-batniki/params/1=167  fetched in 2.38 seconds
+
+Checking link https://modnicy.ua/catalog/kostyumy-bryuchnye-yubochnye/params/1=217
+HEAD https://modnicy.ua/catalog/kostyumy-bryuchnye-yubochnye/params/1=217  fetched in 2.99 seconds
+
+Checking link https://modnicy.ua/catalog/kostyumy-bryuchnye-yubochnye/params/1=395
+HEAD https://modnicy.ua/catalog/kostyumy-bryuchnye-yubochnye/params/1=395  fetched in 2.11 seconds
+
+Checking link https://modnicy.ua/catalog/futbolka/params/1=580
+HEAD https://modnicy.ua/catalog/futbolka/params/1=580  fetched in 2.03 seconds
+
+Checking link https://modnicy.ua/catalog/futbolka/params/1=385
+HEAD https://modnicy.ua/catalog/futbolka/params/1=385  fetched in 1.60 seconds
+
+Checking link https://modnicy.ua/SP-pokupki
+HEAD https://modnicy.ua/SP-pokupki  fetched in 1.29 seconds
+
+Checking link https://modnicy.ua/tpl/default/files/favicon/apple-icon-144x144.png
+HEAD https://modnicy.ua/tpl/default/files/favicon/apple-icon-144x144.png  fetched in 1.34 seconds
+
+Checking link https://modnicy.ua/catalog/futbolka/params/1=330
+HEAD https://modnicy.ua/catalog/futbolka/params/1=330  fetched in 1.75 seconds
+
+Checking link https://modnicy.ua/catalog/sale-270/params/1=600
+HEAD https://modnicy.ua/catalog/sale-270/params/1=600  fetched in 3.57 seconds
+
+Checking link https://modnicy.ua/catalog/kofty-batniki/params/1=585
+HEAD https://modnicy.ua/catalog/kofty-batniki/params/1=585  fetched in 1.42 seconds
+
+Checking link https://modnicy.ua/catalog/kostyumy-bryuchnye-yubochnye/params/1=279
+HEAD https://modnicy.ua/catalog/kostyumy-bryuchnye-yubochnye/params/1=279  fetched in 2.47 seconds
+
+Checking link https://modnicy.ua/tpl/default/js/owlslider/owl.carousel.min.js?1518794962
+HEAD https://modnicy.ua/tpl/default/js/owlslider/owl.carousel.min.js?1518794962  fetched in 1.12 seconds
+
+Checking link https://modnicy.ua/catalog/platya/params/1=593
+HEAD https://modnicy.ua/catalog/platya/params/1=593  fetched in 2.23 seconds
+
+Checking link https://modnicy.ua/catalog/kardigany/params/1=422
+HEAD https://modnicy.ua/catalog/kardigany/params/1=422  fetched in 2.07 seconds
+
+Checking link https://modnicy.ua/size
+HEAD https://modnicy.ua/size  fetched in 2.39 seconds
+
+Checking link https://modnicy.ua/catalog/platya/params/1=404
+HEAD https://modnicy.ua/catalog/platya/params/1=404  fetched in 2.10 seconds
+
+Checking link https://modnicy.ua/catalog/outlet/params/1=581
+HEAD https://modnicy.ua/catalog/outlet/params/1=581  fetched in 1.34 seconds
+
+Checking link https://modnicy.ua/catalog/bluzki/params/1=598
+HEAD https://modnicy.ua/catalog/bluzki/params/1=598  fetched in 2.09 seconds
+
+Checking link https://modnicy.ua/catalog/kofty-batniki/params/1=370
+HEAD https://modnicy.ua/catalog/kofty-batniki/params/1=370  fetched in 2.96 seconds
+
+Checking link https://modnicy.ua/catalog/kostyumy-bryuchnye-yubochnye/params/1=262
+HEAD https://modnicy.ua/catalog/kostyumy-bryuchnye-yubochnye/params/1=262  fetched in 2.75 seconds
+
+Checking link https://modnicy.ua/catalog/kardigany
+HEAD https://modnicy.ua/catalog/kardigany  fetched in 1.37 seconds
+
+Checking link https://modnicy.ua/catalog/bluzki/params/1=605
+HEAD https://modnicy.ua/catalog/bluzki/params/1=605  fetched in 3.03 seconds
+
+Checking link https://modnicy.ua/files/catalog/icon271.png
+HEAD https://modnicy.ua/files/catalog/icon271.png  fetched in 1.12 seconds
+
+Checking link https://modnicy.ua/tpl/default/files/favicon/favicon.ico
+HEAD https://modnicy.ua/tpl/default/files/favicon/favicon.ico  fetched in 1.12 seconds
+
+Checking link https://modnicy.ua/drugie-strany
+HEAD https://modnicy.ua/drugie-strany  fetched in 1.31 seconds
+
+Checking link https://modnicy.ua/catalog/kofty-batniki/params/1=262
+HEAD https://modnicy.ua/catalog/kofty-batniki/params/1=262  fetched in 2.79 seconds
+
+Checking link https://modnicy.ua/files/storage/mainLeft.jpg
+HEAD https://modnicy.ua/files/storage/mainLeft.jpg  fetched in 1.12 seconds
+
+Checking link https://modnicy.ua/catalog/novinki-271/params/1=389
+HEAD https://modnicy.ua/catalog/novinki-271/params/1=389  fetched in 5.44 seconds
+
+Checking link https://modnicy.ua/files/catalog/icon269.png
+HEAD https://modnicy.ua/files/catalog/icon269.png  fetched in 1.12 seconds
+
+Checking link https://modnicy.ua/catalog/kofty-batniki/params/1=617
+HEAD https://modnicy.ua/catalog/kofty-batniki/params/1=617  fetched in 2.40 seconds
+
+Checking link https://modnicy.ua/catalog/shapki/params/1=404
+HEAD https://modnicy.ua/catalog/shapki/params/1=404  fetched in 1.98 seconds
+
+Checking link https://modnicy.ua/tpl/default/files/favicon/android-icon-192x192.png
+HEAD https://modnicy.ua/tpl/default/files/favicon/android-icon-192x192.png  fetched in 1.12 seconds
+
+Checking link https://modnicy.ua/catalog/novinki-271/params/1=395
+HEAD https://modnicy.ua/catalog/novinki-271/params/1=395  fetched in 2.35 seconds
+
+Checking link https://modnicy.ua/catalog/sale-270/params/1=217
+HEAD https://modnicy.ua/catalog/sale-270/params/1=217  fetched in 3.74 seconds
+
+Checking link https://modnicy.ua/catalog/bryuki/params/1=581
+HEAD https://modnicy.ua/catalog/bryuki/params/1=581  fetched in 2.03 seconds
+
+Checking link https://modnicy.ua/catalog/kofty-batniki/params/1=604
+HEAD https://modnicy.ua/catalog/kofty-batniki/params/1=604  fetched in 2.49 seconds
+
+Checking link https://modnicy.ua/catalog/sale-270/params/1=233
+HEAD https://modnicy.ua/catalog/sale-270/params/1=233  fetched in 2.50 seconds
+
+Checking link https://modnicy.ua/catalog/shorty/params/1=311
+HEAD https://modnicy.ua/catalog/shorty/params/1=311  fetched in 2.04 seconds
+
+Checking link https://modnicy.ua/catalog/bluzki/params/1=585
+HEAD https://modnicy.ua/catalog/bluzki/params/1=585  fetched in 2.09 seconds
+
+Checking link https://modnicy.ua/catalog/novinki-271/params/1=261
+HEAD https://modnicy.ua/catalog/novinki-271/params/1=261  fetched in 2.10 seconds
+
+Checking link https://modnicy.ua/files/product/3/32443/more/1515.jpg
+HEAD https://modnicy.ua/files/product/3/32443/more/1515.jpg  fetched in 1.12 seconds
+
+Checking link https://modnicy.ua/catalog/shapki
+HEAD https://modnicy.ua/catalog/shapki  fetched in 1.69 seconds
+
+Checking link https://modnicy.ua/catalog/shapki/params/1=311
+HEAD https://modnicy.ua/catalog/shapki/params/1=311  fetched in 2.05 seconds
+
+Checking link https://modnicy.ua/catalog/sale-270
+HEAD https://modnicy.ua/catalog/sale-270  fetched in 2.50 seconds
+
+Checking link https://modnicy.ua/catalog/shorty/params/1=384
+HEAD https://modnicy.ua/catalog/shorty/params/1=384  fetched in 2.03 seconds
+
+Checking link https://modnicy.ua/catalog/kostyumy-bryuchnye-yubochnye/params/1=397
+HEAD https://modnicy.ua/catalog/kostyumy-bryuchnye-yubochnye/params/1=397  fetched in 2.50 seconds
+
+Checking link https://modnicy.ua/catalog/kardigany/params/1=230
+HEAD https://modnicy.ua/catalog/kardigany/params/1=230  fetched in 2.11 seconds
+
+Checking link https://modnicy.ua/catalog/outlet/params/1=384
+HEAD https://modnicy.ua/catalog/outlet/params/1=384  fetched in 1.50 seconds
+
+Checking link https://modnicy.ua/catalog/bryuki/params/1=187
+HEAD https://modnicy.ua/catalog/bryuki/params/1=187  fetched in 2.09 seconds
+
+Checking link https://modnicy.ua/catalog/novinki-271/params/1=410
+HEAD https://modnicy.ua/catalog/novinki-271/params/1=410  fetched in 2.03 seconds
+
+Checking link https://modnicy.ua/catalog/platya/params/1=385
+HEAD https://modnicy.ua/catalog/platya/params/1=385  fetched in 4.26 seconds
+
+Checking link https://modnicy.ua/tpl/default/css/subBootstrap.css?1507648470
+HEAD https://modnicy.ua/tpl/default/css/subBootstrap.css?1507648470  fetched in 2.26 seconds
+
+Checking link https://modnicy.ua/catalog/plyazhnaya-odezhda/params/1=201
+HEAD https://modnicy.ua/catalog/plyazhnaya-odezhda/params/1=201  fetched in 1.34 seconds
+
+Checking link https://modnicy.ua/catalog/kardigany/params/1=308
+HEAD https://modnicy.ua/catalog/kardigany/params/1=308  fetched in 2.18 seconds
+
+Checking link https://modnicy.ua/catalog/kofty-batniki/params/1=350
+HEAD https://modnicy.ua/catalog/kofty-batniki/params/1=350  fetched in 2.21 seconds
+
+Checking link https://modnicy.ua/tpl/default/files/favicon/apple-icon-57x57.png
+HEAD https://modnicy.ua/tpl/default/files/favicon/apple-icon-57x57.png  fetched in 1.67 seconds
+
+Checking link https://modnicy.ua/catalog/plyazhnaya-odezhda/params/1=385
+HEAD https://modnicy.ua/catalog/plyazhnaya-odezhda/params/1=385  fetched in 2.42 seconds
+
+Checking link https://modnicy.ua/catalog/kostyumy-bryuchnye-yubochnye/params/1=604
+HEAD https://modnicy.ua/catalog/kostyumy-bryuchnye-yubochnye/params/1=604  fetched in 2.10 seconds
+
+Checking link https://modnicy.ua/catalog/shorty/params/1=592
+HEAD https://modnicy.ua/catalog/shorty/params/1=592  fetched in 4.00 seconds
+
+Checking link https://modnicy.ua/catalog/novinki-271/params/1=216
+HEAD https://modnicy.ua/catalog/novinki-271/params/1=216  fetched in 1.91 seconds
+
+Checking link https://modnicy.ua/files/product/0/51320/51320_s.jpg
+HEAD https://modnicy.ua/files/product/0/51320/51320_s.jpg  fetched in 2.35 seconds
+
+Checking link https://modnicy.ua/catalog/novinki-271/params/1=308
+HEAD https://modnicy.ua/catalog/novinki-271/params/1=308  fetched in 2.16 seconds
+
+Checking link https://modnicy.ua/catalog/novinki-271/params/1=604
+HEAD https://modnicy.ua/catalog/novinki-271/params/1=604  fetched in 2.14 seconds
+
+Checking link https://modnicy.ua/catalog/platya/params/1=377
+HEAD https://modnicy.ua/catalog/platya/params/1=377  fetched in 2.14 seconds
+
+Checking link https://modnicy.ua/catalog/kardigany/params/1=258
+HEAD https://modnicy.ua/catalog/kardigany/params/1=258  fetched in 2.25 seconds
+
+Checking link https://modnicy.ua/catalog/kostyumy-bryuchnye-yubochnye/params/1=167
+HEAD https://modnicy.ua/catalog/kostyumy-bryuchnye-yubochnye/params/1=167  fetched in 2.94 seconds
+
+Checking link https://modnicy.ua/catalog/novinki-271
+HEAD https://modnicy.ua/catalog/novinki-271  fetched in 3.03 seconds
+
+Checking link https://modnicy.ua/catalog/bluzki/params/1=253
+HEAD https://modnicy.ua/catalog/bluzki/params/1=253  fetched in 2.08 seconds
+
+Checking link https://modnicy.ua/catalog/platya/params/1=581
+HEAD https://modnicy.ua/catalog/platya/params/1=581  fetched in 2.14 seconds
+
+Checking link https://modnicy.ua/catalog/bluzki/params/1=231
+HEAD https://modnicy.ua/catalog/bluzki/params/1=231  fetched in 2.14 seconds
+
+Checking link https://modnicy.ua/catalog/kofty-batniki/params/1=279
+HEAD https://modnicy.ua/catalog/kofty-batniki/params/1=279  fetched in 2.06 seconds
+
+Checking link https://modnicy.ua/catalog/bluzki/params/1=392
+HEAD https://modnicy.ua/catalog/bluzki/params/1=392  fetched in 4.91 seconds
+
+Checking link https://modnicy.ua/catalog/outlet/params/1=311
+HEAD https://modnicy.ua/catalog/outlet/params/1=311  fetched in 1.33 seconds
+
+Checking link https://modnicy.ua/catalog/futbolka/params/1=279
+HEAD https://modnicy.ua/catalog/futbolka/params/1=279  fetched in 2.05 seconds
+
+Checking link https://modnicy.ua/catalog/plyazhnaya-odezhda/params/1=389
+HEAD https://modnicy.ua/catalog/plyazhnaya-odezhda/params/1=389  fetched in 2.80 seconds
+
+Checking link https://modnicy.ua/catalog/bluzki/params/1=593
+HEAD https://modnicy.ua/catalog/bluzki/params/1=593  fetched in 2.33 seconds
+
+Checking link https://modnicy.ua/catalog/sportivnaya-odezhda/params/1=233
+HEAD https://modnicy.ua/catalog/sportivnaya-odezhda/params/1=233  fetched in 2.88 seconds
+
+Checking link https://modnicy.ua/catalog/bryuki/params/1=311
+HEAD https://modnicy.ua/catalog/bryuki/params/1=311  fetched in 2.06 seconds
+
+Checking link https://modnicy.ua/catalog/kofty-batniki/params/1=230
+HEAD https://modnicy.ua/catalog/kofty-batniki/params/1=230  fetched in 2.76 seconds
+
+Checking link https://modnicy.ua/files/product/1/33131/33131_s.jpg
+HEAD https://modnicy.ua/files/product/1/33131/33131_s.jpg  fetched in 1.12 seconds
+
+Checking link https://modnicy.ua/catalog/bryuki/params/1=372
+HEAD https://modnicy.ua/catalog/bryuki/params/1=372  fetched in 2.23 seconds
+
+Checking link https://modnicy.ua/catalog/kofty-batniki/params/1=389
+HEAD https://modnicy.ua/catalog/kofty-batniki/params/1=389  fetched in 3.14 seconds
+
+Checking link https://modnicy.ua/catalog/dlinnye-257
+HEAD https://modnicy.ua/catalog/dlinnye-257  fetched in 2.39 seconds
+
+Checking link https://modnicy.ua/catalog/kofty-batniki/params/1=409
+HEAD https://modnicy.ua/catalog/kofty-batniki/params/1=409  fetched in 2.14 seconds
+
+Checking link https://modnicy.ua/files/catalog/246_s.jpg
+HEAD https://modnicy.ua/files/catalog/246_s.jpg  fetched in 1.12 seconds
+
+Checking link https://modnicy.ua/catalog/verhnyaya-odezhda/params/1=470
+HEAD https://modnicy.ua/catalog/verhnyaya-odezhda/params/1=470  fetched in 2.21 seconds
+
+Checking link https://modnicy.ua/product/dlinnoe-plate-05186-2
+HEAD https://modnicy.ua/product/dlinnoe-plate-05186-2 
+-> HEAD https://modnicy.ua/product/dlinnoe-plate-05186-2_chernyy  fetched in 2.95 seconds
+
+Checking link https://modnicy.ua/catalog/platya/params/1=261
+HEAD https://modnicy.ua/catalog/platya/params/1=261  fetched in 1.44 seconds
+
+Checking link https://modnicy.ua/catalog/verhnyaya-odezhda/params/1=358
+HEAD https://modnicy.ua/catalog/verhnyaya-odezhda/params/1=358  fetched in 2.11 seconds
+
+Checking link https://modnicy.ua/catalog/plyazhnaya-odezhda/params/1=187
+HEAD https://modnicy.ua/catalog/plyazhnaya-odezhda/params/1=187  fetched in 3.30 seconds
+
+Checking link https://modnicy.ua/catalog/yubki/params/1=581
+HEAD https://modnicy.ua/catalog/yubki/params/1=581  fetched in 2.13 seconds
+
+Checking link https://modnicy.ua/catalog/bluzki/params/1=308
+HEAD https://modnicy.ua/catalog/bluzki/params/1=308  fetched in 2.21 seconds
+
+Checking link https://modnicy.ua/catalog/kofty-batniki/params/1=189
+HEAD https://modnicy.ua/catalog/kofty-batniki/params/1=189  fetched in 1.72 seconds
+
+Checking link https://modnicy.ua/catalog/sale-270/params/1=261
+HEAD https://modnicy.ua/catalog/sale-270/params/1=261  fetched in 2.04 seconds
+
+Checking link https://modnicy.ua/catalog/kostyumy-bryuchnye-yubochnye/params/1=587
+HEAD https://modnicy.ua/catalog/kostyumy-bryuchnye-yubochnye/params/1=587  fetched in 2.14 seconds
+
+Checking link https://modnicy.ua/files/slider/135_s.png
+HEAD https://modnicy.ua/files/slider/135_s.png  fetched in 1.12 seconds
+
+Checking link https://modnicy.ua/catalog/sportivnaya-odezhda/params/1=253
+HEAD https://modnicy.ua/catalog/sportivnaya-odezhda/params/1=253  fetched in 2.55 seconds
+
+Checking link https://modnicy.ua/catalog/kostyumy-bryuchnye-yubochnye/params/1=370
+HEAD https://modnicy.ua/catalog/kostyumy-bryuchnye-yubochnye/params/1=370  fetched in 2.14 seconds
+
+Checking link https://modnicy.ua/product/plate-midi-05515-51-26502-45531-96863-92569-66409
+HEAD https://modnicy.ua/product/plate-midi-05515-51-26502-45531-96863-92569-66409 
+-> HEAD https://modnicy.ua/product/plate-midi-05515-51-26502-45531-96863-92569-66409_chernyy  fetched in 3.15 seconds
+
+Checking link https://modnicy.ua/catalog/sportivnaya-odezhda/params/1=262
+HEAD https://modnicy.ua/catalog/sportivnaya-odezhda/params/1=262  fetched in 2.14 seconds
+
+Checking link https://modnicy.ua/catalog/yubki/params/1=370
+HEAD https://modnicy.ua/catalog/yubki/params/1=370  fetched in 4.06 seconds
+
+Checking link https://modnicy.ua/catalog/futbolka/params/1=422
+HEAD https://modnicy.ua/catalog/futbolka/params/1=422  fetched in 2.62 seconds
+
+Checking link https://modnicy.ua/catalog/kofty-batniki/params/1=244
+HEAD https://modnicy.ua/catalog/kofty-batniki/params/1=244  fetched in 2.08 seconds
+
+Checking link https://modnicy.ua/catalog/outlet/params/1=409
+HEAD https://modnicy.ua/catalog/outlet/params/1=409  fetched in 1.34 seconds
+
+Checking link https://modnicy.ua/catalog/detskaya-odezhda/params/1=168
+HEAD https://modnicy.ua/catalog/detskaya-odezhda/params/1=168  fetched in 2.53 seconds
+
+Checking link https://modnicy.ua/catalog/futbolka/params/1=254
+HEAD https://modnicy.ua/catalog/futbolka/params/1=254  fetched in 2.09 seconds
+
+Checking link https://modnicy.ua/catalog/plyazhnaya-odezhda/params/1=261
+HEAD https://modnicy.ua/catalog/plyazhnaya-odezhda/params/1=261  fetched in 2.11 seconds
+
+Checking link https://modnicy.ua/catalog/detskaya-odezhda/params/1=389
+HEAD https://modnicy.ua/catalog/detskaya-odezhda/params/1=389  fetched in 2.21 seconds
+
+Checking link https://modnicy.ua/catalog/futbolka/params/1=216
+HEAD https://modnicy.ua/catalog/futbolka/params/1=216  fetched in 2.12 seconds
+
+Checking link https://modnicy.ua/catalog/sale-270/params/1=604
+HEAD https://modnicy.ua/catalog/sale-270/params/1=604  fetched in 2.10 seconds
+
+Checking link https://modnicy.ua/catalog/sale-270/params/1=254
+HEAD https://modnicy.ua/catalog/sale-270/params/1=254  fetched in 2.87 seconds
+
+Checking link https://modnicy.ua/catalog/kardigany/params/1=187
+HEAD https://modnicy.ua/catalog/kardigany/params/1=187  fetched in 1.54 seconds
+
+Checking link https://modnicy.ua/catalog/novinki-271/params/1=600
+HEAD https://modnicy.ua/catalog/novinki-271/params/1=600  fetched in 2.94 seconds
+
+Checking link https://modnicy.ua/blog/all
+HEAD https://modnicy.ua/blog/all  fetched in 1.30 seconds
+
+Checking link https://modnicy.ua/catalog/kostyumy-bryuchnye-yubochnye/params/1=589
+HEAD https://modnicy.ua/catalog/kostyumy-bryuchnye-yubochnye/params/1=589  fetched in 2.15 seconds
+
+Checking link https://modnicy.ua/catalog/detskaya-odezhda/params/1=262
+HEAD https://modnicy.ua/catalog/detskaya-odezhda/params/1=262  fetched in 2.12 seconds
+
+Checking link https://modnicy.ua/catalog/bryuki/params/1=230
+HEAD https://modnicy.ua/catalog/bryuki/params/1=230  fetched in 1.40 seconds
+
+Checking link https://modnicy.ua/catalog/s-shortami-263
+HEAD https://modnicy.ua/catalog/s-shortami-263  fetched in 1.96 seconds
+
+Checking link https://modnicy.ua/catalog/sale-270/params/1=396
+HEAD https://modnicy.ua/catalog/sale-270/params/1=396  fetched in 2.13 seconds
+
+Checking link https://modnicy.ua/catalog/novinki-271/params/1=167
+HEAD https://modnicy.ua/catalog/novinki-271/params/1=167  fetched in 4.09 seconds
+
+Checking link https://modnicy.ua/catalog/kardigany/params/1=279
+HEAD https://modnicy.ua/catalog/kardigany/params/1=279  fetched in 3.29 seconds
+
+Checking link https://modnicy.ua/catalog/shapki/params/1=232
+HEAD https://modnicy.ua/catalog/shapki/params/1=232  fetched in 2.28 seconds
+
+Checking link https://modnicy.ua/otzyvy
+HEAD https://modnicy.ua/otzyvy  fetched in 1.32 seconds
+
+Checking link https://modnicy.ua/catalog/novinki-271/params/1=244
+HEAD https://modnicy.ua/catalog/novinki-271/params/1=244  fetched in 2.14 seconds
+
+Checking link https://modnicy.ua/catalog/losiny/params/1=217
+HEAD https://modnicy.ua/catalog/losiny/params/1=217  fetched in 2.11 seconds
+
+Checking link https://modnicy.ua/catalog/novinki-271/params/1=405
+HEAD https://modnicy.ua/catalog/novinki-271/params/1=405  fetched in 2.81 seconds
+
+Checking link https://modnicy.ua/files/catalog/231_s.jpg
+HEAD https://modnicy.ua/files/catalog/231_s.jpg  fetched in 1.66 seconds
+
+Checking link https://modnicy.ua/catalog/platya/params/1=599
+HEAD https://modnicy.ua/catalog/platya/params/1=599  fetched in 2.14 seconds
+
+Checking link https://modnicy.ua/catalog/sportivnaya-odezhda/params/1=422
+HEAD https://modnicy.ua/catalog/sportivnaya-odezhda/params/1=422  fetched in 2.10 seconds
+
+Checking link https://modnicy.ua/catalog/kofty-batniki/params/1=592
+HEAD https://modnicy.ua/catalog/kofty-batniki/params/1=592  fetched in 2.09 seconds
+
+Checking link https://modnicy.ua/catalog/sportivnaya-odezhda/params/1=424
+HEAD https://modnicy.ua/catalog/sportivnaya-odezhda/params/1=424  fetched in 1.98 seconds
+
+Checking link https://modnicy.ua/catalog/yubki/params/1=409
+HEAD https://modnicy.ua/catalog/yubki/params/1=409  fetched in 2.87 seconds
+
+Checking link https://modnicy.ua/wholesaler-registration
+HEAD https://modnicy.ua/wholesaler-registration  fetched in 1.68 seconds
+
+Checking link https://modnicy.ua/catalog/losiny/params/1=624
+HEAD https://modnicy.ua/catalog/losiny/params/1=624  fetched in 2.11 seconds
+
+Checking link https://modnicy.ua/catalog/bluzki
+HEAD https://modnicy.ua/catalog/bluzki  fetched in 1.79 seconds
+
+Checking link https://modnicy.ua/tpl/default/files/favicon/favicon-96x96.png
+HEAD https://modnicy.ua/tpl/default/files/favicon/favicon-96x96.png  fetched in 1.12 seconds
+
+Checking link https://modnicy.ua/catalog/futbolka/params/1=389
+HEAD https://modnicy.ua/catalog/futbolka/params/1=389  fetched in 2.48 seconds
+
+Checking link https://modnicy.ua/catalog/losiny/params/1=216
+HEAD https://modnicy.ua/catalog/losiny/params/1=216  fetched in 1.97 seconds
+
+Checking link https://modnicy.ua/catalog/outlet/params/1=273
+HEAD https://modnicy.ua/catalog/outlet/params/1=273  fetched in 1.67 seconds
+
+Checking link https://modnicy.ua/catalog/novinki-271/params/1=598
+HEAD https://modnicy.ua/catalog/novinki-271/params/1=598  fetched in 3.16 seconds
+
+Checking link https://modnicy.ua/catalog/bryuki/params/1=598
+HEAD https://modnicy.ua/catalog/bryuki/params/1=598  fetched in 2.00 seconds
+
+Checking link https://modnicy.ua/catalog/bluzki/params/1=384
+HEAD https://modnicy.ua/catalog/bluzki/params/1=384  fetched in 2.12 seconds
+
+Checking link https://modnicy.ua/catalog/sale-270/params/1=587
+HEAD https://modnicy.ua/catalog/sale-270/params/1=587  fetched in 2.02 seconds
+
+Checking link https://modnicy.ua/catalog/novinki-271/params/1=258
+HEAD https://modnicy.ua/catalog/novinki-271/params/1=258  fetched in 3.17 seconds
+
+Checking link https://modnicy.ua/catalog/bluzki/params/1=232
+HEAD https://modnicy.ua/catalog/bluzki/params/1=232  fetched in 2.13 seconds
+
+Checking link https://modnicy.ua/files/catalog/icon272.png
+HEAD https://modnicy.ua/files/catalog/icon272.png  fetched in 1.12 seconds
+
+Checking link https://modnicy.ua/catalog/sale-270/params/1=393
+HEAD https://modnicy.ua/catalog/sale-270/params/1=393  fetched in 2.16 seconds
+
+Checking link https://modnicy.ua/catalog/platya/params/1=232
+HEAD https://modnicy.ua/catalog/platya/params/1=232  fetched in 1.71 seconds
+
+Checking link https://modnicy.ua/catalog/shapki/params/1=393
+HEAD https://modnicy.ua/catalog/shapki/params/1=393  fetched in 2.19 seconds
+
+Checking link https://modnicy.ua/catalog/verhnyaya-odezhda/params/1=422
+HEAD https://modnicy.ua/catalog/verhnyaya-odezhda/params/1=422  fetched in 2.12 seconds
+
+Checking link https://modnicy.ua/catalog/futbolka/params/1=201
+HEAD https://modnicy.ua/catalog/futbolka/params/1=201  fetched in 2.02 seconds
+
+Checking link https://modnicy.ua/catalog/bryuki/params/1=587
+HEAD https://modnicy.ua/catalog/bryuki/params/1=587  fetched in 2.02 seconds
+
+Checking link https://modnicy.ua/files/catalog/icon233.png
+HEAD https://modnicy.ua/files/catalog/icon233.png  fetched in 1.12 seconds
+
+Checking link https://modnicy.ua/tpl/default/files/favicon/apple-icon-72x72.png
+HEAD https://modnicy.ua/tpl/default/files/favicon/apple-icon-72x72.png  fetched in 1.13 seconds
+
+Checking link https://modnicy.ua/tpl/default/js/bxslider/jquery.fitvids.js?1518794962
+HEAD https://modnicy.ua/tpl/default/js/bxslider/jquery.fitvids.js?1518794962  fetched in 1.12 seconds
+
+Checking link https://modnicy.ua/catalog/kostyumy-bryuchnye-yubochnye/params/1=595
+HEAD https://modnicy.ua/catalog/kostyumy-bryuchnye-yubochnye/params/1=595  fetched in 2.14 seconds
+
+Checking link https://modnicy.ua/catalog/novinki-271/params/1=581
+HEAD https://modnicy.ua/catalog/novinki-271/params/1=581  fetched in 2.79 seconds
+
+Checking link https://modnicy.ua/catalog/novinki-271/params/1=253
+HEAD https://modnicy.ua/catalog/novinki-271/params/1=253  fetched in 2.25 seconds
+
+Checking link https://modnicy.ua/catalog/yubki/params/1=244
+HEAD https://modnicy.ua/catalog/yubki/params/1=244  fetched in 2.29 seconds
+
+Checking link https://modnicy.ua/catalog/kofty-batniki/params/1=168
+HEAD https://modnicy.ua/catalog/kofty-batniki/params/1=168  fetched in 2.25 seconds
+
+Checking link https://modnicy.ua/catalog/palto-260
+HEAD https://modnicy.ua/catalog/palto-260  fetched in 1.48 seconds
+
+Checking link https://modnicy.ua/catalog/bryuki/params/1=258
+HEAD https://modnicy.ua/catalog/bryuki/params/1=258  fetched in 2.52 seconds
+
+Checking link https://modnicy.ua/catalog/losiny/params/1=168
+HEAD https://modnicy.ua/catalog/losiny/params/1=168  fetched in 1.87 seconds
+
+Checking link https://modnicy.ua/catalog/kombinezony/params/1=372
+HEAD https://modnicy.ua/catalog/kombinezony/params/1=372  fetched in 2.61 seconds
+
+Checking link https://modnicy.ua/files/catalog/236_s.jpg
+HEAD https://modnicy.ua/files/catalog/236_s.jpg  fetched in 1.12 seconds
+
+Checking link https://modnicy.ua/tpl/default/files/favicon/apple-icon-152x152.png
+HEAD https://modnicy.ua/tpl/default/files/favicon/apple-icon-152x152.png  fetched in 1.12 seconds
+
+Checking link https://modnicy.ua/catalog/sale-270/params/1=409
+HEAD https://modnicy.ua/catalog/sale-270/params/1=409  fetched in 2.07 seconds
+
+Checking link https://modnicy.ua/files/catalog/icon264.png
+HEAD https://modnicy.ua/files/catalog/icon264.png  fetched in 1.12 seconds
+
+Checking link https://modnicy.ua/catalog/kofty-batniki/params/1=624
+HEAD https://modnicy.ua/catalog/kofty-batniki/params/1=624  fetched in 2.02 seconds
+
+Checking link https://modnicy.ua/files/catalog/icon265.png
+HEAD https://modnicy.ua/files/catalog/icon265.png  fetched in 1.12 seconds
+
+Checking link https://modnicy.ua/dropshipping
+HEAD https://modnicy.ua/dropshipping  fetched in 1.31 seconds
+
+Checking link https://modnicy.ua/catalog/sportivnaya-odezhda/params/1=589
+HEAD https://modnicy.ua/catalog/sportivnaya-odezhda/params/1=589  fetched in 2.17 seconds
+
+Checking link https://modnicy.ua/catalog/shapki/params/1=189
+HEAD https://modnicy.ua/catalog/shapki/params/1=189  fetched in 2.10 seconds
+
+Checking link https://modnicy.ua/catalog/sportivnaya-odezhda/params/1=258
+HEAD https://modnicy.ua/catalog/sportivnaya-odezhda/params/1=258  fetched in 2.44 seconds
+
+Checking link https://modnicy.ua/tpl/default/js/bootstrap.min.js?1518794960
+HEAD https://modnicy.ua/tpl/default/js/bootstrap.min.js?1518794960  fetched in 1.12 seconds
+
+Checking link https://modnicy.ua/catalog/sale-270/params/1=168
+HEAD https://modnicy.ua/catalog/sale-270/params/1=168  fetched in 1.48 seconds
+
+Checking link https://modnicy.ua/files/catalog/icon270.png
+HEAD https://modnicy.ua/files/catalog/icon270.png  fetched in 1.48 seconds
+
+Checking link https://modnicy.ua/catalog/bluzki/params/1=569
+HEAD https://modnicy.ua/catalog/bluzki/params/1=569  fetched in 2.87 seconds
+
+Checking link https://modnicy.ua/catalog/sportivnaya-odezhda/params/1=409
+HEAD https://modnicy.ua/catalog/sportivnaya-odezhda/params/1=409  fetched in 2.15 seconds
+
+Checking link https://modnicy.ua/catalog/futbolka/params/1=585
+HEAD https://modnicy.ua/catalog/futbolka/params/1=585  fetched in 3.18 seconds
+
+Checking link https://modnicy.ua/catalog/futbolka/params/1=581
+HEAD https://modnicy.ua/catalog/futbolka/params/1=581  fetched in 2.06 seconds
+
+Checking link https://modnicy.ua/catalog/verhnyaya-odezhda/params/1=595
+HEAD https://modnicy.ua/catalog/verhnyaya-odezhda/params/1=595  fetched in 2.73 seconds
+
+Checking link https://modnicy.ua/catalog/kofty-batniki/params/1=377
+HEAD https://modnicy.ua/catalog/kofty-batniki/params/1=377  fetched in 2.08 seconds
+
+Checking link https://modnicy.ua/catalog/outlet/params/1=230
+HEAD https://modnicy.ua/catalog/outlet/params/1=230  fetched in 1.32 seconds
+
+Checking link https://modnicy.ua/files/catalog/269_s.jpg
+HEAD https://modnicy.ua/files/catalog/269_s.jpg  fetched in 1.12 seconds
+
+Checking link https://modnicy.ua/catalog/yubki/params/1=377
+HEAD https://modnicy.ua/catalog/yubki/params/1=377  fetched in 2.02 seconds
+
+Checking link https://modnicy.ua/catalog/bluzki/params/1=385
+HEAD https://modnicy.ua/catalog/bluzki/params/1=385  fetched in 2.76 seconds
+
+Checking link https://modnicy.ua/catalog/bluzki/params/1=244
+HEAD https://modnicy.ua/catalog/bluzki/params/1=244  fetched in 2.06 seconds
+
+Checking link https://modnicy.ua/catalog/yubki/params/1=385
+HEAD https://modnicy.ua/catalog/yubki/params/1=385  fetched in 2.20 seconds
+
+Checking link https://modnicy.ua/catalog/platya/params/1=254
+HEAD https://modnicy.ua/catalog/platya/params/1=254  fetched in 3.05 seconds
+
+Checking link https://modnicy.ua/catalog/plyazhnaya-odezhda/params/1=262
+HEAD https://modnicy.ua/catalog/plyazhnaya-odezhda/params/1=262  fetched in 2.05 seconds
+
+Checking link https://modnicy.ua/catalog/sale-270/params/1=405
+HEAD https://modnicy.ua/catalog/sale-270/params/1=405  fetched in 2.74 seconds
+
+Checking link https://modnicy.ua/catalog/kardigany/params/1=273
+HEAD https://modnicy.ua/catalog/kardigany/params/1=273  fetched in 2.87 seconds
+
+Checking link https://modnicy.ua/collection/kupalniki-270
+HEAD https://modnicy.ua/collection/kupalniki-270  fetched in 2.31 seconds
+
+Checking link https://modnicy.ua/catalog/outlet/params/1=595
+HEAD https://modnicy.ua/catalog/outlet/params/1=595  fetched in 1.35 seconds
+
+Checking link https://modnicy.ua/catalog/sportivnaya-odezhda/params/1=389
+HEAD https://modnicy.ua/catalog/sportivnaya-odezhda/params/1=389  fetched in 2.82 seconds
+
+Checking link https://modnicy.ua/catalog/plyazhnaya-odezhda/params/1=311
+HEAD https://modnicy.ua/catalog/plyazhnaya-odezhda/params/1=311  fetched in 1.47 seconds
+
+Checking link https://modnicy.ua/catalog/sportivnaya-odezhda/params/1=243
+HEAD https://modnicy.ua/catalog/sportivnaya-odezhda/params/1=243  fetched in 3.42 seconds
+
+Checking link https://modnicy.ua/catalog/shorty/params/1=409
+HEAD https://modnicy.ua/catalog/shorty/params/1=409  fetched in 3.24 seconds
+
+Checking link https://modnicy.ua/catalog/sale-270/params/1=392
+HEAD https://modnicy.ua/catalog/sale-270/params/1=392  fetched in 4.47 seconds
+
+Checking link https://modnicy.ua/catalog/outlet/params/1=232
+HEAD https://modnicy.ua/catalog/outlet/params/1=232  fetched in 2.04 seconds
+
+Checking link https://modnicy.ua/catalog/plyazhnaya-odezhda/params/1=217
+HEAD https://modnicy.ua/catalog/plyazhnaya-odezhda/params/1=217  fetched in 2.01 seconds
+
+Checking link https://modnicy.ua/product/kokteylnoe-plate-midi-05088-3-36637
+HEAD https://modnicy.ua/product/kokteylnoe-plate-midi-05088-3-36637 
+-> HEAD https://modnicy.ua/product/kokteylnoe-plate-midi-05088-3-36637_blue  fetched in 3.56 seconds
+
+Checking link https://modnicy.ua/catalog/futbolka/params/1=243
+HEAD https://modnicy.ua/catalog/futbolka/params/1=243  fetched in 2.70 seconds
+
+Checking link https://modnicy.ua/catalog/sale-270/params/1=372
+HEAD https://modnicy.ua/catalog/sale-270/params/1=372  fetched in 2.74 seconds
+
+Checking link https://modnicy.ua/catalog/kostyumy-bryuchnye-yubochnye/params/1=253
+HEAD https://modnicy.ua/catalog/kostyumy-bryuchnye-yubochnye/params/1=253  fetched in 2.07 seconds
+
+Checking link https://modnicy.ua/catalog/bryuki/params/1=216
+HEAD https://modnicy.ua/catalog/bryuki/params/1=216  fetched in 2.32 seconds
+
+Checking link https://modnicy.ua/catalog/sportivnaya-odezhda/params/1=311
+HEAD https://modnicy.ua/catalog/sportivnaya-odezhda/params/1=311  fetched in 2.13 seconds
+
+Checking link https://modnicy.ua/kazahstan
+HEAD https://modnicy.ua/kazahstan  fetched in 1.33 seconds
+
+Checking link https://modnicy.ua/catalog/sale-270/params/1=248
+HEAD https://modnicy.ua/catalog/sale-270/params/1=248  fetched in 3.68 seconds
+
+Checking link https://modnicy.ua/catalog/kostyumy-bryuchnye-yubochnye/params/1=189
+HEAD https://modnicy.ua/catalog/kostyumy-bryuchnye-yubochnye/params/1=189  fetched in 4.80 seconds
+
+Checking link https://modnicy.ua/catalog/bryuki/params/1=168
+HEAD https://modnicy.ua/catalog/bryuki/params/1=168  fetched in 3.52 seconds
+
+Checking link https://modnicy.ua/files/catalog/265_s.jpg
+HEAD https://modnicy.ua/files/catalog/265_s.jpg  fetched in 1.12 seconds
+
+Checking link https://modnicy.ua/catalog/sportivnaya-odezhda
+HEAD https://modnicy.ua/catalog/sportivnaya-odezhda  fetched in 2.04 seconds
+
+Checking link https://modnicy.ua/files/blog/60_s.jpg
+HEAD https://modnicy.ua/files/blog/60_s.jpg  fetched in 1.72 seconds
+
+Checking link https://modnicy.ua/catalog/futbolka/params/1=168
+HEAD https://modnicy.ua/catalog/futbolka/params/1=168  fetched in 2.24 seconds
+
+Checking link https://modnicy.ua/catalog/yubki/params/1=168
+HEAD https://modnicy.ua/catalog/yubki/params/1=168  fetched in 2.75 seconds
+
+Checking link https://modnicy.ua/catalog/kardigany/params/1=358
+HEAD https://modnicy.ua/catalog/kardigany/params/1=358  fetched in 2.89 seconds
+
+Checking link https://modnicy.ua/catalog/kostyumy-bryuchnye-yubochnye/params/1=581
+HEAD https://modnicy.ua/catalog/kostyumy-bryuchnye-yubochnye/params/1=581  fetched in 2.72 seconds
+
+Checking link https://modnicy.ua/catalog/platya-korotkie-268
+HEAD https://modnicy.ua/catalog/platya-korotkie-268  fetched in 2.35 seconds
+
+Checking link https://modnicy.ua/catalog/bryuki/params/1=201
+HEAD https://modnicy.ua/catalog/bryuki/params/1=201  fetched in 2.07 seconds
+
+Checking link https://modnicy.ua/catalog/kardigany/params/1=311
+HEAD https://modnicy.ua/catalog/kardigany/params/1=311  fetched in 1.89 seconds
+
+Checking link https://modnicy.ua/catalog/bluzki/params/1=358
+HEAD https://modnicy.ua/catalog/bluzki/params/1=358  fetched in 2.05 seconds
+
+Checking link https://modnicy.ua/files/product/3/31883/more/1594_s.jpg
+HEAD https://modnicy.ua/files/product/3/31883/more/1594_s.jpg  fetched in 1.12 seconds
+
+Checking link https://modnicy.ua/catalog/platya/params/1=589
+HEAD https://modnicy.ua/catalog/platya/params/1=589  fetched in 4.11 seconds
+
+Checking link https://modnicy.ua/catalog/kofty-batniki/params/1=258
+HEAD https://modnicy.ua/catalog/kofty-batniki/params/1=258  fetched in 2.74 seconds
+
+Checking link https://modnicy.ua/catalog/kofty-batniki/params/1=580
+HEAD https://modnicy.ua/catalog/kofty-batniki/params/1=580  fetched in 3.01 seconds
+
+Checking link https://modnicy.ua/catalog/verhnyaya-odezhda/params/1=311
+HEAD https://modnicy.ua/catalog/verhnyaya-odezhda/params/1=311  fetched in 2.25 seconds
+
+Checking link https://modnicy.ua/blog/https-modnicy-ua-catalog-novinki-271
+HEAD https://modnicy.ua/blog/https-modnicy-ua-catalog-novinki-271  fetched in 2.88 seconds
+
+Checking link https://modnicy.ua/catalog/kofty-batniki/params/1=216
+HEAD https://modnicy.ua/catalog/kofty-batniki/params/1=216  fetched in 3.21 seconds
+
+Checking link https://modnicy.ua/tpl/default/files/social/fb.png
+HEAD https://modnicy.ua/tpl/default/files/social/fb.png  fetched in 1.94 seconds
+
+Checking link https://modnicy.ua/blog/modnye-trendy-vesna-leto-2020
+HEAD https://modnicy.ua/blog/modnye-trendy-vesna-leto-2020  fetched in 2.61 seconds
+
+Checking link https://modnicy.ua/catalog/platya/params/1=231
+HEAD https://modnicy.ua/catalog/platya/params/1=231  fetched in 2.28 seconds
+
+Checking link https://modnicy.ua/catalog/verhnyaya-odezhda/params/1=617
+HEAD https://modnicy.ua/catalog/verhnyaya-odezhda/params/1=617  fetched in 2.06 seconds
+
+Checking link https://modnicy.ua/catalog/shorty/params/1=273
+HEAD https://modnicy.ua/catalog/shorty/params/1=273  fetched in 3.46 seconds
+
+Checking link https://modnicy.ua/catalog/kostyumy-bryuchnye-yubochnye/params/1=187
+HEAD https://modnicy.ua/catalog/kostyumy-bryuchnye-yubochnye/params/1=187  fetched in 4.07 seconds
+
+Checking link https://modnicy.ua/catalog/kombinezony/params/1=273
+HEAD https://modnicy.ua/catalog/kombinezony/params/1=273  fetched in 3.08 seconds
+
+Checking link https://modnicy.ua/files/product/1/43471/43471_s.jpg
+HEAD https://modnicy.ua/files/product/1/43471/43471_s.jpg  fetched in 1.12 seconds
+
+Checking link https://modnicy.ua/catalog/bryuki/params/1=595
+HEAD https://modnicy.ua/catalog/bryuki/params/1=595  fetched in 3.93 seconds
+
+Checking link https://modnicy.ua/catalog/muzhskaya-odezhda-269/params/1=189
+HEAD https://modnicy.ua/catalog/muzhskaya-odezhda-269/params/1=189  fetched in 1.84 seconds
+
+Checking link https://modnicy.ua/catalog/verhnyaya-odezhda/params/1=217
+HEAD https://modnicy.ua/catalog/verhnyaya-odezhda/params/1=217  fetched in 2.79 seconds
+
+Checking link https://modnicy.ua/catalog/bluzki/params/1=600
+HEAD https://modnicy.ua/catalog/bluzki/params/1=600  fetched in 2.17 seconds
+
+Checking link https://modnicy.ua/ua/about
+HEAD https://modnicy.ua/ua/about  fetched in 1.82 seconds
+
+Checking link https://modnicy.ua/catalog/novinki-271/params/1=384
+HEAD https://modnicy.ua/catalog/novinki-271/params/1=384  fetched in 1.53 seconds
+
+Checking link https://modnicy.ua/catalog/detskaya-odezhda/params/1=248
+HEAD https://modnicy.ua/catalog/detskaya-odezhda/params/1=248  fetched in 2.13 seconds
+
+Checking link https://modnicy.ua/catalog/platya/params/1=409
+HEAD https://modnicy.ua/catalog/platya/params/1=409  fetched in 2.25 seconds
+
+Checking link https://modnicy.ua/catalog/kofty-batniki/params/1=187
+HEAD https://modnicy.ua/catalog/kofty-batniki/params/1=187  fetched in 2.81 seconds
+
+Checking link https://modnicy.ua/catalog/kofty-batniki/params/1=232
+HEAD https://modnicy.ua/catalog/kofty-batniki/params/1=232  fetched in 2.26 seconds
+
+Checking link https://modnicy.ua/catalog/shapki/params/1=392
+HEAD https://modnicy.ua/catalog/shapki/params/1=392  fetched in 1.97 seconds
+
+Checking link https://modnicy.ua/catalog/futbolka/params/1=372
+HEAD https://modnicy.ua/catalog/futbolka/params/1=372  fetched in 2.42 seconds
+
+Checking link https://modnicy.ua/catalog/sale-270/params/1=310
+HEAD https://modnicy.ua/catalog/sale-270/params/1=310  fetched in 2.73 seconds
+
+Checking link https://modnicy.ua/catalog/kostyumy-bryuchnye-yubochnye/params/1=592
+HEAD https://modnicy.ua/catalog/kostyumy-bryuchnye-yubochnye/params/1=592  fetched in 2.86 seconds
+
+Checking link https://modnicy.ua/catalog/platya/params/1=310
+HEAD https://modnicy.ua/catalog/platya/params/1=310  fetched in 2.19 seconds
+
+Checking link https://modnicy.ua/tpl/default/files/logo.png
+HEAD https://modnicy.ua/tpl/default/files/logo.png  fetched in 1.12 seconds
+
+Checking link https://modnicy.ua/catalog/platya/params/1=600
+HEAD https://modnicy.ua/catalog/platya/params/1=600  fetched in 2.54 seconds
+
+Checking link https://modnicy.ua/catalog/kardigany/params/1=592
+HEAD https://modnicy.ua/catalog/kardigany/params/1=592  fetched in 2.44 seconds
+
+Checking link https://modnicy.ua/catalog/sportivnaya-odezhda/params/1=189
+HEAD https://modnicy.ua/catalog/sportivnaya-odezhda/params/1=189  fetched in 1.47 seconds
+
+Checking link https://modnicy.ua/catalog/detskaya-odezhda/params/1=187
+HEAD https://modnicy.ua/catalog/detskaya-odezhda/params/1=187  fetched in 2.42 seconds
+
+Checking link https://modnicy.ua/catalog/yubki/params/1=587
+HEAD https://modnicy.ua/catalog/yubki/params/1=587  fetched in 2.43 seconds
+
+Checking link https://modnicy.ua/catalog/novinki-271/params/1=390
+HEAD https://modnicy.ua/catalog/novinki-271/params/1=390  fetched in 2.28 seconds
+
+Checking link https://modnicy.ua/catalog/kostyumy-bryuchnye-yubochnye/params/1=244
+HEAD https://modnicy.ua/catalog/kostyumy-bryuchnye-yubochnye/params/1=244  fetched in 2.05 seconds
+
+Checking link https://modnicy.ua/catalog/kofty-batniki/params/1=254
+HEAD https://modnicy.ua/catalog/kofty-batniki/params/1=254  fetched in 2.13 seconds
+
+Checking link https://modnicy.ua/catalog/sale-270/params/1=585
+HEAD https://modnicy.ua/catalog/sale-270/params/1=585  fetched in 1.44 seconds
+
+Checking link https://modnicy.ua/catalog/sale-270/params/1=370
+HEAD https://modnicy.ua/catalog/sale-270/params/1=370  fetched in 2.20 seconds
+
+Checking link https://modnicy.ua/blog/u-nas-quot-vesennee-nastroenie-quot
+HEAD https://modnicy.ua/blog/u-nas-quot-vesennee-nastroenie-quot  fetched in 2.68 seconds
+
+Checking link https://modnicy.ua/catalog/novinki-271/params/1=625
+HEAD https://modnicy.ua/catalog/novinki-271/params/1=625  fetched in 2.52 seconds
+
+Checking link https://modnicy.ua/catalog/platya/params/1=248
+HEAD https://modnicy.ua/catalog/platya/params/1=248  fetched in 3.37 seconds
+
+Checking link https://modnicy.ua/catalog/bryuki/params/1=308
+HEAD https://modnicy.ua/catalog/bryuki/params/1=308  fetched in 2.08 seconds
+
+Checking link https://modnicy.ua/tpl/default/files/favicon/apple-icon-114x114.png
+HEAD https://modnicy.ua/tpl/default/files/favicon/apple-icon-114x114.png  fetched in 1.48 seconds
+
+Checking link https://modnicy.ua/files/blog/61_s.jpg
+HEAD https://modnicy.ua/files/blog/61_s.jpg  fetched in 1.12 seconds
+
+Checking link https://modnicy.ua/catalog/kostyumy-bryuchnye-yubochnye/params/1=384
+HEAD https://modnicy.ua/catalog/kostyumy-bryuchnye-yubochnye/params/1=384  fetched in 2.16 seconds
+
+Checking link https://modnicy.ua/catalog/kostyumy-bryuchnye-yubochnye/params/1=311
+HEAD https://modnicy.ua/catalog/kostyumy-bryuchnye-yubochnye/params/1=311  fetched in 2.13 seconds
+
+Checking link https://modnicy.ua/catalog/futbolka
+HEAD https://modnicy.ua/catalog/futbolka  fetched in 1.94 seconds
+
+Checking link https://modnicy.ua/tpl/default/files/cart.png
+HEAD https://modnicy.ua/tpl/default/files/cart.png  fetched in 1.48 seconds
+
+Checking link https://modnicy.ua/catalog/sale-270/params/1=311
+HEAD https://modnicy.ua/catalog/sale-270/params/1=311  fetched in 3.43 seconds
+
+Checking link https://modnicy.ua/files/catalog/icon246.png
+HEAD https://modnicy.ua/files/catalog/icon246.png  fetched in 1.12 seconds
+
+Checking link https://modnicy.ua/catalog/midi-256
+HEAD https://modnicy.ua/catalog/midi-256  fetched in 1.93 seconds
+
+Checking link https://modnicy.ua/catalog/sportivnaya-odezhda/params/1=600
+HEAD https://modnicy.ua/catalog/sportivnaya-odezhda/params/1=600  fetched in 1.30 seconds
+
+Checking link https://modnicy.ua/catalog/kofty-batniki
+HEAD https://modnicy.ua/catalog/kofty-batniki  fetched in 2.19 seconds
+
+Checking link https://modnicy.ua/catalog/bluzki/params/1=168
+HEAD https://modnicy.ua/catalog/bluzki/params/1=168  fetched in 2.48 seconds
+
+Checking link https://modnicy.ua/catalog/verhnyaya-odezhda/params/1=330
+HEAD https://modnicy.ua/catalog/verhnyaya-odezhda/params/1=330  fetched in 2.08 seconds
+
+Checking link https://modnicy.ua/catalog/novinki-271/params/1=396
+HEAD https://modnicy.ua/catalog/novinki-271/params/1=396  fetched in 2.45 seconds
+
+Checking link https://modnicy.ua/catalog/sportivnaya-odezhda/params/1=581
+HEAD https://modnicy.ua/catalog/sportivnaya-odezhda/params/1=581  fetched in 2.04 seconds
+
+Checking link https://modnicy.ua/catalog/novinki-271/params/1=370
+HEAD https://modnicy.ua/catalog/novinki-271/params/1=370  fetched in 3.08 seconds
+
+Checking link https://modnicy.ua/catalog/sale-270/params/1=394
+HEAD https://modnicy.ua/catalog/sale-270/params/1=394  fetched in 2.76 seconds
+
+Checking link https://modnicy.ua/catalog/sale-270/params/1=232
+HEAD https://modnicy.ua/catalog/sale-270/params/1=232  fetched in 3.27 seconds
+
+Checking link https://modnicy.ua/catalog/platya-batal
+HEAD https://modnicy.ua/catalog/platya-batal  fetched in 2.33 seconds
+
+Checking link https://modnicy.ua/catalog/platya/params/1=233
+HEAD https://modnicy.ua/catalog/platya/params/1=233  fetched in 1.53 seconds
+
+Checking link https://modnicy.ua/catalog/kombinezony/params/1=385
+HEAD https://modnicy.ua/catalog/kombinezony/params/1=385  fetched in 2.69 seconds
+
+Checking link https://modnicy.ua/catalog/plyazhnaya-odezhda/params/1=422
+HEAD https://modnicy.ua/catalog/plyazhnaya-odezhda/params/1=422  fetched in 2.29 seconds
+
+Checking link https://modnicy.ua/catalog/detskaya-odezhda/params/1=189
+HEAD https://modnicy.ua/catalog/detskaya-odezhda/params/1=189  fetched in 2.08 seconds
+
+Checking link https://modnicy.ua/catalog/futbolka/params/1=232
+HEAD https://modnicy.ua/catalog/futbolka/params/1=232  fetched in 2.04 seconds
+
+Checking link https://modnicy.ua/catalog/plyazhnaya-odezhda/params/1=248
+HEAD https://modnicy.ua/catalog/plyazhnaya-odezhda/params/1=248  fetched in 2.10 seconds
+
+Checking link https://modnicy.ua/tpl/default/js/bxslider/jquery.easing.1.3.js?1518794962
+HEAD https://modnicy.ua/tpl/default/js/bxslider/jquery.easing.1.3.js?1518794962  fetched in 1.12 seconds
+
+Checking link https://modnicy.ua/catalog/platya/params/1=590
+HEAD https://modnicy.ua/catalog/platya/params/1=590  fetched in 2.12 seconds
+
+Checking link https://modnicy.ua/catalog/kofty-batniki/params/1=273
+HEAD https://modnicy.ua/catalog/kofty-batniki/params/1=273  fetched in 3.03 seconds
+
+Checking link https://modnicy.ua/catalog/sale-270/params/1=377
+HEAD https://modnicy.ua/catalog/sale-270/params/1=377  fetched in 2.51 seconds
+
+Checking link https://modnicy.ua/catalog/shorty
+HEAD https://modnicy.ua/catalog/shorty  fetched in 1.62 seconds
+
+Checking link https://modnicy.ua/catalog/sale-270/params/1=589
+HEAD https://modnicy.ua/catalog/sale-270/params/1=589  fetched in 2.50 seconds
+
+Checking link https://modnicy.ua/catalog/platya/params/1=422
+HEAD https://modnicy.ua/catalog/platya/params/1=422  fetched in 3.38 seconds
+
+Checking link https://modnicy.ua/catalog/shapki/params/1=390
+HEAD https://modnicy.ua/catalog/shapki/params/1=390  fetched in 2.07 seconds
+
+Checking link https://modnicy.ua/catalog/kofty-batniki/params/1=470
+HEAD https://modnicy.ua/catalog/kofty-batniki/params/1=470  fetched in 1.99 seconds
+
+Checking link https://modnicy.ua/catalog/novinki-271/params/1=569
+HEAD https://modnicy.ua/catalog/novinki-271/params/1=569  fetched in 3.61 seconds
+
+Checking link https://modnicy.ua/catalog/muzhskaya-odezhda-269/params/1=389
+HEAD https://modnicy.ua/catalog/muzhskaya-odezhda-269/params/1=389  fetched in 1.79 seconds
+
+Checking link https://modnicy.ua/catalog/kofty-batniki/params/1=372
+HEAD https://modnicy.ua/catalog/kofty-batniki/params/1=372  fetched in 2.11 seconds
+
+Checking link https://modnicy.ua/catalog/novinki-271/params/1=273
+HEAD https://modnicy.ua/catalog/novinki-271/params/1=273  fetched in 3.00 seconds
+
+Checking link https://modnicy.ua/catalog/novinki-271/params/1=233
+HEAD https://modnicy.ua/catalog/novinki-271/params/1=233  fetched in 2.55 seconds
+
+Checking link https://modnicy.ua/catalog/bryuchnye-253
+HEAD https://modnicy.ua/catalog/bryuchnye-253  fetched in 3.02 seconds
+
+Checking link https://modnicy.ua/catalog/sportivnaya-odezhda/params/1=167
+HEAD https://modnicy.ua/catalog/sportivnaya-odezhda/params/1=167  fetched in 3.30 seconds
+
+Checking link https://modnicy.ua/catalog/sale-270/params/1=389
+HEAD https://modnicy.ua/catalog/sale-270/params/1=389  fetched in 2.97 seconds
+
+Checking link https://modnicy.ua/product/plate-vorotnichek-05143-13-38335_chernyy
+HEAD https://modnicy.ua/product/plate-vorotnichek-05143-13-38335_chernyy  fetched in 2.07 seconds
+
+Checking link https://modnicy.ua/catalog/sale-270/params/1=216
+HEAD https://modnicy.ua/catalog/sale-270/params/1=216  fetched in 8.06 seconds
+
+Checking link https://modnicy.ua/catalog/yubki/params/1=217
+HEAD https://modnicy.ua/catalog/yubki/params/1=217  fetched in 2.97 seconds
+
+Checking link https://modnicy.ua/catalog/novinki-271/params/1=605
+HEAD https://modnicy.ua/catalog/novinki-271/params/1=605  fetched in 3.27 seconds
+
+Checking link https://modnicy.ua/about
+HEAD https://modnicy.ua/about  fetched in 1.30 seconds
+
+Checking link https://modnicy.ua/collection/kollektsiya-letnij-shik
+HEAD https://modnicy.ua/collection/kollektsiya-letnij-shik  fetched in 4.50 seconds
+
+Checking link https://modnicy.ua/files/catalog/232_s.jpg
+HEAD https://modnicy.ua/files/catalog/232_s.jpg  fetched in 1.12 seconds
+
+Checking link https://modnicy.ua/catalog/plyazhnaya-odezhda/params/1=409
+HEAD https://modnicy.ua/catalog/plyazhnaya-odezhda/params/1=409  fetched in 2.13 seconds
+
+Checking link https://modnicy.ua/catalog/kostyumy-bryuchnye-yubochnye/params/1=394
+HEAD https://modnicy.ua/catalog/kostyumy-bryuchnye-yubochnye/params/1=394  fetched in 3.22 seconds
+
+Checking link https://modnicy.ua/catalog/futbolka/params/1=409
+HEAD https://modnicy.ua/catalog/futbolka/params/1=409  fetched in 3.10 seconds
+
+Checking link https://modnicy.ua/files/collection/269_s.jpg
+HEAD https://modnicy.ua/files/collection/269_s.jpg  fetched in 1.12 seconds
+
+Checking link https://modnicy.ua/catalog/futbolka/params/1=231
+HEAD https://modnicy.ua/catalog/futbolka/params/1=231  fetched in 2.05 seconds
+
+Checking link https://modnicy.ua/collection/vypusknoy-bal-267
+HEAD https://modnicy.ua/collection/vypusknoy-bal-267  fetched in 1.56 seconds
+
+Checking link https://modnicy.ua/catalog/bluzki/params/1=216
+HEAD https://modnicy.ua/catalog/bluzki/params/1=216  fetched in 3.10 seconds
+
+Checking link https://modnicy.ua/catalog/futbolka/params/1=258
+HEAD https://modnicy.ua/catalog/futbolka/params/1=258  fetched in 3.79 seconds
+
+Checking link https://modnicy.ua/files/collection/270_s.jpg
+HEAD https://modnicy.ua/files/collection/270_s.jpg  fetched in 1.12 seconds
+
+Checking link https://modnicy.ua/catalog/futbolka/params/1=308
+HEAD https://modnicy.ua/catalog/futbolka/params/1=308  fetched in 3.18 seconds
+
+Checking link https://modnicy.ua/catalog/sportivnaya-odezhda/params/1=310
+HEAD https://modnicy.ua/catalog/sportivnaya-odezhda/params/1=310  fetched in 1.98 seconds
+
+Checking link https://modnicy.ua/catalog/muzhskaya-odezhda-269/params/1=216
+HEAD https://modnicy.ua/catalog/muzhskaya-odezhda-269/params/1=216  fetched in 1.77 seconds
+
+Checking link https://modnicy.ua/product/koftochka-naryadnaya-849
+HEAD https://modnicy.ua/product/koftochka-naryadnaya-849 
+-> HEAD https://modnicy.ua/product/koftochka-naryadnaya-849_belyy  fetched in 3.47 seconds
+
+Checking link https://modnicy.ua/catalog/platya/params/1=201
+HEAD https://modnicy.ua/catalog/platya/params/1=201  fetched in 2.17 seconds
+
+Checking link https://modnicy.ua/catalog/kostyumy-bryuchnye-yubochnye/params/1=261
+HEAD https://modnicy.ua/catalog/kostyumy-bryuchnye-yubochnye/params/1=261  fetched in 2.08 seconds
+
+Checking link https://modnicy.ua/catalog/novinki-271/params/1=348
+HEAD https://modnicy.ua/catalog/novinki-271/params/1=348  fetched in 2.06 seconds
+
+Checking link https://modnicy.ua/catalog/futbolka/params/1=587
+HEAD https://modnicy.ua/catalog/futbolka/params/1=587  fetched in 2.00 seconds
+
+Checking link https://modnicy.ua/catalog/futbolka/params/1=167
+HEAD https://modnicy.ua/catalog/futbolka/params/1=167  fetched in 2.82 seconds
+
+Checking link https://modnicy.ua/catalog/sale-270/params/1=569
+HEAD https://modnicy.ua/catalog/sale-270/params/1=569  fetched in 2.11 seconds
+
+Checking link https://modnicy.ua/catalog/kofty-batniki/params/1=598
+HEAD https://modnicy.ua/catalog/kofty-batniki/params/1=598  fetched in 3.98 seconds
+
+Checking link https://modnicy.ua/catalog/sale-270/params/1=258
+HEAD https://modnicy.ua/catalog/sale-270/params/1=258  fetched in 2.28 seconds
+
+Checking link https://modnicy.ua/catalog/bluzki/params/1=217
+HEAD https://modnicy.ua/catalog/bluzki/params/1=217  fetched in 2.27 seconds
+
+Checking link https://modnicy.ua/catalog/kostyumy-bryuchnye-yubochnye/params/1=201
+HEAD https://modnicy.ua/catalog/kostyumy-bryuchnye-yubochnye/params/1=201  fetched in 2.27 seconds
+
+Checking link https://modnicy.ua/catalog/kofty-batniki/params/1=308
+HEAD https://modnicy.ua/catalog/kofty-batniki/params/1=308  fetched in 2.55 seconds
+
+Checking link https://modnicy.ua/catalog/kostyumy-bryuchnye-yubochnye/params/1=390
+HEAD https://modnicy.ua/catalog/kostyumy-bryuchnye-yubochnye/params/1=390  fetched in 2.05 seconds
+
+Checking link https://modnicy.ua/catalog/kostyumy-bryuchnye-yubochnye/params/1=168
+HEAD https://modnicy.ua/catalog/kostyumy-bryuchnye-yubochnye/params/1=168  fetched in 2.95 seconds
+
+Checking link https://modnicy.ua/catalog/kostyumy-bryuchnye-yubochnye/params/1=409
+HEAD https://modnicy.ua/catalog/kostyumy-bryuchnye-yubochnye/params/1=409  fetched in 2.89 seconds
+
+Checking link https://modnicy.ua/tpl/default/css/bxslider/jquery.bxslider.css?1507648487
+HEAD https://modnicy.ua/tpl/default/css/bxslider/jquery.bxslider.css?1507648487  fetched in 1.12 seconds
+
+Checking link https://modnicy.ua/files/catalog/271_s.png
+HEAD https://modnicy.ua/files/catalog/271_s.png  fetched in 1.12 seconds
+
+Checking link https://modnicy.ua/catalog/kofty-batniki/params/1=422
+HEAD https://modnicy.ua/catalog/kofty-batniki/params/1=422  fetched in 2.07 seconds
+
+Checking link https://modnicy.ua/files/blog/62_s.png
+HEAD https://modnicy.ua/files/blog/62_s.png  fetched in 1.58 seconds
+
+Checking link https://modnicy.ua/catalog/bryuki/params/1=384
+HEAD https://modnicy.ua/catalog/bryuki/params/1=384  fetched in 2.76 seconds
+
+Checking link https://modnicy.ua/catalog/novinki-271/params/1=311
+HEAD https://modnicy.ua/catalog/novinki-271/params/1=311  fetched in 1.56 seconds
+
+Checking link https://modnicy.ua/catalog/sportivnaya-odezhda/params/1=330
+HEAD https://modnicy.ua/catalog/sportivnaya-odezhda/params/1=330  fetched in 2.18 seconds
+
+Checking link https://modnicy.ua/catalog/bluzki/params/1=422
+HEAD https://modnicy.ua/catalog/bluzki/params/1=422  fetched in 2.14 seconds
+
+Checking link https://modnicy.ua/files/catalog/icon236.png
+HEAD https://modnicy.ua/files/catalog/icon236.png  fetched in 1.12 seconds
+
+Checking link https://modnicy.ua/catalog/sportivnaya-odezhda/params/1=372
+HEAD https://modnicy.ua/catalog/sportivnaya-odezhda/params/1=372  fetched in 2.18 seconds
+
+Checking link https://modnicy.ua/catalog/bluzki/params/1=262
+HEAD https://modnicy.ua/catalog/bluzki/params/1=262  fetched in 1.35 seconds
+
+Checking link https://modnicy.ua/catalog/outlet/params/1=233
+HEAD https://modnicy.ua/catalog/outlet/params/1=233  fetched in 2.07 seconds
+
+Checking link https://modnicy.ua/product/plate-05172
+HEAD https://modnicy.ua/product/plate-05172 
+-> HEAD https://modnicy.ua/product/plate-05172_myata  fetched in 3.20 seconds
+
+Checking link https://modnicy.ua/catalog/verhnyaya-odezhda/params/1=254
+HEAD https://modnicy.ua/catalog/verhnyaya-odezhda/params/1=254  fetched in 1.51 seconds
+
+Checking link https://modnicy.ua/catalog/novinki-271/params/1=624
+HEAD https://modnicy.ua/catalog/novinki-271/params/1=624  fetched in 2.16 seconds
+
+Checking link https://modnicy.ua/files/catalog/icon235.png
+HEAD https://modnicy.ua/files/catalog/icon235.png  fetched in 1.76 seconds
+
+Checking link https://modnicy.ua/tpl/default/files/social/google.png
+HEAD https://modnicy.ua/tpl/default/files/social/google.png  fetched in 1.73 seconds
+
+Checking link https://modnicy.ua/catalog/futbolka/params/1=248
+HEAD https://modnicy.ua/catalog/futbolka/params/1=248  fetched in 2.24 seconds
+
+Checking link https://modnicy.ua/files/product/6/41696/more/27544_s.jpg
+HEAD https://modnicy.ua/files/product/6/41696/more/27544_s.jpg  fetched in 1.12 seconds
+
+Checking link https://modnicy.ua/catalog/bryuki/params/1=233
+HEAD https://modnicy.ua/catalog/bryuki/params/1=233  fetched in 2.79 seconds
+
+Checking link https://modnicy.ua/catalog/plyazhnaya-odezhda/params/1=244
+HEAD https://modnicy.ua/catalog/plyazhnaya-odezhda/params/1=244  fetched in 2.19 seconds
+
+Checking link https://modnicy.ua/catalog/futbolka/params/1=233
+HEAD https://modnicy.ua/catalog/futbolka/params/1=233  fetched in 2.55 seconds
+
+Checking link https://modnicy.ua/catalog/sportivnaya-odezhda/params/1=590
+HEAD https://modnicy.ua/catalog/sportivnaya-odezhda/params/1=590  fetched in 2.79 seconds
+
+Checking link https://modnicy.ua/catalog/platya/params/1=395
+HEAD https://modnicy.ua/catalog/platya/params/1=395  fetched in 2.83 seconds
+
+Checking link https://modnicy.ua/catalog/platya/params/1=189
+HEAD https://modnicy.ua/catalog/platya/params/1=189  fetched in 8.61 seconds
+
+Checking link https://modnicy.ua/catalog/kofty-batniki/params/1=217
+HEAD https://modnicy.ua/catalog/kofty-batniki/params/1=217  fetched in 1.47 seconds
+
+Checking link https://modnicy.ua/catalog/kostyumy-bryuchnye-yubochnye/params/1=470
+HEAD https://modnicy.ua/catalog/kostyumy-bryuchnye-yubochnye/params/1=470  fetched in 3.37 seconds
+
+Checking link https://modnicy.ua/catalog/verhnyaya-odezhda/params/1=201
+HEAD https://modnicy.ua/catalog/verhnyaya-odezhda/params/1=201  fetched in 2.14 seconds
+
+Checking link https://modnicy.ua/catalog/sportivnaya-odezhda/params/1=230
+HEAD https://modnicy.ua/catalog/sportivnaya-odezhda/params/1=230  fetched in 2.73 seconds
+
+Checking link https://modnicy.ua/product/plate-05473-52_olivkovyy598
+HEAD https://modnicy.ua/product/plate-05473-52_olivkovyy598  fetched in 1.54 seconds
+
+Checking link https://modnicy.ua/catalog/platya/params/1=624
+HEAD https://modnicy.ua/catalog/platya/params/1=624  fetched in 2.62 seconds
+
+Checking link https://modnicy.ua/catalog/platya/params/1=585
+HEAD https://modnicy.ua/catalog/platya/params/1=585  fetched in 2.09 seconds
+
+Checking link https://modnicy.ua/catalog/sportivnaya-odezhda/params/1=598
+HEAD https://modnicy.ua/catalog/sportivnaya-odezhda/params/1=598  fetched in 2.08 seconds
+
+Checking link https://modnicy.ua/catalog/actions
+HEAD https://modnicy.ua/catalog/actions  fetched in 3.08 seconds
+
+Checking link https://modnicy.ua/catalog/kardigany/params/1=370
+HEAD https://modnicy.ua/catalog/kardigany/params/1=370  fetched in 2.11 seconds
+
+Checking link https://modnicy.ua/catalog/novinki-271/params/1=592
+HEAD https://modnicy.ua/catalog/novinki-271/params/1=592  fetched in 2.63 seconds
+
+Checking link https://modnicy.ua/users/sign-in
+HEAD https://modnicy.ua/users/sign-in  fetched in 0.00 seconds
+
+Checking link https://modnicy.ua/
+Already checked.
+
+Checking link https://modnicy.ua/files/product/9/29919/29919_s.jpg
+HEAD https://modnicy.ua/files/product/9/29919/29919_s.jpg  fetched in 1.59 seconds
+
+Checking link https://modnicy.ua/catalog/bryuki/params/1=580
+HEAD https://modnicy.ua/catalog/bryuki/params/1=580  fetched in 2.49 seconds
+
+Checking link https://modnicy.ua/catalog/sportivnaya-odezhda/params/1=254
+HEAD https://modnicy.ua/catalog/sportivnaya-odezhda/params/1=254  fetched in 1.41 seconds
+
+Checking link https://modnicy.ua/catalog/novinki-271/params/1=470
+HEAD https://modnicy.ua/catalog/novinki-271/params/1=470  fetched in 2.03 seconds
+
+Checking link https://modnicy.ua/tpl/default/css/jquery.datetimepicker.css?1507648469
+HEAD https://modnicy.ua/tpl/default/css/jquery.datetimepicker.css?1507648469  fetched in 1.12 seconds
+
+Checking link https://modnicy.ua/catalog/sale-270/params/1=279
+HEAD https://modnicy.ua/catalog/sale-270/params/1=279  fetched in 2.05 seconds
+
+Checking link https://modnicy.ua/catalog/kostyumy-bryuchnye-yubochnye/params/1=232
+HEAD https://modnicy.ua/catalog/kostyumy-bryuchnye-yubochnye/params/1=232  fetched in 1.97 seconds
+
+Checking link https://modnicy.ua/catalog/novinki-271/params/1=587
+HEAD https://modnicy.ua/catalog/novinki-271/params/1=587  fetched in 1.50 seconds
+
+Checking link https://modnicy.ua/catalog/kombinezony/params/1=311
+HEAD https://modnicy.ua/catalog/kombinezony/params/1=311  fetched in 2.05 seconds
+
+Checking link https://modnicy.ua/tpl/default/files/favicon/apple-icon-180x180.png
+HEAD https://modnicy.ua/tpl/default/files/favicon/apple-icon-180x180.png  fetched in 1.48 seconds
+
+Checking link https://modnicy.ua/catalog/platya/params/1=216
+HEAD https://modnicy.ua/catalog/platya/params/1=216  fetched in 1.67 seconds
+
+Checking link https://modnicy.ua/catalog/sale-270/params/1=348
+HEAD https://modnicy.ua/catalog/sale-270/params/1=348  fetched in 2.12 seconds
+
+Checking link https://modnicy.ua/catalog/sale-270/params/1=398
+HEAD https://modnicy.ua/catalog/sale-270/params/1=398  fetched in 2.07 seconds
+
+Checking link https://modnicy.ua/catalog/kostyumy-bryuchnye-yubochnye/params/1=339
+HEAD https://modnicy.ua/catalog/kostyumy-bryuchnye-yubochnye/params/1=339  fetched in 3.16 seconds
+
+Checking link https://modnicy.ua/catalog/novinki-271/params/1=409
+HEAD https://modnicy.ua/catalog/novinki-271/params/1=409  fetched in 3.46 seconds
+
+Checking link https://modnicy.ua/catalog/kofty-batniki/params/1=330
+HEAD https://modnicy.ua/catalog/kofty-batniki/params/1=330  fetched in 1.97 seconds
+
+Checking link https://modnicy.ua/catalog/outlet/params/1=248
+HEAD https://modnicy.ua/catalog/outlet/params/1=248  fetched in 1.36 seconds
+
+Checking link https://modnicy.ua/catalog/sale-270/params/1=308
+HEAD https://modnicy.ua/catalog/sale-270/params/1=308  fetched in 1.55 seconds
+
+Checking link https://modnicy.ua/catalog/futbolka/params/1=600
+HEAD https://modnicy.ua/catalog/futbolka/params/1=600  fetched in 1.98 seconds
+
+Checking link https://modnicy.ua/catalog/kofty-batniki/params/1=243
+HEAD https://modnicy.ua/catalog/kofty-batniki/params/1=243  fetched in 2.04 seconds
+
+Checking link https://modnicy.ua/catalog/bryuki/params/1=389
+HEAD https://modnicy.ua/catalog/bryuki/params/1=389  fetched in 2.24 seconds
+
+Checking link https://modnicy.ua/catalog/kombinezony/params/1=216
+HEAD https://modnicy.ua/catalog/kombinezony/params/1=216  fetched in 2.11 seconds
+
+Checking link https://modnicy.ua/catalog/platya/params/1=308
+HEAD https://modnicy.ua/catalog/platya/params/1=308  fetched in 2.33 seconds
+
+Checking link https://modnicy.ua/catalog/bluzki/params/1=243
+HEAD https://modnicy.ua/catalog/bluzki/params/1=243  fetched in 2.14 seconds
+
+Checking link https://modnicy.ua/catalog/muzhskaya-odezhda-269/params/1=232
+HEAD https://modnicy.ua/catalog/muzhskaya-odezhda-269/params/1=232  fetched in 1.30 seconds
+
+Checking link https://modnicy.ua/catalog/verhnyaya-odezhda
+HEAD https://modnicy.ua/catalog/verhnyaya-odezhda  fetched in 1.78 seconds
+
+Checking link https://modnicy.ua/catalog/kostyumy-bryuchnye-yubochnye/params/1=579
+HEAD https://modnicy.ua/catalog/kostyumy-bryuchnye-yubochnye/params/1=579  fetched in 2.16 seconds
+
+Checking link https://modnicy.ua/catalog/kardigany/params/1=254
+HEAD https://modnicy.ua/catalog/kardigany/params/1=254  fetched in 2.06 seconds
+
+Checking link https://modnicy.ua/catalog/detskaya-odezhda/params/1=261
+HEAD https://modnicy.ua/catalog/detskaya-odezhda/params/1=261  fetched in 2.42 seconds
+
+Checking link https://modnicy.ua/catalog/futbolka/params/1=311
+HEAD https://modnicy.ua/catalog/futbolka/params/1=311  fetched in 3.08 seconds
+
+Checking link https://modnicy.ua/catalog/yubki/params/1=254
+HEAD https://modnicy.ua/catalog/yubki/params/1=254  fetched in 2.08 seconds
+
+Checking link https://modnicy.ua/catalog/losiny/params/1=385
+HEAD https://modnicy.ua/catalog/losiny/params/1=385  fetched in 3.24 seconds
+
+Checking link https://modnicy.ua/catalog/kostyumy-bryuchnye-yubochnye/params/1=392
+HEAD https://modnicy.ua/catalog/kostyumy-bryuchnye-yubochnye/params/1=392  fetched in 3.68 seconds
+
+Checking link https://modnicy.ua/catalog/plyazhnaya-odezhda/params/1=308
+HEAD https://modnicy.ua/catalog/plyazhnaya-odezhda/params/1=308  fetched in 2.19 seconds
+
+Checking link https://modnicy.ua/tpl/default/js/jquery.countdown.min.js?1518794960
+HEAD https://modnicy.ua/tpl/default/js/jquery.countdown.min.js?1518794960  fetched in 1.91 seconds
+
+Checking link https://modnicy.ua/catalog/plyazhnaya-odezhda/params/1=580
+HEAD https://modnicy.ua/catalog/plyazhnaya-odezhda/params/1=580  fetched in 2.35 seconds
+
+Checking link https://modnicy.ua/catalog/bluzki/params/1=424
+HEAD https://modnicy.ua/catalog/bluzki/params/1=424  fetched in 3.20 seconds
+
+Checking link https://modnicy.ua/catalog/kardigany/params/1=581
+HEAD https://modnicy.ua/catalog/kardigany/params/1=581  fetched in 2.18 seconds
+
+Checking link https://modnicy.ua/tpl/default/js/basev2.js?1597217538
+HEAD https://modnicy.ua/tpl/default/js/basev2.js?1597217538  fetched in 1.12 seconds
+
+Checking link https://modnicy.ua/oplata-i-dostavka
+HEAD https://modnicy.ua/oplata-i-dostavka  fetched in 1.33 seconds
+
+Checking link https://modnicy.ua/files/catalog/262_s.jpg
+HEAD https://modnicy.ua/files/catalog/262_s.jpg  fetched in 1.12 seconds
+
+Checking link https://modnicy.ua/ua/
+HEAD https://modnicy.ua/ua/ 
+-> HEAD https://modnicy.ua/ua  fetched in 3.43 seconds
+
+Checking link https://modnicy.ua/catalog/verhnyaya-odezhda/params/1=232
+HEAD https://modnicy.ua/catalog/verhnyaya-odezhda/params/1=232  fetched in 2.10 seconds
+
+Checking link https://modnicy.ua/catalog/shapki/params/1=216
+HEAD https://modnicy.ua/catalog/shapki/params/1=216  fetched in 1.99 seconds
+
+Checking link https://modnicy.ua/catalog/novinki-271/params/1=599
+HEAD https://modnicy.ua/catalog/novinki-271/params/1=599  fetched in 2.00 seconds
+
+Checking link https://modnicy.ua/users/sign-up
+HEAD https://modnicy.ua/users/sign-up  fetched in 0.00 seconds
+
+Checking link https://modnicy.ua/catalog/kofty-batniki/params/1=385
+HEAD https://modnicy.ua/catalog/kofty-batniki/params/1=385  fetched in 2.15 seconds
+
+Checking link https://modnicy.ua/catalog/sale-270/params/1=262
+HEAD https://modnicy.ua/catalog/sale-270/params/1=262  fetched in 2.07 seconds
+
+Checking link https://modnicy.ua/product/zhenskiy-karigan-86
+HEAD https://modnicy.ua/product/zhenskiy-karigan-86 
+-> HEAD https://modnicy.ua/product/zhenskiy-karigan-86_temnosiniy  fetched in 2.95 seconds
+
+Checking link https://modnicy.ua/catalog/bluzki/params/1=330
+HEAD https://modnicy.ua/catalog/bluzki/params/1=330  fetched in 1.99 seconds
+
+Checking link https://modnicy.ua/catalog/novinki-271/params/1=398
+HEAD https://modnicy.ua/catalog/novinki-271/params/1=398  fetched in 2.20 seconds
+
+Checking link https://modnicy.ua/product/plate-5234-13-70952
+HEAD https://modnicy.ua/product/plate-5234-13-70952 
+-> HEAD https://modnicy.ua/product/plate-5234-13-70952_pudra  fetched in 3.94 seconds
+
+Checking link https://modnicy.ua/catalog/plyazhnaya-odezhda/params/1=254
+HEAD https://modnicy.ua/catalog/plyazhnaya-odezhda/params/1=254  fetched in 2.18 seconds
+
+Checking link https://modnicy.ua/catalog/bluzki/params/1=167
+HEAD https://modnicy.ua/catalog/bluzki/params/1=167  fetched in 2.56 seconds
+
+Checking link https://modnicy.ua/catalog/plyazhnaya-odezhda/params/1=424
+HEAD https://modnicy.ua/catalog/plyazhnaya-odezhda/params/1=424  fetched in 2.02 seconds
+
+Checking link https://modnicy.ua/catalog/shapki/params/1=422
+HEAD https://modnicy.ua/catalog/shapki/params/1=422  fetched in 2.39 seconds
+
+Checking link https://modnicy.ua/catalog/futbolka/params/1=350
+HEAD https://modnicy.ua/catalog/futbolka/params/1=350  fetched in 2.11 seconds
+
+Checking link https://modnicy.ua/catalog/sportivnaya-odezhda/params/1=624
+HEAD https://modnicy.ua/catalog/sportivnaya-odezhda/params/1=624  fetched in 2.14 seconds
+
+Checking link https://modnicy.ua/price
+HEAD https://modnicy.ua/price  fetched in 1.28 seconds
+
+Checking link https://modnicy.ua/catalog/kostyumy-bryuchnye-yubochnye/params/1=233
+HEAD https://modnicy.ua/catalog/kostyumy-bryuchnye-yubochnye/params/1=233  fetched in 2.27 seconds
+
+Checking link https://modnicy.ua/catalog/kardigany/params/1=624
+HEAD https://modnicy.ua/catalog/kardigany/params/1=624  fetched in 2.15 seconds
+
+Checking link https://modnicy.ua/catalog/sale-270/params/1=397
+HEAD https://modnicy.ua/catalog/sale-270/params/1=397  fetched in 2.09 seconds
+
+Checking link https://modnicy.ua/catalog/kostyumy-bryuchnye-yubochnye/params/1=398
+HEAD https://modnicy.ua/catalog/kostyumy-bryuchnye-yubochnye/params/1=398  fetched in 2.79 seconds
+
+Checking link https://modnicy.ua/catalog/shapki/params/1=168
+HEAD https://modnicy.ua/catalog/shapki/params/1=168  fetched in 2.76 seconds
+
+Checking link https://modnicy.ua/catalog/sale-270/params/1=201
+HEAD https://modnicy.ua/catalog/sale-270/params/1=201  fetched in 2.52 seconds
+
+Checking link https://modnicy.ua/catalog/kostyumy-bryuchnye-yubochnye/params/1=230
+HEAD https://modnicy.ua/catalog/kostyumy-bryuchnye-yubochnye/params/1=230  fetched in 2.03 seconds
+
+Checking link https://modnicy.ua/catalog/bluzki/params/1=258
+HEAD https://modnicy.ua/catalog/bluzki/params/1=258  fetched in 2.13 seconds
+
+Checking link https://modnicy.ua/catalog/yubki/params/1=167
+HEAD https://modnicy.ua/catalog/yubki/params/1=167  fetched in 2.07 seconds
+
+Checking link https://modnicy.ua/catalog/sportivnaya-odezhda/params/1=273
+HEAD https://modnicy.ua/catalog/sportivnaya-odezhda/params/1=273  fetched in 2.06 seconds
+
+Checking link https://modnicy.ua/catalog/sale-270/params/1=273
+HEAD https://modnicy.ua/catalog/sale-270/params/1=273  fetched in 1.51 seconds
+
+Checking link https://modnicy.ua/product/kostyum-s-yubkoy-3141_blue217
+HEAD https://modnicy.ua/product/kostyum-s-yubkoy-3141_blue217  fetched in 1.33 seconds
+
+Checking link https://modnicy.ua/catalog/bluzki/params/1=377
+HEAD https://modnicy.ua/catalog/bluzki/params/1=377  fetched in 2.12 seconds
+
+Checking link https://modnicy.ua/catalog/bryuki/params/1=409
+HEAD https://modnicy.ua/catalog/bryuki/params/1=409  fetched in 2.04 seconds
+
+Checking link https://modnicy.ua/catalog/verhnyaya-odezhda/params/1=370
+HEAD https://modnicy.ua/catalog/verhnyaya-odezhda/params/1=370  fetched in 2.14 seconds
+
+Checking link https://modnicy.ua/catalog/shorty/params/1=232
+HEAD https://modnicy.ua/catalog/shorty/params/1=232  fetched in 4.31 seconds
+
+Checking link https://modnicy.ua/catalog/shapki/params/1=244
+HEAD https://modnicy.ua/catalog/shapki/params/1=244  fetched in 2.07 seconds
+
+Checking link https://modnicy.ua/catalog/shapki/params/1=397
+HEAD https://modnicy.ua/catalog/shapki/params/1=397  fetched in 2.03 seconds
+
+Checking link https://modnicy.ua/catalog/kardigany/params/1=389
+HEAD https://modnicy.ua/catalog/kardigany/params/1=389  fetched in 2.33 seconds
+
+Checking link https://modnicy.ua/catalog/verhnyaya-odezhda/params/1=592
+HEAD https://modnicy.ua/catalog/verhnyaya-odezhda/params/1=592  fetched in 1.32 seconds
+
+Checking link https://modnicy.ua/catalog/bluzki/params/1=405
+HEAD https://modnicy.ua/catalog/bluzki/params/1=405  fetched in 2.24 seconds
+
+Checking link https://modnicy.ua/catalog/yubki/params/1=598
+HEAD https://modnicy.ua/catalog/yubki/params/1=598  fetched in 2.87 seconds
+
+Checking link https://modnicy.ua/catalog/plyazhnaya-odezhda/params/1=598
+HEAD https://modnicy.ua/catalog/plyazhnaya-odezhda/params/1=598  fetched in 2.55 seconds
+
+Checking link https://modnicy.ua/catalog/platya/params/1=273
+HEAD https://modnicy.ua/catalog/platya/params/1=273  fetched in 2.94 seconds
+
+Checking link https://modnicy.ua/files/product/7/48267/48267_s.jpg
+HEAD https://modnicy.ua/files/product/7/48267/48267_s.jpg  fetched in 1.12 seconds
+
+Checking link https://modnicy.ua/catalog/plyazhnaya-odezhda/params/1=470
+HEAD https://modnicy.ua/catalog/plyazhnaya-odezhda/params/1=470  fetched in 2.27 seconds
+
+Checking link https://modnicy.ua/catalog/sale-270/params/1=350
+HEAD https://modnicy.ua/catalog/sale-270/params/1=350  fetched in 2.07 seconds
+
+Checking link https://modnicy.ua/catalog/kofty-batniki/params/1=392
+HEAD https://modnicy.ua/catalog/kofty-batniki/params/1=392  fetched in 3.50 seconds
+
+Checking link https://modnicy.ua/catalog/shapki/params/1=248
+HEAD https://modnicy.ua/catalog/shapki/params/1=248  fetched in 2.02 seconds
+
+Checking link https://modnicy.ua/catalog/verhnyaya-odezhda/params/1=624
+HEAD https://modnicy.ua/catalog/verhnyaya-odezhda/params/1=624  fetched in 2.32 seconds
+
+Checking link https://modnicy.ua/tpl/default/files/favicon/apple-icon-60x60.png
+HEAD https://modnicy.ua/tpl/default/files/favicon/apple-icon-60x60.png  fetched in 1.75 seconds
+
+Checking link https://modnicy.ua/catalog/recomand
+HEAD https://modnicy.ua/catalog/recomand  fetched in 2.07 seconds
+
+Checking link https://modnicy.ua/catalog/platya-midi-267
+HEAD https://modnicy.ua/catalog/platya-midi-267  fetched in 1.78 seconds
+
+Checking link https://modnicy.ua/catalog/futbolka/params/1=253
+HEAD https://modnicy.ua/catalog/futbolka/params/1=253  fetched in 2.24 seconds
+
+Checking link https://modnicy.ua/catalog/sportivnaya-odezhda/params/1=470
+HEAD https://modnicy.ua/catalog/sportivnaya-odezhda/params/1=470  fetched in 3.26 seconds
+
+Checking link https://modnicy.ua/catalog/detskaya-odezhda/params/1=587
+HEAD https://modnicy.ua/catalog/detskaya-odezhda/params/1=587  fetched in 2.00 seconds
+
+Checking link https://modnicy.ua/catalog/verhnyaya-odezhda/params/1=248
+HEAD https://modnicy.ua/catalog/verhnyaya-odezhda/params/1=248  fetched in 2.06 seconds
+
+Checking link https://modnicy.ua/catalog/platya/params/1=390
+HEAD https://modnicy.ua/catalog/platya/params/1=390  fetched in 2.62 seconds
+
+Checking link https://modnicy.ua/catalog/kostyumy-bryuchnye-yubochnye
+HEAD https://modnicy.ua/catalog/kostyumy-bryuchnye-yubochnye  fetched in 3.77 seconds
+
+Checking link https://modnicy.ua/catalog/platya/params/1=243
+HEAD https://modnicy.ua/catalog/platya/params/1=243  fetched in 2.15 seconds
+
+Checking link https://modnicy.ua/catalog/plyazhnaya-odezhda/params/1=372
+HEAD https://modnicy.ua/catalog/plyazhnaya-odezhda/params/1=372  fetched in 2.46 seconds
+
+Checking link https://modnicy.ua/files/catalog/icon237.png
+HEAD https://modnicy.ua/files/catalog/icon237.png  fetched in 1.12 seconds
+
+Checking link https://modnicy.ua/files/product/7/50887/50887_s.jpg
+HEAD https://modnicy.ua/files/product/7/50887/50887_s.jpg  fetched in 3.75 seconds
+
+Checking link https://modnicy.ua/catalog/kardigany/params/1=244
+HEAD https://modnicy.ua/catalog/kardigany/params/1=244  fetched in 3.11 seconds
+
+Checking link https://modnicy.ua/product/plate-03721
+HEAD https://modnicy.ua/product/plate-03721 
+-> HEAD https://modnicy.ua/product/plate-03721_malinoviy  fetched in 2.71 seconds
+
+Checking link https://modnicy.ua/catalog/dlinnye-268
+HEAD https://modnicy.ua/catalog/dlinnye-268  fetched in 1.57 seconds
+
+Checking link https://modnicy.ua/catalog/bryuki/params/1=248
+HEAD https://modnicy.ua/catalog/bryuki/params/1=248  fetched in 2.65 seconds
+
+Checking link https://modnicy.ua/catalog/platya/params/1=389
+HEAD https://modnicy.ua/catalog/platya/params/1=389  fetched in 4.25 seconds
+
+Checking link https://modnicy.ua/catalog/plyazhnaya-odezhda/params/1=604
+HEAD https://modnicy.ua/catalog/plyazhnaya-odezhda/params/1=604  fetched in 2.01 seconds
+
+Checking link https://modnicy.ua/catalog/bluzki/params/1=261
+HEAD https://modnicy.ua/catalog/bluzki/params/1=261  fetched in 2.14 seconds
+
+Checking link https://modnicy.ua/catalog/shapki/params/1=409
+HEAD https://modnicy.ua/catalog/shapki/params/1=409  fetched in 2.37 seconds
+
+Checking link https://modnicy.ua/catalog/kurtki-259
+HEAD https://modnicy.ua/catalog/kurtki-259  fetched in 1.76 seconds
+
+Checking link https://modnicy.ua/catalog/outlet/params/1=389
+HEAD https://modnicy.ua/catalog/outlet/params/1=389  fetched in 1.38 seconds
+
+Checking link https://modnicy.ua/catalog/novetly
+HEAD https://modnicy.ua/catalog/novetly  fetched in 1.80 seconds
+
+Checking link https://modnicy.ua/files/catalog/229_s.jpg
+HEAD https://modnicy.ua/files/catalog/229_s.jpg  fetched in 1.12 seconds
+
+Checking link https://modnicy.ua/catalog/platya-norma
+HEAD https://modnicy.ua/catalog/platya-norma  fetched in 3.89 seconds
+
+Checking link https://modnicy.ua/catalog/platya/params/1=595
+HEAD https://modnicy.ua/catalog/platya/params/1=595  fetched in 2.11 seconds
+
+Checking link https://modnicy.ua/catalog/bluzki/params/1=201
+HEAD https://modnicy.ua/catalog/bluzki/params/1=201  fetched in 2.02 seconds
+
+Checking link https://modnicy.ua/catalog/platya/params/1=569
+HEAD https://modnicy.ua/catalog/platya/params/1=569  fetched in 2.82 seconds
+
+Checking link https://modnicy.ua/catalog/yubki/params/1=216
+HEAD https://modnicy.ua/catalog/yubki/params/1=216  fetched in 1.45 seconds
+
+Checking link https://modnicy.ua/catalog/sale-270/params/1=404
+HEAD https://modnicy.ua/catalog/sale-270/params/1=404  fetched in 1.47 seconds
+
+Checking link https://modnicy.ua/catalog/shorty/params/1=595
+HEAD https://modnicy.ua/catalog/shorty/params/1=595  fetched in 3.14 seconds
+
+Checking link https://modnicy.ua/catalog/futbolka/params/1=598
+HEAD https://modnicy.ua/catalog/futbolka/params/1=598  fetched in 2.03 seconds
+
+Checking link https://modnicy.ua/catalog/bluzki/params/1=248
+HEAD https://modnicy.ua/catalog/bluzki/params/1=248  fetched in 1.46 seconds
+
+Checking link https://modnicy.ua/catalog/bluzki/params/1=470
+HEAD https://modnicy.ua/catalog/bluzki/params/1=470  fetched in 3.19 seconds
+
+Checking link https://modnicy.ua/catalog/sale-270/params/1=189
+HEAD https://modnicy.ua/catalog/sale-270/params/1=189  fetched in 4.91 seconds
+
+Checking link https://modnicy.ua/catalog/kardigany/params/1=248
+HEAD https://modnicy.ua/catalog/kardigany/params/1=248  fetched in 2.05 seconds
+
+Checking link https://modnicy.ua/catalog/yubki/params/1=258
+HEAD https://modnicy.ua/catalog/yubki/params/1=258  fetched in 2.73 seconds
+
+Checking link https://modnicy.ua/catalog/novinki-271/params/1=217
+HEAD https://modnicy.ua/catalog/novinki-271/params/1=217  fetched in 1.56 seconds
+
+Checking link https://modnicy.ua/catalog/kardigany/params/1=216
+HEAD https://modnicy.ua/catalog/kardigany/params/1=216  fetched in 2.12 seconds
+
+Checking link https://modnicy.ua/catalog/kardigany/params/1=231
+HEAD https://modnicy.ua/catalog/kardigany/params/1=231  fetched in 2.11 seconds
+
+Checking link https://modnicy.ua/catalog/platya/params/1=262
+HEAD https://modnicy.ua/catalog/platya/params/1=262  fetched in 2.07 seconds
+
+Checking link https://modnicy.ua/catalog/kofty-batniki/params/1=404
+HEAD https://modnicy.ua/catalog/kofty-batniki/params/1=404  fetched in 1.99 seconds
+
+Checking link https://modnicy.ua/catalog/yubochnye-254
+HEAD https://modnicy.ua/catalog/yubochnye-254  fetched in 1.34 seconds
+
+Checking link https://modnicy.ua/catalog/sale-270/params/1=599
+HEAD https://modnicy.ua/catalog/sale-270/params/1=599  fetched in 2.73 seconds
+
+Checking link https://modnicy.ua/catalog/platya/params/1=217
+HEAD https://modnicy.ua/catalog/platya/params/1=217  fetched in 4.08 seconds
+
+Checking link https://modnicy.ua/catalog/verhnyaya-odezhda/params/1=377
+HEAD https://modnicy.ua/catalog/verhnyaya-odezhda/params/1=377  fetched in 2.34 seconds
+
+Checking link https://modnicy.ua/catalog/bryuki/params/1=600
+HEAD https://modnicy.ua/catalog/bryuki/params/1=600  fetched in 2.38 seconds
+
+Checking link https://modnicy.ua/catalog/kardigany/params/1=470
+HEAD https://modnicy.ua/catalog/kardigany/params/1=470  fetched in 2.94 seconds
+
+Checking link https://modnicy.ua/catalog/outlet/params/1=370
+HEAD https://modnicy.ua/catalog/outlet/params/1=370  fetched in 1.34 seconds
+
+Checking link https://modnicy.ua/catalog/outlet/params/1=189
+HEAD https://modnicy.ua/catalog/outlet/params/1=189  fetched in 1.36 seconds
+
+Checking link https://modnicy.ua/catalog/verhnyaya-odezhda/params/1=409
+HEAD https://modnicy.ua/catalog/verhnyaya-odezhda/params/1=409  fetched in 2.27 seconds
+
+Checking link https://modnicy.ua/catalog/bryuki/params/1=217
+HEAD https://modnicy.ua/catalog/bryuki/params/1=217  fetched in 2.34 seconds
+
+Checking link https://modnicy.ua/catalog/yubki/params/1=389
+HEAD https://modnicy.ua/catalog/yubki/params/1=389  fetched in 1.99 seconds
+
+Checking link https://modnicy.ua/catalog/outlet/params/1=217
+HEAD https://modnicy.ua/catalog/outlet/params/1=217  fetched in 1.66 seconds
+
+Checking link https://modnicy.ua/catalog/novinki-271/params/1=187
+HEAD https://modnicy.ua/catalog/novinki-271/params/1=187  fetched in 1.92 seconds
+
+Checking link https://modnicy.ua/catalog/sale-270/params/1=384
+HEAD https://modnicy.ua/catalog/sale-270/params/1=384  fetched in 2.37 seconds
+
+Checking link https://modnicy.ua/files/catalog/272_s.jpg
+HEAD https://modnicy.ua/files/catalog/272_s.jpg  fetched in 1.48 seconds
+
+Checking link https://modnicy.ua/catalog/novinki-271/params/1=201
+HEAD https://modnicy.ua/catalog/novinki-271/params/1=201  fetched in 2.10 seconds
+
+Checking link https://modnicy.ua/catalog/novinki-271/params/1=279
+HEAD https://modnicy.ua/catalog/novinki-271/params/1=279  fetched in 2.08 seconds
+
+Checking link https://modnicy.ua/catalog/bluzki/params/1=404
+HEAD https://modnicy.ua/catalog/bluzki/params/1=404  fetched in 2.00 seconds
+
+Checking link https://modnicy.ua/catalog/novinki-271/params/1=394
+HEAD https://modnicy.ua/catalog/novinki-271/params/1=394  fetched in 2.08 seconds
+
+Checking link https://modnicy.ua/catalog/losiny/params/1=232
+HEAD https://modnicy.ua/catalog/losiny/params/1=232  fetched in 2.06 seconds
+
+Checking link https://modnicy.ua/catalog/bryuki/params/1=579
+HEAD https://modnicy.ua/catalog/bryuki/params/1=579  fetched in 2.00 seconds
+
+Checking link https://modnicy.ua/catalog/outlet/params/1=254
+HEAD https://modnicy.ua/catalog/outlet/params/1=254  fetched in 1.33 seconds
+
+Checking link https://modnicy.ua/catalog/novinki-271/params/1=232
+HEAD https://modnicy.ua/catalog/novinki-271/params/1=232  fetched in 4.64 seconds
+
+Checking link https://modnicy.ua/catalog/novinki-271/params/1=243
+HEAD https://modnicy.ua/catalog/novinki-271/params/1=243  fetched in 2.20 seconds
+
+Checking link https://modnicy.ua/catalog/outlet/params/1=167
+HEAD https://modnicy.ua/catalog/outlet/params/1=167  fetched in 1.32 seconds
+
+Checking link https://modnicy.ua/catalog/kardigany/params/1=600
+HEAD https://modnicy.ua/catalog/kardigany/params/1=600  fetched in 2.35 seconds
+
+Checking link https://modnicy.ua/catalog/platya/params/1=625
+HEAD https://modnicy.ua/catalog/platya/params/1=625  fetched in 2.79 seconds
+
+Checking link https://modnicy.ua/catalog/platya/params/1=617
+HEAD https://modnicy.ua/catalog/platya/params/1=617  fetched in 1.86 seconds
+
+Checking link https://modnicy.ua/catalog/plyazhnaya-odezhda/params/1=230
+HEAD https://modnicy.ua/catalog/plyazhnaya-odezhda/params/1=230  fetched in 2.04 seconds
+
+Checking link https://modnicy.ua/catalog/kardigany/params/1=233
+HEAD https://modnicy.ua/catalog/kardigany/params/1=233  fetched in 2.05 seconds
+
+Checking link https://modnicy.ua/catalog/platya
+HEAD https://modnicy.ua/catalog/platya  fetched in 3.08 seconds
+
+Checking link https://modnicy.ua/catalog/novinki-271/params/1=248
+HEAD https://modnicy.ua/catalog/novinki-271/params/1=248  fetched in 1.70 seconds
+
+Checking link https://modnicy.ua/catalog/sale-270/params/1=595
+HEAD https://modnicy.ua/catalog/sale-270/params/1=595  fetched in 2.37 seconds
+
+Checking link https://modnicy.ua/catalog/futbolka/params/1=370
+HEAD https://modnicy.ua/catalog/futbolka/params/1=370  fetched in 3.17 seconds
+
+Checking link https://modnicy.ua/catalog/shapki/params/1=394
+HEAD https://modnicy.ua/catalog/shapki/params/1=394  fetched in 1.34 seconds
+
+Checking link https://modnicy.ua/catalog/kofty-batniki/params/1=253
+HEAD https://modnicy.ua/catalog/kofty-batniki/params/1=253  fetched in 2.45 seconds
+
+Checking link https://modnicy.ua/catalog/yubki/params/1=404
+HEAD https://modnicy.ua/catalog/yubki/params/1=404  fetched in 1.98 seconds
+
+Checking link https://modnicy.ua/catalog/kombinezony/params/1=231
+HEAD https://modnicy.ua/catalog/kombinezony/params/1=231  fetched in 2.99 seconds
+
+Checking link https://modnicy.ua/files/catalog/235_s.jpg
+HEAD https://modnicy.ua/files/catalog/235_s.jpg  fetched in 1.12 seconds
+
+Checking link https://modnicy.ua/catalog/kardigany/params/1=569
+HEAD https://modnicy.ua/catalog/kardigany/params/1=569  fetched in 1.95 seconds
+
+Checking link https://modnicy.ua/catalog/yubki/params/1=189
+HEAD https://modnicy.ua/catalog/yubki/params/1=189  fetched in 1.50 seconds
+
+Checking link https://modnicy.ua/catalog/kostyumy-bryuchnye-yubochnye/params/1=404
+HEAD https://modnicy.ua/catalog/kostyumy-bryuchnye-yubochnye/params/1=404  fetched in 2.39 seconds
+
+Checking link https://modnicy.ua/favorite/0
+HEAD https://modnicy.ua/favorite/0  fetched in 0.00 seconds
+
+Checking link https://modnicy.ua/catalog/novinki-271/params/1=377
+HEAD https://modnicy.ua/catalog/novinki-271/params/1=377  fetched in 1.98 seconds
+
+Checking link https://modnicy.ua/catalog/platya/params/1=598
+HEAD https://modnicy.ua/catalog/platya/params/1=598  fetched in 2.27 seconds
+
+Checking link https://modnicy.ua/catalog/kardigany/params/1=384
+HEAD https://modnicy.ua/catalog/kardigany/params/1=384  fetched in 2.06 seconds
+
+Checking link https://modnicy.ua/catalog/verhnyaya-odezhda/params/1=405
+HEAD https://modnicy.ua/catalog/verhnyaya-odezhda/params/1=405  fetched in 2.36 seconds
+
+Checking link https://modnicy.ua/catalog/kofty-batniki/params/1=311
+HEAD https://modnicy.ua/catalog/kofty-batniki/params/1=311  fetched in 2.15 seconds
+
+Checking link https://modnicy.ua/catalog/bryuki/params/1=377
+HEAD https://modnicy.ua/catalog/bryuki/params/1=377  fetched in 2.18 seconds
+
+Checking link https://modnicy.ua/catalog/platya/params/1=348
+HEAD https://modnicy.ua/catalog/platya/params/1=348  fetched in 2.10 seconds
+
+Checking link https://modnicy.ua/catalog/novinki-271/params/1=585
+HEAD https://modnicy.ua/catalog/novinki-271/params/1=585  fetched in 3.26 seconds
+
+Checking link https://modnicy.ua/catalog/plyazhnaya-odezhda/params/1=585
+HEAD https://modnicy.ua/catalog/plyazhnaya-odezhda/params/1=585  fetched in 2.03 seconds
+
+Checking link https://modnicy.ua/catalog/sale-270/params/1=580
+HEAD https://modnicy.ua/catalog/sale-270/params/1=580  fetched in 2.15 seconds
+
+Checking link https://modnicy.ua/catalog/sportivnaya-odezhda/params/1=385
+HEAD https://modnicy.ua/catalog/sportivnaya-odezhda/params/1=385  fetched in 2.01 seconds
+
+Checking link https://modnicy.ua/files/catalog/239_s.jpg
+HEAD https://modnicy.ua/files/catalog/239_s.jpg  fetched in 1.12 seconds
+
+Checking link https://modnicy.ua/catalog/outlet/params/1=580
+HEAD https://modnicy.ua/catalog/outlet/params/1=580  fetched in 2.05 seconds
+
+Checking link https://modnicy.ua/catalog/bluzki/params/1=189
+HEAD https://modnicy.ua/catalog/bluzki/params/1=189  fetched in 4.66 seconds
+
+Checking link https://modnicy.ua/catalog/bryuki/params/1=232
+HEAD https://modnicy.ua/catalog/bryuki/params/1=232  fetched in 2.18 seconds
+
+Checking link https://modnicy.ua/catalog/verhnyaya-odezhda/params/1=600
+HEAD https://modnicy.ua/catalog/verhnyaya-odezhda/params/1=600  fetched in 2.06 seconds
+
+Checking link https://modnicy.ua/catalog/bluzki/params/1=273
+HEAD https://modnicy.ua/catalog/bluzki/params/1=273  fetched in 2.06 seconds
+
+Checking link https://modnicy.ua/catalog/platya/params/1=592
+HEAD https://modnicy.ua/catalog/platya/params/1=592  fetched in 2.10 seconds
+
+Checking link https://modnicy.ua/catalog/plyazhnaya-odezhda/params/1=168
+HEAD https://modnicy.ua/catalog/plyazhnaya-odezhda/params/1=168  fetched in 2.65 seconds
+
+Checking link https://modnicy.ua/tpl/default/css/bootstrap.min.css?1507648469
+HEAD https://modnicy.ua/tpl/default/css/bootstrap.min.css?1507648469  fetched in 1.12 seconds
+
+Checking link https://modnicy.ua/catalog/bluzki/params/1=310
+HEAD https://modnicy.ua/catalog/bluzki/params/1=310  fetched in 2.27 seconds
+
+Checking link https://modnicy.ua/catalog/plyazhnaya-odezhda/params/1=330
+HEAD https://modnicy.ua/catalog/plyazhnaya-odezhda/params/1=330  fetched in 1.99 seconds
+
+Checking link https://modnicy.ua/catalog/shorty/params/1=385
+HEAD https://modnicy.ua/catalog/shorty/params/1=385  fetched in 2.02 seconds
+
+Checking link https://modnicy.ua/catalog/kardigany/params/1=232
+HEAD https://modnicy.ua/catalog/kardigany/params/1=232  fetched in 2.14 seconds
+
+Checking link https://modnicy.ua/catalog/bluzki/params/1=311
+HEAD https://modnicy.ua/catalog/bluzki/params/1=311  fetched in 2.82 seconds
+
+Checking link https://modnicy.ua/product/detskaya-shapka-panda
+HEAD https://modnicy.ua/product/detskaya-shapka-panda 
+-> HEAD https://modnicy.ua/product/detskaya-shapka-panda_belyy  fetched in 2.92 seconds
+
+Checking link https://modnicy.ua/product/yubka-33131
+HEAD https://modnicy.ua/product/yubka-33131 
+-> HEAD https://modnicy.ua/product/yubka-33131_siniy  fetched in 2.66 seconds
+
+Checking link https://modnicy.ua/catalog/shapki/params/1=384
+HEAD https://modnicy.ua/catalog/shapki/params/1=384  fetched in 2.10 seconds
+
+Checking link https://modnicy.ua/catalog/futbolka/params/1=273
+HEAD https://modnicy.ua/catalog/futbolka/params/1=273  fetched in 1.97 seconds
+
+Checking link https://modnicy.ua/catalog/verhnyaya-odezhda/params/1=189
+HEAD https://modnicy.ua/catalog/verhnyaya-odezhda/params/1=189  fetched in 3.33 seconds
+
+Checking link https://modnicy.ua/catalog/kardigany/params/1=579
+HEAD https://modnicy.ua/catalog/kardigany/params/1=579  fetched in 1.30 seconds
+
+Checking link https://modnicy.ua/files/catalog/266_s.jpg
+HEAD https://modnicy.ua/files/catalog/266_s.jpg  fetched in 1.12 seconds
+
+Checking link https://modnicy.ua/files/catalog/238_s.jpg
+HEAD https://modnicy.ua/files/catalog/238_s.jpg  fetched in 1.12 seconds
+
+Checking link https://modnicy.ua/catalog/plyazhnaya-odezhda/params/1=189
+HEAD https://modnicy.ua/catalog/plyazhnaya-odezhda/params/1=189  fetched in 3.63 seconds
+
+Checking link https://modnicy.ua/catalog/platya/params/1=168
+HEAD https://modnicy.ua/catalog/platya/params/1=168  fetched in 3.88 seconds
+
+Checking link https://modnicy.ua/catalog/bryuki
+HEAD https://modnicy.ua/catalog/bryuki  fetched in 1.34 seconds
+
+Checking link https://modnicy.ua/catalog/verhnyaya-odezhda/params/1=167
+HEAD https://modnicy.ua/catalog/verhnyaya-odezhda/params/1=167  fetched in 2.14 seconds
+
+Checking link https://modnicy.ua/product/kurtka-dvustoronnyaya-05619-18-1_red
+HEAD https://modnicy.ua/product/kurtka-dvustoronnyaya-05619-18-1_red  fetched in 1.45 seconds
+
+Checking link https://modnicy.ua/catalog/outlet/params/1=422
+HEAD https://modnicy.ua/catalog/outlet/params/1=422  fetched in 1.69 seconds
+
+Checking link https://modnicy.ua/catalog/yubki/params/1=232
+HEAD https://modnicy.ua/catalog/yubki/params/1=232  fetched in 2.27 seconds
+
+Checking link https://modnicy.ua/catalog/kofty-batniki/params/1=233
+HEAD https://modnicy.ua/catalog/kofty-batniki/params/1=233  fetched in 1.44 seconds
+
+Checking link https://modnicy.ua/catalog/kofty-batniki/params/1=581
+HEAD https://modnicy.ua/catalog/kofty-batniki/params/1=581  fetched in 2.14 seconds
+
+Checking link https://modnicy.ua/catalog/platya/params/1=424
+HEAD https://modnicy.ua/catalog/platya/params/1=424  fetched in 1.44 seconds
+
+Checking link https://modnicy.ua/catalog/verhnyaya-odezhda/params/1=230
+HEAD https://modnicy.ua/catalog/verhnyaya-odezhda/params/1=230  fetched in 2.58 seconds
+
+Checking link https://modnicy.ua/catalog/bluzki/params/1=580
+HEAD https://modnicy.ua/catalog/bluzki/params/1=580  fetched in 2.12 seconds
+
+Checking link https://modnicy.ua/catalog/detskaya-odezhda/params/1=216
+HEAD https://modnicy.ua/catalog/detskaya-odezhda/params/1=216  fetched in 2.12 seconds
+
+Checking link https://modnicy.ua/catalog/sportivnaya-odezhda/params/1=244
+HEAD https://modnicy.ua/catalog/sportivnaya-odezhda/params/1=244  fetched in 1.98 seconds
+
+Checking link https://modnicy.ua/catalog/verhnyaya-odezhda/params/1=410
+HEAD https://modnicy.ua/catalog/verhnyaya-odezhda/params/1=410  fetched in 2.05 seconds
+
+Checking link https://modnicy.ua/catalog/bryuki/params/1=189
+HEAD https://modnicy.ua/catalog/bryuki/params/1=189  fetched in 1.54 seconds
+
+Checking link https://modnicy.ua/catalog/kofty-batniki/params/1=600
+HEAD https://modnicy.ua/catalog/kofty-batniki/params/1=600  fetched in 2.10 seconds
+
+Checking link https://modnicy.ua/catalog/sale-270/params/1=243
+HEAD https://modnicy.ua/catalog/sale-270/params/1=243  fetched in 2.80 seconds
+
+Checking link https://modnicy.ua/catalog/plyazhnaya-odezhda/params/1=569
+HEAD https://modnicy.ua/catalog/plyazhnaya-odezhda/params/1=569  fetched in 2.07 seconds
+
+Checking link https://modnicy.ua/catalog/bryuki/params/1=273
+HEAD https://modnicy.ua/catalog/bryuki/params/1=273  fetched in 1.52 seconds
+
+Checking link https://modnicy.ua/files/product/2/34382/more/837_s.jpg
+HEAD https://modnicy.ua/files/product/2/34382/more/837_s.jpg  fetched in 1.47 seconds
+
+Checking link https://modnicy.ua/catalog/novinki-271/params/1=385
+HEAD https://modnicy.ua/catalog/novinki-271/params/1=385  fetched in 1.76 seconds
+
+Checking link https://modnicy.ua/catalog/verhnyaya-odezhda/params/1=216
+HEAD https://modnicy.ua/catalog/verhnyaya-odezhda/params/1=216  fetched in 2.33 seconds
+
+Checking link https://modnicy.ua/catalog/kardigany/params/1=405
+HEAD https://modnicy.ua/catalog/kardigany/params/1=405  fetched in 1.32 seconds
+
+Checking link https://modnicy.ua/files/catalog/icon234.png
+HEAD https://modnicy.ua/files/catalog/icon234.png  fetched in 1.12 seconds
+
+Checking link https://modnicy.ua/files/product/3/38903/more/18187_s.jpg
+HEAD https://modnicy.ua/files/product/3/38903/more/18187_s.jpg  fetched in 1.47 seconds
+
+Checking link https://modnicy.ua/catalog/losiny/params/1=244
+HEAD https://modnicy.ua/catalog/losiny/params/1=244  fetched in 2.20 seconds
+
+Checking link https://modnicy.ua/catalog/shapki/params/1=395
+HEAD https://modnicy.ua/catalog/shapki/params/1=395  fetched in 2.09 seconds
+
+Checking link https://modnicy.ua/catalog/sale-270/params/1=187
+HEAD https://modnicy.ua/catalog/sale-270/params/1=187  fetched in 3.98 seconds
+
+Checking link https://modnicy.ua/catalog/kostyumy-bryuchnye-yubochnye/params/1=593
+HEAD https://modnicy.ua/catalog/kostyumy-bryuchnye-yubochnye/params/1=593  fetched in 2.18 seconds
+
+Checking link https://modnicy.ua/catalog/outlet/params/1=168
+HEAD https://modnicy.ua/catalog/outlet/params/1=168  fetched in 1.34 seconds
+
+Checking link https://modnicy.ua/catalog/sale-270/params/1=390
+HEAD https://modnicy.ua/catalog/sale-270/params/1=390  fetched in 2.44 seconds
+
+Checking link https://modnicy.ua/catalog/shorty/params/1=201
+HEAD https://modnicy.ua/catalog/shorty/params/1=201  fetched in 2.10 seconds
+
+Checking link https://modnicy.ua/catalog/futbolka/params/1=310
+HEAD https://modnicy.ua/catalog/futbolka/params/1=310  fetched in 1.36 seconds
+
+Checking link https://modnicy.ua/catalog/sale-270/params/1=395
+HEAD https://modnicy.ua/catalog/sale-270/params/1=395  fetched in 2.08 seconds
+
+Checking link https://modnicy.ua/catalog/sportivnaya-odezhda/params/1=592
+HEAD https://modnicy.ua/catalog/sportivnaya-odezhda/params/1=592  fetched in 2.03 seconds
+
+Checking link https://modnicy.ua/catalog/verhnyaya-odezhda/params/1=579
+HEAD https://modnicy.ua/catalog/verhnyaya-odezhda/params/1=579  fetched in 2.78 seconds
+
+Checking link https://modnicy.ua/catalog/platya/params/1=230
+HEAD https://modnicy.ua/catalog/platya/params/1=230  fetched in 2.49 seconds
+
+Checking link https://modnicy.ua/catalog/kostyumy-bryuchnye-yubochnye/params/1=590
+HEAD https://modnicy.ua/catalog/kostyumy-bryuchnye-yubochnye/params/1=590  fetched in 2.11 seconds
+
+Checking link https://modnicy.ua/catalog/bryuki/params/1=310
+HEAD https://modnicy.ua/catalog/bryuki/params/1=310  fetched in 2.03 seconds
+
+Checking link https://modnicy.ua/catalog/kofty-batniki/params/1=593
+HEAD https://modnicy.ua/catalog/kofty-batniki/params/1=593  fetched in 1.99 seconds
+
+Checking link https://modnicy.ua/catalog/kofty-batniki/params/1=595
+HEAD https://modnicy.ua/catalog/kofty-batniki/params/1=595  fetched in 2.13 seconds
+
+Checking link https://modnicy.ua/catalog/verhnyaya-odezhda/params/1=253
+HEAD https://modnicy.ua/catalog/verhnyaya-odezhda/params/1=253  fetched in 2.11 seconds
+
+Checking link https://modnicy.ua/catalog/bluzki/params/1=279
+HEAD https://modnicy.ua/catalog/bluzki/params/1=279  fetched in 2.34 seconds
+
+Checking link https://modnicy.ua/catalog/muzhskaya-odezhda-269/params/1=581
+HEAD https://modnicy.ua/catalog/muzhskaya-odezhda-269/params/1=581  fetched in 2.21 seconds
+
+Checking link https://modnicy.ua/catalog/muzhskaya-odezhda-269/params/1=187
+HEAD https://modnicy.ua/catalog/muzhskaya-odezhda-269/params/1=187  fetched in 1.82 seconds
+
+Checking link https://modnicy.ua/catalog/verhnyaya-odezhda/params/1=580
+HEAD https://modnicy.ua/catalog/verhnyaya-odezhda/params/1=580  fetched in 2.09 seconds
+
+Checking link https://modnicy.ua/catalog/platya/params/1=587
+HEAD https://modnicy.ua/catalog/platya/params/1=587  fetched in 1.48 seconds
+
+Checking link https://modnicy.ua/catalog/verhnyaya-odezhda/params/1=372
+HEAD https://modnicy.ua/catalog/verhnyaya-odezhda/params/1=372  fetched in 2.08 seconds
+
+Checking link https://modnicy.ua/files/catalog/230_s.jpg
+HEAD https://modnicy.ua/files/catalog/230_s.jpg  fetched in 1.12 seconds
+
+Checking link https://modnicy.ua/catalog/outlet/params/1=424
+HEAD https://modnicy.ua/catalog/outlet/params/1=424  fetched in 1.41 seconds
+
+Checking link https://modnicy.ua/catalog/losiny/params/1=187
+HEAD https://modnicy.ua/catalog/losiny/params/1=187  fetched in 2.17 seconds
+
+Checking link https://modnicy.ua/tpl/default/files/favicon/favicon-32x32.png
+HEAD https://modnicy.ua/tpl/default/files/favicon/favicon-32x32.png  fetched in 1.46 seconds
+
+Checking link https://modnicy.ua/catalog/verhnyaya-odezhda/params/1=389
+HEAD https://modnicy.ua/catalog/verhnyaya-odezhda/params/1=389  fetched in 1.66 seconds
+
+Checking link https://modnicy.ua/product/zhenskiy-pidzhak-poloska-len-0182-16-23247
+HEAD https://modnicy.ua/product/zhenskiy-pidzhak-poloska-len-0182-16-23247 
+-> HEAD https://modnicy.ua/product/zhenskiy-pidzhak-poloska-len-0182-16-23247_frez  fetched in 3.00 seconds
+
+Checking link https://modnicy.ua/files/slider/131_s.jpg
+HEAD https://modnicy.ua/files/slider/131_s.jpg  fetched in 1.12 seconds
+
+Checking link https://modnicy.ua/catalog/sale-270/params/1=470
+HEAD https://modnicy.ua/catalog/sale-270/params/1=470  fetched in 2.03 seconds
+
+Checking link https://modnicy.ua/catalog/outlet/params/1=216
+HEAD https://modnicy.ua/catalog/outlet/params/1=216  fetched in 1.70 seconds
+
+Checking link https://modnicy.ua/catalog/kofty-batniki/params/1=310
+HEAD https://modnicy.ua/catalog/kofty-batniki/params/1=310  fetched in 2.05 seconds
+
+Checking link https://modnicy.ua/catalog/kombinezony/params/1=189
+HEAD https://modnicy.ua/catalog/kombinezony/params/1=189  fetched in 2.07 seconds
+
+Checking link https://modnicy.ua/catalog/kombinezony
+HEAD https://modnicy.ua/catalog/kombinezony  fetched in 2.05 seconds
+
+Checking link https://modnicy.ua/tpl/default/js/tether.min.js?1518794961
+HEAD https://modnicy.ua/tpl/default/js/tether.min.js?1518794961  fetched in 1.12 seconds
+
+Checking link https://modnicy.ua/catalog/novinki-271/params/1=589
+HEAD https://modnicy.ua/catalog/novinki-271/params/1=589  fetched in 2.44 seconds
+
+Checking link https://modnicy.ua/catalog/verhnyaya-odezhda/params/1=585
+HEAD https://modnicy.ua/catalog/verhnyaya-odezhda/params/1=585  fetched in 2.00 seconds
+
+Checking link https://modnicy.ua/catalog/sale-270/params/1=410
+HEAD https://modnicy.ua/catalog/sale-270/params/1=410  fetched in 2.50 seconds
+
+Checking link https://modnicy.ua/catalog/platya/params/1=470
+HEAD https://modnicy.ua/catalog/platya/params/1=470  fetched in 2.18 seconds
+
+Checking link https://modnicy.ua/catalog/bluzki/params/1=254
+HEAD https://modnicy.ua/catalog/bluzki/params/1=254  fetched in 2.18 seconds
+
+Checking link https://modnicy.ua/catalog/kostyumy-bryuchnye-yubochnye/params/1=385
+HEAD https://modnicy.ua/catalog/kostyumy-bryuchnye-yubochnye/params/1=385  fetched in 2.26 seconds
+
+Checking link https://modnicy.ua/catalog/sale-270/params/1=231
+HEAD https://modnicy.ua/catalog/sale-270/params/1=231  fetched in 1.56 seconds
+
+Checking link https://modnicy.ua/files/catalog/icon232.png
+HEAD https://modnicy.ua/files/catalog/icon232.png  fetched in 1.46 seconds
+
+Checking link https://modnicy.ua/catalog/sportivnaya-odezhda/params/1=248
+HEAD https://modnicy.ua/catalog/sportivnaya-odezhda/params/1=248  fetched in 2.55 seconds
+
+Checking link https://modnicy.ua/catalog/platya/params/1=258
+HEAD https://modnicy.ua/catalog/platya/params/1=258  fetched in 3.02 seconds
+
+Checking link https://modnicy.ua/files/catalog/icon229.png
+HEAD https://modnicy.ua/files/catalog/icon229.png  fetched in 1.12 seconds
+
+Checking link https://modnicy.ua/catalog/kardigany/params/1=585
+HEAD https://modnicy.ua/catalog/kardigany/params/1=585  fetched in 2.02 seconds
+
+Checking link https://modnicy.ua/catalog/detskaya-odezhda
+HEAD https://modnicy.ua/catalog/detskaya-odezhda  fetched in 2.04 seconds
+
+Checking link https://modnicy.ua/catalog/kardigany/params/1=201
+HEAD https://modnicy.ua/catalog/kardigany/params/1=201  fetched in 1.98 seconds
+
+Checking link https://modnicy.ua/catalog/detskaya-odezhda/params/1=273
+HEAD https://modnicy.ua/catalog/detskaya-odezhda/params/1=273  fetched in 2.74 seconds
+
+Checking link https://modnicy.ua/catalog/platya/params/1=372
+HEAD https://modnicy.ua/catalog/platya/params/1=372  fetched in 2.98 seconds
+
+Checking link https://modnicy.ua/catalog/verhnyaya-odezhda/params/1=424
+HEAD https://modnicy.ua/catalog/verhnyaya-odezhda/params/1=424  fetched in 2.78 seconds
+
+Checking link https://modnicy.ua/catalog/outlet/params/1=587
+HEAD https://modnicy.ua/catalog/outlet/params/1=587  fetched in 1.41 seconds
+
+Checking link https://modnicy.ua/files/catalog/233_s.jpg
+HEAD https://modnicy.ua/files/catalog/233_s.jpg  fetched in 1.18 seconds
+
+Checking link https://modnicy.ua/files/storage/mainRight.jpg
+HEAD https://modnicy.ua/files/storage/mainRight.jpg  fetched in 1.20 seconds
+
+Checking link https://modnicy.ua/catalog/platya/params/1=392
+HEAD https://modnicy.ua/catalog/platya/params/1=392  fetched in 2.14 seconds
+
+Checking link https://modnicy.ua/catalog/kardigany/params/1=424
+HEAD https://modnicy.ua/catalog/kardigany/params/1=424  fetched in 2.13 seconds
+
+Checking link https://modnicy.ua/catalog/yubki/params/1=595
+HEAD https://modnicy.ua/catalog/yubki/params/1=595  fetched in 2.08 seconds
+
+Checking link https://modnicy.ua/catalog/sportivnaya-odezhda/params/1=308
+HEAD https://modnicy.ua/catalog/sportivnaya-odezhda/params/1=308  fetched in 2.11 seconds
+
+Checking link https://modnicy.ua/catalog/sale-270/params/1=244
+HEAD https://modnicy.ua/catalog/sale-270/params/1=244  fetched in 2.70 seconds
+
+Checking link https://modnicy.ua/catalog/sale-270/params/1=581
+HEAD https://modnicy.ua/catalog/sale-270/params/1=581  fetched in 2.13 seconds
+
+Checking link https://modnicy.ua/catalog/futbolka/params/1=377
+HEAD https://modnicy.ua/catalog/futbolka/params/1=377  fetched in 1.37 seconds
+
+Checking link https://modnicy.ua/catalog/verhnyaya-odezhda/params/1=598
+HEAD https://modnicy.ua/catalog/verhnyaya-odezhda/params/1=598  fetched in 2.13 seconds
+
+Checking link https://modnicy.ua/catalog/bluzki/params/1=587
+HEAD https://modnicy.ua/catalog/bluzki/params/1=587  fetched in 2.06 seconds
+
+Checking link https://modnicy.ua/files/product/4/44364/more/35773_s.jpg
+HEAD https://modnicy.ua/files/product/4/44364/more/35773_s.jpg  fetched in 1.12 seconds
+
+Checking link https://modnicy.ua/catalog/plyazhnaya-odezhda/params/1=258
+HEAD https://modnicy.ua/catalog/plyazhnaya-odezhda/params/1=258  fetched in 2.54 seconds
+
+Checking link https://modnicy.ua/catalog/kofty-batniki/params/1=201
+HEAD https://modnicy.ua/catalog/kofty-batniki/params/1=201  fetched in 2.93 seconds
+
+Checking link https://modnicy.ua/catalog/sportivnaya-odezhda/params/1=579
+HEAD https://modnicy.ua/catalog/sportivnaya-odezhda/params/1=579  fetched in 2.03 seconds
+
+Checking link https://modnicy.ua/catalog/kostyumy-bryuchnye-yubochnye/params/1=216
+HEAD https://modnicy.ua/catalog/kostyumy-bryuchnye-yubochnye/params/1=216  fetched in 3.14 seconds
+
+Checking link https://modnicy.ua/catalog/verhnyaya-odezhda/params/1=258
+HEAD https://modnicy.ua/catalog/verhnyaya-odezhda/params/1=258  fetched in 2.10 seconds
+
+Checking link https://modnicy.ua/catalog/kostyumy-bryuchnye-yubochnye/params/1=396
+HEAD https://modnicy.ua/catalog/kostyumy-bryuchnye-yubochnye/params/1=396  fetched in 2.78 seconds
+
+Checking link https://modnicy.ua/catalog/platya/params/1=350
+HEAD https://modnicy.ua/catalog/platya/params/1=350  fetched in 2.09 seconds
+
+Checking link https://modnicy.ua/product/stilnaya-kurtka-s-mehom-05073-8_grafittemnoseryy
+HEAD https://modnicy.ua/product/stilnaya-kurtka-s-mehom-05073-8_grafittemnoseryy  fetched in 1.88 seconds
+
+Checking link https://modnicy.ua/catalog/kostyumy-bryuchnye-yubochnye/params/1=585
+HEAD https://modnicy.ua/catalog/kostyumy-bryuchnye-yubochnye/params/1=585  fetched in 2.25 seconds
+
+Checking link https://modnicy.ua/catalog/bluzki/params/1=592
+HEAD https://modnicy.ua/catalog/bluzki/params/1=592  fetched in 1.34 seconds
+
+Checking link https://modnicy.ua/files/catalog/icon230.png
+HEAD https://modnicy.ua/files/catalog/icon230.png  fetched in 1.12 seconds
+
+Checking link https://modnicy.ua/catalog/kardigany/params/1=372
+HEAD https://modnicy.ua/catalog/kardigany/params/1=372  fetched in 2.15 seconds
+
+Checking link https://modnicy.ua/catalog/sportivnaya-odezhda/params/1=168
+HEAD https://modnicy.ua/catalog/sportivnaya-odezhda/params/1=168  fetched in 2.05 seconds
+
+Checking link https://modnicy.ua/catalog/kardigany/params/1=217
+HEAD https://modnicy.ua/catalog/kardigany/params/1=217  fetched in 2.03 seconds
+
+Checking link https://modnicy.ua/catalog/novinki-271/params/1=595
+HEAD https://modnicy.ua/catalog/novinki-271/params/1=595  fetched in 2.12 seconds
+
+Checking link https://modnicy.ua/catalog/platya/params/1=253
+HEAD https://modnicy.ua/catalog/platya/params/1=253  fetched in 2.78 seconds
+
+Checking link https://modnicy.ua/catalog/futbolka/params/1=390
+HEAD https://modnicy.ua/catalog/futbolka/params/1=390  fetched in 2.72 seconds
+
+Checking link https://modnicy.ua/files/product/3/41693/more/27532_s.jpg
+HEAD https://modnicy.ua/files/product/3/41693/more/27532_s.jpg  fetched in 1.12 seconds
+
+Checking link https://modnicy.ua/catalog/sportivnaya-odezhda/params/1=217
+HEAD https://modnicy.ua/catalog/sportivnaya-odezhda/params/1=217  fetched in 2.06 seconds
+
+Checking link https://modnicy.ua/catalog/verhnyaya-odezhda/params/1=262
+HEAD https://modnicy.ua/catalog/verhnyaya-odezhda/params/1=262  fetched in 3.18 seconds
+
+Checking link https://modnicy.ua/files/product/6/43486/more/32901_s.jpg
+HEAD https://modnicy.ua/files/product/6/43486/more/32901_s.jpg  fetched in 1.12 seconds
+
+Checking link https://modnicy.ua/catalog/plyazhnaya-odezhda
+HEAD https://modnicy.ua/catalog/plyazhnaya-odezhda  fetched in 2.09 seconds
+
+Checking link https://modnicy.ua/catalog/losiny/params/1=372
+HEAD https://modnicy.ua/catalog/losiny/params/1=372  fetched in 1.96 seconds
+
+Checking link https://modnicy.ua/catalog/platya/params/1=604
+HEAD https://modnicy.ua/catalog/platya/params/1=604  fetched in 2.37 seconds
+
+Checking link https://modnicy.ua/catalog/sale-270/params/1=167
+HEAD https://modnicy.ua/catalog/sale-270/params/1=167  fetched in 3.28 seconds
+
+Checking link https://modnicy.ua/catalog/bluzki/params/1=350
+HEAD https://modnicy.ua/catalog/bluzki/params/1=350  fetched in 2.53 seconds
+
+Checking link https://modnicy.ua/files/product/4/35244/more/2489_s.jpg
+HEAD https://modnicy.ua/files/product/4/35244/more/2489_s.jpg  fetched in 1.47 seconds
+
+Checking link https://modnicy.ua/catalog/yubki/params/1=585
+HEAD https://modnicy.ua/catalog/yubki/params/1=585  fetched in 2.47 seconds
+
+Checking link https://modnicy.ua/catalog/verhnyaya-odezhda/params/1=243
+HEAD https://modnicy.ua/catalog/verhnyaya-odezhda/params/1=243  fetched in 2.08 seconds
+
+Checking link https://modnicy.ua/catalog/bluzki/params/1=389
+HEAD https://modnicy.ua/catalog/bluzki/params/1=389  fetched in 2.82 seconds
+
+Checking link https://modnicy.ua/tpl/default/files/favicon/apple-icon-76x76.png
+HEAD https://modnicy.ua/tpl/default/files/favicon/apple-icon-76x76.png  fetched in 1.12 seconds
+
+Checking link https://modnicy.ua/catalog/sale-270/params/1=592
+HEAD https://modnicy.ua/catalog/sale-270/params/1=592  fetched in 1.76 seconds
+
+Checking link https://modnicy.ua/catalog/plyazhnaya-odezhda/params/1=404
+HEAD https://modnicy.ua/catalog/plyazhnaya-odezhda/params/1=404  fetched in 2.05 seconds
+
+Checking link https://modnicy.ua/catalog/futbolka/params/1=592
+HEAD https://modnicy.ua/catalog/futbolka/params/1=592  fetched in 2.03 seconds
+
+Checking link https://modnicy.ua/catalog/yubki/params/1=248
+HEAD https://modnicy.ua/catalog/yubki/params/1=248  fetched in 2.56 seconds
+
+Checking link https://modnicy.ua/catalog/novinki-271/params/1=350
+HEAD https://modnicy.ua/catalog/novinki-271/params/1=350  fetched in 1.99 seconds
+
+Checking link https://modnicy.ua/tpl/default/files/favicon/apple-icon-120x120.png
+HEAD https://modnicy.ua/tpl/default/files/favicon/apple-icon-120x120.png  fetched in 1.12 seconds
+
+Checking link https://modnicy.ua/catalog/kostyumy-bryuchnye-yubochnye/params/1=308
+HEAD https://modnicy.ua/catalog/kostyumy-bryuchnye-yubochnye/params/1=308  fetched in 2.10 seconds
+
+Checking link https://modnicy.ua/catalog/yubki/params/1=187
+HEAD https://modnicy.ua/catalog/yubki/params/1=187  fetched in 2.21 seconds
+
+Checking link https://modnicy.ua/catalog/yubki/params/1=273
+HEAD https://modnicy.ua/catalog/yubki/params/1=273  fetched in 2.41 seconds
+
+Checking link https://modnicy.ua/catalog/kardigany/params/1=310
+HEAD https://modnicy.ua/catalog/kardigany/params/1=310  fetched in 2.17 seconds
+
+Checking link https://modnicy.ua/files/catalog/icon266.png
+HEAD https://modnicy.ua/files/catalog/icon266.png  fetched in 1.48 seconds
+
+Checking link https://modnicy.ua/catalog/bluzki/params/1=372
+HEAD https://modnicy.ua/catalog/bluzki/params/1=372  fetched in 2.19 seconds
+
+Checking link https://modnicy.ua/collection/vesennee-nastroenie-269
+HEAD https://modnicy.ua/collection/vesennee-nastroenie-269  fetched in 2.77 seconds
+
+Checking link https://modnicy.ua/catalog/outlet/params/1=377
+HEAD https://modnicy.ua/catalog/outlet/params/1=377  fetched in 1.67 seconds
+
+Checking link https://modnicy.ua/catalog/sportivnaya-odezhda/params/1=187
+HEAD https://modnicy.ua/catalog/sportivnaya-odezhda/params/1=187  fetched in 3.00 seconds
+
+Checking link https://modnicy.ua/catalog/yubki/params/1=253
+HEAD https://modnicy.ua/catalog/yubki/params/1=253  fetched in 2.15 seconds
+
+Checking link https://modnicy.ua/catalog/verhnyaya-odezhda/params/1=308
+HEAD https://modnicy.ua/catalog/verhnyaya-odezhda/params/1=308  fetched in 2.49 seconds
+
+Checking link https://modnicy.ua/catalog/kostyumy-bryuchnye-yubochnye/params/1=330
+HEAD https://modnicy.ua/catalog/kostyumy-bryuchnye-yubochnye/params/1=330  fetched in 2.83 seconds
+
+Checking link https://modnicy.ua/catalog/sale-270/params/1=590
+HEAD https://modnicy.ua/catalog/sale-270/params/1=590  fetched in 1.56 seconds
+
+Checking link https://modnicy.ua/catalog/verhnyaya-odezhda/params/1=385
+HEAD https://modnicy.ua/catalog/verhnyaya-odezhda/params/1=385  fetched in 3.14 seconds
+
+Checking link https://modnicy.ua/catalog/verhnyaya-odezhda/params/1=384
+HEAD https://modnicy.ua/catalog/verhnyaya-odezhda/params/1=384  fetched in 2.19 seconds
+
+Checking link https://modnicy.ua/catalog/plyazhnaya-odezhda/params/1=384
+HEAD https://modnicy.ua/catalog/plyazhnaya-odezhda/params/1=384  fetched in 2.09 seconds
+
+Checking link https://modnicy.ua/catalog/verhnyaya-odezhda/params/1=168
+HEAD https://modnicy.ua/catalog/verhnyaya-odezhda/params/1=168  fetched in 2.11 seconds
+
+Checking link https://modnicy.ua/catalog/outlet/params/1=243
+HEAD https://modnicy.ua/catalog/outlet/params/1=243  fetched in 1.34 seconds
+
+Checking link https://modnicy.ua/catalog/plyazhnaya-odezhda/params/1=216
+HEAD https://modnicy.ua/catalog/plyazhnaya-odezhda/params/1=216  fetched in 3.36 seconds
+
+Checking link https://modnicy.ua/catalog/kostyumy-bryuchnye-yubochnye/params/1=273
+HEAD https://modnicy.ua/catalog/kostyumy-bryuchnye-yubochnye/params/1=273  fetched in 2.88 seconds
+
+Checking link https://modnicy.ua/catalog/bluzki/params/1=187
+HEAD https://modnicy.ua/catalog/bluzki/params/1=187  fetched in 1.53 seconds
+
+Checking link https://modnicy.ua/catalog/kardigany/params/1=168
+HEAD https://modnicy.ua/catalog/kardigany/params/1=168  fetched in 2.12 seconds
+
+Checking link https://modnicy.ua/catalog/sale-270/params/1=253
+HEAD https://modnicy.ua/catalog/sale-270/params/1=253  fetched in 2.12 seconds
+
+Checking link https://modnicy.ua/catalog/novinki-271/params/1=358
+HEAD https://modnicy.ua/catalog/novinki-271/params/1=358  fetched in 1.49 seconds
+
+Checking link https://modnicy.ua/catalog/kostyumy-bryuchnye-yubochnye/params/1=254
+HEAD https://modnicy.ua/catalog/kostyumy-bryuchnye-yubochnye/params/1=254  fetched in 2.05 seconds
+
+Checking link https://modnicy.ua/catalog/novinki-271/params/1=593
+HEAD https://modnicy.ua/catalog/novinki-271/params/1=593  fetched in 1.64 seconds
+
+Checking link https://modnicy.ua/catalog/novinki-271/params/1=262
+HEAD https://modnicy.ua/catalog/novinki-271/params/1=262  fetched in 2.09 seconds
+
+Checking link https://modnicy.ua/catalog/kostyumy-bryuchnye-yubochnye/params/1=310
+HEAD https://modnicy.ua/catalog/kostyumy-bryuchnye-yubochnye/params/1=310  fetched in 1.43 seconds
+
+Checking link https://modnicy.ua/catalog/platya/params/1=279
+HEAD https://modnicy.ua/catalog/platya/params/1=279  fetched in 2.83 seconds
+
+Checking link https://modnicy.ua/product/zamshevaya-yubka-229-2-61349
+HEAD https://modnicy.ua/product/zamshevaya-yubka-229-2-61349 
+-> HEAD https://modnicy.ua/product/zamshevaya-yubka-229-2-61349_chernyy  fetched in 3.38 seconds
+
+Checking link https://modnicy.ua/catalog/shorty/params/1=189
+HEAD https://modnicy.ua/catalog/shorty/params/1=189  fetched in 2.08 seconds
+
+Checking link https://modnicy.ua/wholesalers
+HEAD https://modnicy.ua/wholesalers  fetched in 1.77 seconds
+
+Checking link https://modnicy.ua/catalog/sportivnaya-odezhda/params/1=384
+HEAD https://modnicy.ua/catalog/sportivnaya-odezhda/params/1=384  fetched in 1.87 seconds
+
+Checking link https://modnicy.ua/catalog/novinki-271/params/1=168
+HEAD https://modnicy.ua/catalog/novinki-271/params/1=168  fetched in 3.99 seconds
+
+Checking link https://modnicy.ua/catalog/futbolka/params/1=244
+HEAD https://modnicy.ua/catalog/futbolka/params/1=244  fetched in 2.28 seconds
+
+Checking link https://modnicy.ua/catalog/kardigany/params/1=189
+HEAD https://modnicy.ua/catalog/kardigany/params/1=189  fetched in 2.19 seconds
+
+Checking link https://modnicy.ua/catalog/futbolka/params/1=187
+HEAD https://modnicy.ua/catalog/futbolka/params/1=187  fetched in 2.25 seconds
+
+Checking link https://modnicy.ua/product/plate-3210
+HEAD https://modnicy.ua/product/plate-3210 
+-> HEAD https://modnicy.ua/product/plate-3210_foto1  fetched in 3.45 seconds
+
+Checking link https://modnicy.ua/catalog/kostyumy-bryuchnye-yubochnye/params/1=372
+HEAD https://modnicy.ua/catalog/kostyumy-bryuchnye-yubochnye/params/1=372  fetched in 2.43 seconds
+
+Checking link https://modnicy.ua/catalog/sale-270/params/1=598
+HEAD https://modnicy.ua/catalog/sale-270/params/1=598  fetched in 2.82 seconds
+
+Checking link https://modnicy.ua/product/kostyum-yubka-i-kofta-3479_korallovyy
+HEAD https://modnicy.ua/product/kostyum-yubka-i-kofta-3479_korallovyy  fetched in 2.06 seconds
+
+Checking link https://modnicy.ua/catalog/kostyumy-bryuchnye-yubochnye/params/1=243
+HEAD https://modnicy.ua/catalog/kostyumy-bryuchnye-yubochnye/params/1=243  fetched in 2.02 seconds
+
+Checking link https://modnicy.ua/catalog/novinki-271/params/1=404
+HEAD https://modnicy.ua/catalog/novinki-271/params/1=404  fetched in 2.88 seconds
+
+Checking link https://modnicy.ua/catalog/shorty/params/1=216
+HEAD https://modnicy.ua/catalog/shorty/params/1=216  fetched in 3.67 seconds
+
+Checking link https://modnicy.ua/catalog/kofty-batniki/params/1=424
+HEAD https://modnicy.ua/catalog/kofty-batniki/params/1=424  fetched in 2.92 seconds
+
+Checking link https://modnicy.ua/catalog/yubki/params/1=592
+HEAD https://modnicy.ua/catalog/yubki/params/1=592  fetched in 2.11 seconds
+
+Checking link https://modnicy.ua/catalog/sale-270/params/1=385
+HEAD https://modnicy.ua/catalog/sale-270/params/1=385  fetched in 2.13 seconds
+
+Checking link https://modnicy.ua/catalog/novinki-271/params/1=231
+HEAD https://modnicy.ua/catalog/novinki-271/params/1=231  fetched in 1.46 seconds
+
+Checking link https://modnicy.ua/catalog/kofty-batniki/params/1=605
+HEAD https://modnicy.ua/catalog/kofty-batniki/params/1=605  fetched in 4.37 seconds
+
+Checking link https://modnicy.ua/catalog/plyazhnaya-odezhda/params/1=279
+HEAD https://modnicy.ua/catalog/plyazhnaya-odezhda/params/1=279  fetched in 3.50 seconds
+
+Checking link https://modnicy.ua/catalog/outlet/params/1=372
+HEAD https://modnicy.ua/catalog/outlet/params/1=372  fetched in 1.31 seconds
+
+Checking link https://modnicy.ua/catalog/novinki-271/params/1=254
+HEAD https://modnicy.ua/catalog/novinki-271/params/1=254  fetched in 4.19 seconds
+
+Checking link https://modnicy.ua/catalog/platya/params/1=370
+HEAD https://modnicy.ua/catalog/platya/params/1=370  fetched in 1.49 seconds
+
+Checking link https://modnicy.ua/catalog/kostyumy-bryuchnye-yubochnye/params/1=580
+HEAD https://modnicy.ua/catalog/kostyumy-bryuchnye-yubochnye/params/1=580  fetched in 2.28 seconds
+
+Checking link https://modnicy.ua/catalog/kostyumy-bryuchnye-yubochnye/params/1=422
+HEAD https://modnicy.ua/catalog/kostyumy-bryuchnye-yubochnye/params/1=422  fetched in 2.21 seconds
+
+Checking link https://modnicy.ua/catalog/platya/params/1=579
+HEAD https://modnicy.ua/catalog/platya/params/1=579  fetched in 2.06 seconds
+
+Checking link https://modnicy.ua/catalog/outlet/params/1=404
+HEAD https://modnicy.ua/catalog/outlet/params/1=404  fetched in 2.15 seconds
+
+Checking link https://modnicy.ua/catalog/futbolka/params/1=189
+HEAD https://modnicy.ua/catalog/futbolka/params/1=189  fetched in 3.36 seconds
+
+Checking link https://modnicy.ua/catalog/losiny/params/1=233
+HEAD https://modnicy.ua/catalog/losiny/params/1=233  fetched in 2.06 seconds
+
+Checking link https://modnicy.ua/catalog/outlet/params/1=590
+HEAD https://modnicy.ua/catalog/outlet/params/1=590  fetched in 2.01 seconds
+
+Checking link https://modnicy.ua/catalog/plyazhnaya-odezhda/params/1=232
+HEAD https://modnicy.ua/catalog/plyazhnaya-odezhda/params/1=232  fetched in 2.12 seconds
+
+Checking link https://modnicy.ua/catalog/verhnyaya-odezhda/params/1=569
+HEAD https://modnicy.ua/catalog/verhnyaya-odezhda/params/1=569  fetched in 2.93 seconds
+
+Checking link https://modnicy.ua/catalog/kardigany/params/1=377
+HEAD https://modnicy.ua/catalog/kardigany/params/1=377  fetched in 1.99 seconds
+
+Checking link https://modnicy.ua/catalog/futbolka/params/1=230
+HEAD https://modnicy.ua/catalog/futbolka/params/1=230  fetched in 2.31 seconds
+
+Checking link https://modnicy.ua/catalog/detskaya-odezhda/params/1=372
+HEAD https://modnicy.ua/catalog/detskaya-odezhda/params/1=372  fetched in 2.54 seconds
+
+Checking link https://modnicy.ua/catalog/outlet/params/1=385
+HEAD https://modnicy.ua/catalog/outlet/params/1=385  fetched in 2.12 seconds
+
+Checking link https://modnicy.ua/tpl/default/css/owlslider/owl.carousel.css?1507648488
+HEAD https://modnicy.ua/tpl/default/css/owlslider/owl.carousel.css?1507648488  fetched in 1.12 seconds
+
+Checking link https://modnicy.ua/tpl/default/css/style.css?1597222316
+HEAD https://modnicy.ua/tpl/default/css/style.css?1597222316  fetched in 1.48 seconds
+
+Checking link https://modnicy.ua/catalog/kostyumy-bryuchnye-yubochnye/params/1=598
+HEAD https://modnicy.ua/catalog/kostyumy-bryuchnye-yubochnye/params/1=598  fetched in 2.19 seconds
+
+Checking link https://modnicy.ua/catalog/shapki/params/1=217
+HEAD https://modnicy.ua/catalog/shapki/params/1=217  fetched in 1.61 seconds
+
+Checking link https://modnicy.ua/files/catalog/234_s.jpg
+HEAD https://modnicy.ua/files/catalog/234_s.jpg  fetched in 1.12 seconds
+
+Checking link https://modnicy.ua/catalog/outlet
+HEAD https://modnicy.ua/catalog/outlet  fetched in 1.33 seconds
+
+Checking link https://modnicy.ua/catalog/platya/params/1=330
+HEAD https://modnicy.ua/catalog/platya/params/1=330  fetched in 2.71 seconds
+
+Checking link https://modnicy.ua/catalog/sale-270/params/1=424
+HEAD https://modnicy.ua/catalog/sale-270/params/1=424  fetched in 1.48 seconds
+
+Checking link https://modnicy.ua/files/catalog/icon238.png
+HEAD https://modnicy.ua/files/catalog/icon238.png  fetched in 1.12 seconds
+
+Checking link https://modnicy.ua/catalog/novinki-271/params/1=424
+HEAD https://modnicy.ua/catalog/novinki-271/params/1=424  fetched in 2.85 seconds
+
+Checking link https://modnicy.ua/catalog/verhnyaya-odezhda/params/1=273
+HEAD https://modnicy.ua/catalog/verhnyaya-odezhda/params/1=273  fetched in 2.68 seconds
+
+Checking link https://modnicy.ua/catalog/platya/params/1=187
+HEAD https://modnicy.ua/catalog/platya/params/1=187  fetched in 4.99 seconds
+
+Checking link https://modnicy.ua/orders/all
+HEAD https://modnicy.ua/orders/all  fetched in 0.00 seconds
+
+Checking link https://modnicy.ua/catalog/futbolka/params/1=217
+HEAD https://modnicy.ua/catalog/futbolka/params/1=217  fetched in 2.11 seconds
+
+Checking link https://modnicy.ua/catalog/kofty-batniki/params/1=248
+HEAD https://modnicy.ua/catalog/kofty-batniki/params/1=248  fetched in 1.95 seconds
+
+Checking link https://modnicy.ua/catalog/sale-270/params/1=230
+HEAD https://modnicy.ua/catalog/sale-270/params/1=230  fetched in 2.24 seconds
+
+Checking link https://modnicy.ua/catalog/verhnyaya-odezhda/params/1=187
+HEAD https://modnicy.ua/catalog/verhnyaya-odezhda/params/1=187  fetched in 2.30 seconds
+
+Checking link https://modnicy.ua/catalog/outlet/params/1=244
+HEAD https://modnicy.ua/catalog/outlet/params/1=244  fetched in 1.33 seconds
+
+Checking link https://modnicy.ua/catalog/shapki/params/1=167
+HEAD https://modnicy.ua/catalog/shapki/params/1=167  fetched in 1.98 seconds
+
+Checking link https://modnicy.ua/catalog/kostyumy-bryuchnye-yubochnye/params/1=248
+HEAD https://modnicy.ua/catalog/kostyumy-bryuchnye-yubochnye/params/1=248  fetched in 2.67 seconds
+
+Checking link https://modnicy.ua/catalog/outlet/params/1=187
+HEAD https://modnicy.ua/catalog/outlet/params/1=187  fetched in 2.10 seconds
+
+Checking link https://modnicy.ua/catalog/kostyumy-bryuchnye-yubochnye/params/1=258
+HEAD https://modnicy.ua/catalog/kostyumy-bryuchnye-yubochnye/params/1=258  fetched in 2.12 seconds
+
+Checking link https://modnicy.ua/catalog/sportivnaya-odezhda/params/1=216
+HEAD https://modnicy.ua/catalog/sportivnaya-odezhda/params/1=216  fetched in 2.08 seconds
+
+Checking link https://modnicy.ua/product/plate-03057
+HEAD https://modnicy.ua/product/plate-03057 
+-> HEAD https://modnicy.ua/product/plate-03057_zheltyy  fetched in 2.88 seconds
+
+Checking link https://modnicy.ua/catalog/kardigany/params/1=409
+HEAD https://modnicy.ua/catalog/kardigany/params/1=409  fetched in 2.06 seconds
+
+Checking link https://modnicy.ua/tpl/default/js/jquery.fancybox.pack.js?1518794961
+HEAD https://modnicy.ua/tpl/default/js/jquery.fancybox.pack.js?1518794961  fetched in 1.46 seconds
+
+Checking link https://modnicy.ua/tpl/default/js/jquery-1.11.1.min.js?1518794961
+HEAD https://modnicy.ua/tpl/default/js/jquery-1.11.1.min.js?1518794961  fetched in 1.12 seconds
+
+Checking link https://modnicy.ua/catalog/verhnyaya-odezhda/params/1=244
+HEAD https://modnicy.ua/catalog/verhnyaya-odezhda/params/1=244  fetched in 2.05 seconds
+
+Checking link https://modnicy.ua/catalog/plyazhnaya-odezhda/params/1=253
+HEAD https://modnicy.ua/catalog/plyazhnaya-odezhda/params/1=253  fetched in 2.13 seconds
+
+Checking link https://modnicy.ua/catalog/kardigany/params/1=253
+HEAD https://modnicy.ua/catalog/kardigany/params/1=253  fetched in 1.96 seconds
+
+Checking link https://modnicy.ua/catalog/plyazhnaya-odezhda/params/1=273
+HEAD https://modnicy.ua/catalog/plyazhnaya-odezhda/params/1=273  fetched in 2.48 seconds
+
+Checking link https://modnicy.ua/catalog/outlet/params/1=258
+HEAD https://modnicy.ua/catalog/outlet/params/1=258  fetched in 1.66 seconds
+
+Checking link https://modnicy.ua/tpl/default/js/bxslider/jquery.bxslider.js?1518794962
+HEAD https://modnicy.ua/tpl/default/js/bxslider/jquery.bxslider.js?1518794962  fetched in 1.49 seconds
+
+Checking link https://modnicy.ua/files/catalog/icon239.png
+HEAD https://modnicy.ua/files/catalog/icon239.png  fetched in 1.70 seconds
+
+Checking link https://modnicy.ua/catalog/yubki/params/1=372
+HEAD https://modnicy.ua/catalog/yubki/params/1=372  fetched in 2.09 seconds
+
+Checking link https://modnicy.ua/catalog/novinki-271/params/1=372
+HEAD https://modnicy.ua/catalog/novinki-271/params/1=372  fetched in 3.44 seconds
+
+Checking link https://modnicy.ua/catalog/novinki-271/params/1=422
+HEAD https://modnicy.ua/catalog/novinki-271/params/1=422  fetched in 3.89 seconds
+
+Checking link https://modnicy.ua/catalog/platya/params/1=244
+HEAD https://modnicy.ua/catalog/platya/params/1=244  fetched in 2.09 seconds
+
+Checking link https://modnicy.ua/catalog/bluzki/params/1=230
+HEAD https://modnicy.ua/catalog/bluzki/params/1=230  fetched in 2.02 seconds
+
+Checking link https://modnicy.ua/catalog/kardigany/params/1=167
+HEAD https://modnicy.ua/catalog/kardigany/params/1=167  fetched in 2.07 seconds
+
+Checking link https://modnicy.ua/tpl/default/files/favicon/favicon-16x16.png
+HEAD https://modnicy.ua/tpl/default/files/favicon/favicon-16x16.png  fetched in 1.12 seconds
+
+Processed in 2026.99 seconds.
+
+
+
+
